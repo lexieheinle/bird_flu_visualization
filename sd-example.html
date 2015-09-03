@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Bird Flu</title>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+</head>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+
+<body>
+  <h1>South Dakota example</h1>
+  <style>
+    .chart rect {
+      fill: steelblue;
+    }
+    
+    .chart text {
+      fill: black;
+      font: 10px sans-serif;
+      text-anchor: middle;
+    }
+  </style>
+  <svg class="chart"></svg>
+  <script type="text/javascript">
+    var SoDak = [
+      {
+        county: 'Moody',
+        flockSize: 52000
+      },
+      {
+        county: 'Moody',
+        flockSize: 642700
+      },
+      {
+        county: 'Yankton',
+        flockSize: 70600
+      },
+      {
+        county: "Hutchinson",
+        flockSize: 70600
+      },
+      {
+        county: "Spink",
+        flockSize: 33300
+      },
+      {
+        county: "Roberts",
+        flockSize: 66600
+      },
+      {
+        county: "McPherson",
+        flockSize: 55200
+      },
+      {
+        county: "McCook",
+        flockSize: 54700
+      },
+      {
+        county: "Kingsbury",
+        flockSize: 71900
+      },
+      {
+        county: "Beadle",
+        flockSize: 50600
+      }
+].sort(function (obj1, obj2) {
+      // Ascending: first flock less than the previous
+      return obj1.flockSize - obj2.flockSize;
+    });
+    var width = 960,
+      height = 1000;
+    barWidth = width / SoDak.length;
+    var x = d3.scale.ordinal()
+      .rangeRoundBands([0, width]);
+    var xAxis = d3.svg.axis()
+      .scale(x)
+      .orient("top");
+    var y = d3.scale.linear()
+      .range([0, height]); //possible change [height, 0]
+    //change attributes of chart
+    var chart = d3.select(".chart")
+      .attr("width", width)
+      .attr("height", height)
+      .data(SoDak)
+      //make rectangles
+    var bar = chart.selectAll("g")
+      .data(SoDak)
+      .enter().append("g")
+      .attr("transform", function (d, i) { //move rectangles over
+        return "translate(" + i * barWidth + "," + 0 + ")";
+      });
+
+    y.domain([0, d3.max(function (d) {
+      return d.flockSize;
+    })]);
+    x.domain(SoDak.map(function (d) {
+      return d.county;
+    }));
+    //fiddling with that chart axis
+    chart.append("g")
+      .attr("x", (barWidth / 2) + 1)
+      .attr("y", function (d) {
+        console.log(d);
+        if (d.flockSize < 100000) { //adjust for magnitude
+          return height - (d.flockSize / 1000) - 100;
+        } else {
+          return height - (d.flockSize / 10000) - 100;
+        };
+      })
+      .attr("class", "x axis")
+      .attr("transform", function (d, i) { //move rectangles over
+        console.log(d);
+        return "translate(" + 0 + "," + 1000 + ")";
+      })
+      .call(xAxis);
+    //add rectangles
+    bar.append("rect")
+      .attr('y', function (d) {
+        return height - (d.flockSize / 100); //Must calculate height by subtracting flock size
+      })
+      .attr('height', function (d) {
+        return (d.flockSize / 100);
+      })
+      .attr("width", function (d) {
+        return barWidth - 1
+      });
+    //size labels
+    bar.append("text")
+      .attr("x", barWidth / 2)
+      .attr("y", function (d) {
+        if (d.flockSize < 100000) { //adjust for magnitude
+          return height - (d.flockSize / 1000) - 150;
+        } else {
+          return height - (d.flockSize / 10000) - 150;
+        };
+      })
+      .attr("dy", ".75em")
+      .text(function (d) {
+        return d.flockSize;
+      });
+    //county labels
+    bar.append("text")
+      .attr("x", barWidth / 2)
+      .attr("y", function (d) {
+        if (d.flockSize < 100000) { //adjust for magnitude
+          return height - (d.flockSize / 1000) - 100;
+        } else {
+          return height - (d.flockSize / 10000) - 100;
+        };
+      })
+      .attr("dy", ".75em")
+      .text(function (d) {
+        return d.county;
+      });
+
+    function type(d) {
+      d.flockSize = +d.flockSize;
+      return d;
+    }
+  </script>
+
+</body>
+
+</html>
