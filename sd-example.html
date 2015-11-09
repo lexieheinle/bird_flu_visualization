@@ -26,11 +26,7 @@
         var SoDak = [
             {
                 county: 'Moody',
-                flockSize: 52000
-      },
-            {
-                county: 'Moody',
-                flockSize: 642700
+                flockSize: 694700
       },
             {
                 county: 'Yankton',
@@ -72,7 +68,7 @@
                 top: 20,
                 right: 30,
                 bottom: 30,
-                left: 20,
+                left: 80,
             },
             width = 960 - margin.left - margin.right,
             height = 1000 - margin.top - margin.bottom,
@@ -92,14 +88,15 @@
         //make rectangles
         var yScale = d3.scale.linear()
             .domain([0, d3.max(SoDak, function (d) {
+                console.log(d.flockSize);
                 return d.flockSize;
-            }) + 100])
-            .range([height, 0]);
+            })])
+            .range([0, height]);
         var xScale = d3.scale.ordinal()
             .domain(SoDak.map(function (d) {
                 return d.county;
             }))
-            .rangeRoundBands([0, width], 0.1);
+            .rangeRoundBands([0, width], 0.2);
         var yAxis = d3.svg.axis()
             .scale(yScale)
             .orient("left");
@@ -114,11 +111,15 @@
         bar.append("rect")
             .attr({
                 class: "flockSize",
-                y: 0,
-                x: 0,
-                width: barWidth,
-                height: function (d) {
+                y: function (d) {
                     return height - yScale(d.flockSize);
+                },
+                x: function (d, i) {
+                    return xScale(i);
+                },
+                width: xScale.rangeBand(),
+                height: function (d) {
+                    return yScale(d.flockSize);
                 },
                 fill: "#FF514B",
                 transform: function (d) {
@@ -126,14 +127,43 @@
                 },
             })
             //size labels
-
+        var yLine = chart.append('g')
+            .call(yAxis)
+            .attr({
+                class: "axis yAxis"
+            })
+            .selectAll("text")
+            .style("text-anchor", "end")
+            .attr({
+                dx: "-.8em",
+                dy: ".25em"
+            })
+            .append("text") //not appearing
+            .attr({
+                class: "yTitle",
+                x: width / 2,
+                y: margin.bottom - 5
+            });
+        var xLine = chart.append("g")
+            .call(xAxis)
+            .attr({
+                class: "axis yAxis",
+                transform: "translate(0," + height + ")"
+            })
+            .append("text")
+            .attr({
+                x: width / 2,
+                y: margin.bottom - 5
+            });
 
         function type(d) {
             d.flockSize = +d.flockSize;
             return d;
         }
     </script>
-
+    <div>
+        <iframe src="http://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1dj3houOLjmuMDmRgIfGz5NNIcCzBZkXYDBkrLo7QZfo&font=Playfair&lang=en&initial_zoom=2&height=650" width="100%" height="650" frameborder="0"></iframe>
+    </div>
 </body>
 
 </html>
