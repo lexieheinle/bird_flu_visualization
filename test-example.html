@@ -30,11 +30,13 @@
     </style>
     <svg class="overviewChart"></svg>
     <svg class="exampleChart"></svg>
+    <svg class="stateChart"></svg>
     <script type="text/javascript">
+        //create slug for dropdown
         function slugify(x) {
             return x.toLowerCase().replace(" ", "-");
         };
-
+        //separates counties into states
         function groupBy(items, propertyName) {
             var result = [];
             $.each(items, function (index, item) {
@@ -44,9 +46,9 @@
             });
             return result.valueOf();
         };
-
+        //creates grouped states
         var uniqueStates = groupBy(birdFlu, 'State');
-        console.log(uniqueStates);
+        //populate dropdown menu
         for (i = 0; i < uniqueStates.length; i++) {
             var option = document.createElement("option");
             option.text = uniqueStates[i];
@@ -54,18 +56,17 @@
             var select = document.getElementById("select_state");
             select.appendChild(option);
         }
-
+        //loads dropdown copy
         function stateInfo(unState) {
             var result = " ";
             for (i = 0; i < birdFlu.length; i++) {
                 if (unState === birdFlu[i].State) {
                     result += birdFlu[i].County + ", " + birdFlu[i]["Flock size"] + " ";
-                    //result.push(birdFlu[i]["Flock size"]);
                 }
             }
             return result;
         }
-
+        //changes dropdown content
         function getState(x) {
             var d = document.getElementById('display');
             if (x === ' ') {
@@ -78,7 +79,7 @@
                 }
             }
         }
-
+        //standardize json
         function cleanUp() {
             for (i = 0; i < birdFlu.length; i++) {
                 var regexComma = new RegExp(',', "g");
@@ -86,13 +87,13 @@
                 if (birdFlu[i]["Flock size"] !== "pending") {
                     birdFlu[i]["Flock size"] = parseFloat(newNum);
                 };
-                console.log(birdFlu[i]["Flock size"])
             }
         };
 
         cleanUp()
     </script>
     <script type="text/javascript">
+        //calculate total birds for each state
         var statesTotal = [];
         for (i = 0; i < uniqueStates.length; i++) {
             stateTotal = 0
@@ -106,17 +107,15 @@
                 }
 
             }
-            console.log(stateTotal);
             statesTotal.push({
                 state: uniqueStates[i],
                 total: stateTotal
             });
-            console.log(uniqueStates[i]);
         }
+        //smallest to largest infected flocks
         statesTotal.sort(function (obj1, obj2) {
             return obj1.total - obj2.total;
         });
-        console.log(statesTotal);
         var margin = {
                 top: 20,
                 right: 30,
@@ -225,6 +224,144 @@
             d.total = +d.total;
             return d;
         }
+    </script>
+    <script type="text/javascript">
+        //calculate total birds for each state
+        function getStateChart(state) {
+            var stateMatch = [].sort(function (obj1, obj2) {
+                // Ascending: first flock less than the previous
+                return obj1.flockSize - obj2.flockSize;
+            });;
+            for (j = 0; j < birdFlu.length; j++) {
+                if (birdFlu[j].State == state) {
+                    if (birdFlu[j]["Flock size"] == "pending") {
+                        console.log(birdFlu[j].State + " has a pending flock.")
+                    } else {
+                        stateMatch.push({
+                            county: birdFlu[j].County,
+                            flockSize: birdFlu[j]["Flock size"]
+                        });
+                    };
+                }
+            }
+            console.log(stateMatch.sort(function (obj1, obj2) {
+                return obj1.flockSize - obj2.flockSize;
+            }));
+            //smallest to largest infected flocks
+            stateMatch.sort(function (obj1, obj2) {
+                return obj1.flockSize - obj2.flockSize;
+            });
+
+            var margin = {
+                    top: 20,
+                    right: 30,
+                    bottom: 30,
+                    left: 100,
+                },
+                width = 960 - margin.left - margin.right,
+                height = 1000 - margin.top - margin.bottom,
+                barWidth = width / stateMatch.length;
+            //change attributes of chart
+            var chart = d3.select(".stateChart")
+                .attr({
+                    //preserveAspectRatio: "xMinYMin slice",
+                    //viewBox: "0 0" + " " + 960 + " " + 1000,
+                    width: width + margin.left + margin.right,
+                    height: height + margin.top + margin.bottom
+                })
+                .append("g")
+                .attr({
+                    transform: "translate(" + margin.left + "," + margin.top + ")"
+                }); //website to update data: http://jsfiddle.net/spanndemic/5JRMt/
+            var tipTotal = d3.tip()
+                .attr({
+                    class: "d3-tip"
+                })
+                .offset([0, 0])
+                .html(function (d) {
+                    return "<strong>Flock size:</strong> <span style='color:#39E8BB'>" + d.flockSize + "</span>";
+                });
+            chart.call(tipTotal);
+            //make rectangles
+            var yScale = d3.scale.linear()
+                .domain([0, d3.max(stateMatch, function (d) {
+                    console.log(d.flockSize);
+                    return d.flockSize;
+                })])
+                .range([height, 0]);
+            var xScale = d3.scale.ordinal()
+                .domain(stateMatch.map(function (d) {
+                    return d.county;
+                }))
+                .rangeRoundBands([0, width], 0.3);
+            var yAxis = d3.svg.axis()
+                .scale(yScale)
+                .orient("left");
+            var xAxis = d3.svg.axis()
+                .scale(xScale)
+                .orient("bottom");
+
+            var bar = chart.selectAll("g")
+                .data(stateMatch)
+                .enter().append("g");
+            //add rectangles
+            bar.append("rect")
+                .attr({
+                    class: "flockSize",
+                    y: function (d) {
+                        return yScale(d.flockSize);
+                    },
+                    x: function (d, i) {
+                        return xScale(i);
+                    },
+                    width: xScale.rangeBand(),
+                    height: function (d) {
+                        return height - yScale(d.flockSize);
+                    },
+                    fill: "#FF514B",
+                    transform: function (d) {
+                        return "translate(" + xScale(d.county) + ",0)";
+                    },
+                })
+                .on('mouseover', function (d) {
+                    tipTotal.show(d);
+                });
+            //size labels
+            var yLine = chart.append('g')
+                .call(yAxis)
+                .attr({
+                    class: "axis yAxis"
+                })
+                .selectAll("text")
+                .style("text-anchor", "end")
+                .attr({
+                    dx: "-.8em",
+                    dy: ".25em"
+                })
+                .append("text") //not appearing
+                .attr({
+                    class: "yTitle",
+                    x: width / 2,
+                    y: margin.bottom - 5
+                });
+            var xLine = chart.append("g")
+                .call(xAxis)
+                .attr({
+                    class: "axis yAxis",
+                    transform: "translate(0," + height + ")"
+                })
+                .append("text")
+                .attr({
+                    x: width / 2,
+                    y: margin.bottom - 5
+                });
+
+            function type(d) {
+                d.flockSize = +d.flockSize;
+                return d;
+            }
+        }
+        getStateChart("South Dakota");
     </script>
 
     <script type="text/javascript">
