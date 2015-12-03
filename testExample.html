@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Bird Flu</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+</head>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="birdData.js"></script>
+<script src="birdChart.js"></script>
+<script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+
+<body>
+    <h1>South Dakota example</h1>
+    <span id="display"></span>&ensp;
+    <select id="select_state" onchange="getState(this.value)">
+        <option value="">-- select a state--</option>
+    </select>
+    <style>
+        .exampleChart rect {
+            fill: steelblue;
+        }
+        
+        .overviewChart text {
+            fill: black;
+            font: 10px sans-serif;
+            text-anchor: middle;
+        }
+    </style>
+    <svg class="overviewChart"></svg>
+    <svg class="exampleChart"></svg>
+    <svg class="stateChart"></svg>
+    <script type="text/javascript">
+        //create slug for dropdown
+        function slugify(x) {
+            return x.toLowerCase().replace(" ", "-");
+        };
+        //separates counties into states
+        function groupBy(items, propertyName) {
+            var result = [];
+            $.each(items, function (index, item) {
+                if ($.inArray(item[propertyName], result) == -1) {
+                    result.push(item[propertyName]);
+                }
+            });
+            return result.valueOf();
+        };
+        //creates grouped states
+        var uniqueStates = groupBy(birdFlu, 'State');
+        //populate dropdown menu
+        for (i = 0; i < uniqueStates.length; i++) {
+            var option = document.createElement("option");
+            option.text = uniqueStates[i];
+            option.value = slugify(uniqueStates[i]);
+            var select = document.getElementById("select_state");
+            select.appendChild(option);
+        }
+        //loads dropdown copy
+        function stateInfo(unState) {
+            var result = " ";
+            for (i = 0; i < birdFlu.length; i++) {
+                if (unState === birdFlu[i].State) {
+                    result += birdFlu[i].County + ", " + birdFlu[i]["Flock size"] + " ";
+                }
+            }
+            return result;
+        }
+        //changes dropdown content
+        function getState(x) {
+            var d = document.getElementById('display');
+            if (x === ' ') {
+                d.innerHTML = ' '
+            } else {
+                for (i = 0; i < uniqueStates.length; i++) {
+                    if (x === slugify(uniqueStates[i])) {
+                        d.innerHTML = stateInfo(uniqueStates[i]);
+                    }
+                }
+            }
+        }
+        //standardize json
+        function cleanUp() {
+            for (i = 0; i < birdFlu.length; i++) {
+                var regexComma = new RegExp(',', "g");
+                var newNum = birdFlu[i]["Flock size"].replace(regexComma, '').replace('.', '');
+                if (birdFlu[i]["Flock size"] !== "pending") {
+                    birdFlu[i]["Flock size"] = parseFloat(newNum);
+                };
+            }
+        };
+
+        cleanUp()
+    </script>
+    <script type="text/javascript">
+        //calculate total birds for each state
+        var dispatch = d3.dispatch('load', 'statechange');
+        dispatch.on("load.menu")
+
+        function getStateChart(state) {
+            var stateMatch = [].sort(function (obj1, obj2) {
+                // Ascending: first flock less than the previous
+                return obj1.flockSize - obj2.flockSize;
+            });;
+            for (j = 0; j < birdFlu.length; j++) {
+                if (birdFlu[j].State == state) {
+                    if (birdFlu[j]["Flock size"] == "pending") {
+                        console.log(birdFlu[j].State + " has a pending flock.")
+                    } else {
+                        stateMatch.push({
+                            county: birdFlu[j].County,
+                            flockSize: birdFlu[j]["Flock size"]
+                        });
+                    };
+                }
+            }
+            console.log(stateMatch.sort(function (obj1, obj2) {
+                return obj1.flockSize - obj2.flockSize;
+            }));
+            //smallest to largest infected flocks
+            stateMatch.sort(function (obj1, obj2) {
+                return obj1.flockSize - obj2.flockSize;
+            });
+
+            function updateChart(stateMatch) {
+                var margin = {
+                        top: 20,
+                        right: 30,
+                        bottom: 30,
+                        left: 100,
+                    },
+                    width = 960 - margin.left - margin.right,
+                    height = 1000 - margin.top - margin.bottom,
+                    barWidth = width / stateMatch.length;
+                //change attributes of chart
+                var chart = d3.select(".stateChart")
+                    .attr({
+                        //preserveAspectRatio: "xMinYMin slice",
+                        //viewBox: "0 0" + " " + 960 + " " + 1000,
+                        width: width + margin.left + margin.right,
+                        height: height + margin.top + margin.bottom
+                    })
+                    .append("g")
+                    .attr({
+                        transform: "translate(" + margin.left + "," + margin.top + ")"
+                    }); //website to update data: http://jsfiddle.net/spanndemic/5JRMt/
+
+                var tipTotal = d3.tip()
+                    .attr({
+                        class: "d3-tip"
+                    })
+                    .offset([0, 0])
+                    .html(function (d) {
+                        return "<strong>Flock size:</strong> <span style='color:#39E8BB'>" + d.flockSize + "</span>";
+                    });
+                chart.call(tipTotal);
+                //make rectangles
+                var yScale = d3.scale.linear()
+                    .domain([0, d3.max(stateMatch, function (d) {
+                        console.log(d.flockSize);
+                        return d.flockSize;
+                    })])
+                    .range([height, 0]);
+                var xScale = d3.scale.ordinal()
+                    .domain(stateMatch.map(function (d) {
+                        return d.county;
+                    }))
+                    .rangeRoundBands([0, width], 0.3);
+                var yAxis = d3.svg.axis()
+                    .scale(yScale)
+                    .orient("left");
+                var xAxis = d3.svg.axis()
+                    .scale(xScale)
+                    .orient("bottom");
+
+                var bar = chart.selectAll("g")
+                    .data(stateMatch)
+                    .enter().append("g");
+                //add rectangles
+                bar.append("rect")
+                    .attr({
+                        class: "flockSize",
+                        y: function (d) {
+                            return yScale(d.flockSize);
+                        },
+                        x: function (d, i) {
+                            return xScale(i);
+                        },
+                        width: xScale.rangeBand(),
+                        height: function (d) {
+                            return height - yScale(d.flockSize);
+                        },
+                        fill: "#FF514B",
+                        transform: function (d) {
+                            return "translate(" + xScale(d.county) + ",0)";
+                        },
+                    })
+                    .on('mouseover', function (d) {
+                        tipTotal.show(d);
+                    });
+                //size labels
+                var yLine = chart.append('g')
+                    .call(yAxis)
+                    .attr({
+                        class: "axis yAxis"
+                    })
+                    .selectAll("text")
+                    .style("text-anchor", "end")
+                    .attr({
+                        dx: "-.8em",
+                        dy: ".25em"
+                    })
+                    .append("text") //not appearing
+                    .attr({
+                        class: "yTitle",
+                        x: width / 2,
+                        y: margin.bottom - 5
+                    });
+                var xLine = chart.append("g")
+                    .call(xAxis)
+                    .attr({
+                        class: "axis yAxis",
+                        transform: "translate(0," + height + ")"
+                    })
+                    .append("text")
+                    .attr({
+                        x: width / 2,
+                        y: margin.bottom - 5
+                    });
+
+                function type(d) {
+                    d.flockSize = +d.flockSize;
+                    return d;
+                }
+                chart.exit().remove();
+            }
+        };
+        getStateChart("South Dakota");
+        d3.select('#display')
+            .on('change', function () {
+                var state = eval(d3.select(this).property('value'));
+                getStateChart(state);
+            });
+    </script>
+
+    <script type="text/javascript">
+        var SoDak = [
+            {
+                county: 'Moody',
+                flockSize: 694700
+      },
+            {
+                county: 'Yankton',
+                flockSize: 70600
+      },
+            {
+                county: "Hutchinson",
+                flockSize: 70600
+      },
+            {
+                county: "Spink",
+                flockSize: 33300
+      },
+            {
+                county: "Roberts",
+                flockSize: 66600
+      },
+            {
+                county: "McPherson",
+                flockSize: 55200
+      },
+            {
+                county: "McCook",
+                flockSize: 54700
+      },
+            {
+                county: "Kingsbury",
+                flockSize: 71900
+      },
+            {
+                county: "Beadle",
+                flockSize: 50600
+      }
+].sort(function (obj1, obj2) {
+            // Ascending: first flock less than the previous
+            return obj1.flockSize - obj2.flockSize;
+        });
+        var margin = {
+                top: 20,
+                right: 30,
+                bottom: 30,
+                left: 80,
+            },
+            width = 960 - margin.left - margin.right,
+            height = 1000 - margin.top - margin.bottom,
+            barWidth = width / SoDak.length;
+        //change attributes of chart
+        var chart = d3.select(".exampleChart")
+            .attr({
+                //preserveAspectRatio: "xMinYMin slice",
+                //viewBox: "0 0" + " " + 960 + " " + 1000,
+                width: width + margin.left + margin.right,
+                height: height + margin.top + margin.bottom
+            })
+            .append("g")
+            .attr({
+                transform: "translate(" + margin.left + "," + margin.top + ")"
+            });
+        //make rectangles
+        var yScale = d3.scale.linear()
+            .domain([0, d3.max(SoDak, function (d) {
+                console.log(d.flockSize);
+                return d.flockSize;
+            })])
+            .range([height, 0]);
+        var xScale = d3.scale.ordinal()
+            .domain(SoDak.map(function (d) {
+                return d.county;
+            }))
+            .rangeRoundBands([0, width], 0.2);
+        var yAxis = d3.svg.axis()
+            .scale(yScale)
+            .orient("left");
+        var xAxis = d3.svg.axis()
+            .scale(xScale)
+            .orient("bottom");
+
+        var bar = chart.selectAll("g")
+            .data(SoDak)
+            .enter().append("g");
+        //add rectangles
+        bar.append("rect")
+            .attr({
+                class: "flockSize",
+                y: function (d) {
+                    return yScale(d.flockSize);
+                },
+                x: function (d, i) {
+                    return xScale(i);
+                },
+                width: xScale.rangeBand(),
+                height: function (d) {
+                    return height - yScale(d.flockSize);
+                },
+                fill: "#FF514B",
+                transform: function (d) {
+                    return "translate(" + xScale(d.county) + ",0)";
+                },
+            })
+            //size labels
+        var yLine = chart.append('g')
+            .call(yAxis)
+            .attr({
+                class: "axis yAxis"
+            })
+            .selectAll("text")
+            .style("text-anchor", "end")
+            .attr({
+                dx: "-.8em",
+                dy: ".25em"
+            })
+            .append("text") //not appearing
+            .attr({
+                class: "yTitle",
+                x: width / 2,
+                y: margin.bottom - 5
+            });
+        var xLine = chart.append("g")
+            .call(xAxis)
+            .attr({
+                class: "axis yAxis",
+                transform: "translate(0," + height + ")"
+            })
+            .append("text")
+            .attr({
+                x: width / 2,
+                y: margin.bottom - 5
+            });
+
+        function type(d) {
+            d.flockSize = +d.flockSize;
+            return d;
+        }
+    </script>
+</body>
+
+</html>
