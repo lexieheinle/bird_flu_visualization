@@ -14,9 +14,9 @@
 <body>
     <h1>South Dakota example</h1>
     <span id="display"></span>&ensp;
-    <select id="select_state" onchange="getState(this.value)">
-        <option value="">-- select a state--</option>
-    </select>
+<select id="select_state" onchange="getState(this.value)">
+    <option value="">-- select a state--</option>
+</select>
     <style>
         .exampleChart rect {
             fill: steelblue;
@@ -27,9 +27,81 @@
             font: 10px sans-serif;
             text-anchor: middle;
         }
+        
+        .timeChart text {
+            fill: black;
+            font: 10px sans-serif;
+            text-anchor: middle;
+        }
+        
+        .axis path,
+        .axis line {
+            fill: none;
+            stroke: #000;
+            shape-rendering: crispEdges;
+        }
+        
+        .bar {
+            fill: orange;
+        }
+        
+        .bar: hover {
+            fill: orangered;
+        }
+        
+        .x.axis path {
+            display: none;
+        }
+        
+        .d3-tip {
+            line-height: 1;
+            font-weight: bold;
+            padding: 12px;
+            background: rgba(0, 0, 0, 0.8);
+            color: #fff;
+            border-radius: 2px;
+        }
+        /* Creates a small triangle extender for the tooltip */
+        
+        .d3-tip: after {
+            box-sizing: border-box;
+            display: inline;
+            font-size: 10px;
+            width: 100%;
+            line-height: 1;
+            color: rgba(0, 0, 0, 0.8);
+            content: "\25BC";
+            position: absolute;
+            text-align: center;
+        }
+        /* Style northward tooltips differently */
+        
+        .d3-tip.n: after {
+            margin: -1px 0 0 0;
+            top: 100%;
+            left: 0;
+        }
+        
+        path {
+            stroke: #f05f40;
+            stroke-width: 2;
+            fill: none;
+        }
+        
+        .axis path,
+        .axis line {
+            fill: none;
+            stroke: grey;
+            stroke-width: 1;
+            shape-rendering: crispEdges;
+        }
+        
+        text {
+            font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+        }
     </style>
     <svg class="overviewChart"></svg>
-    <svg class="exampleChart"></svg>
+    <svg class="timeChart"></svg>
     <svg class="stateChart"></svg>
     <script type="text/javascript">
         //creates grouped states
@@ -141,7 +213,7 @@
             .attr({
                 class: "d3-tip"
             })
-            .offset([0, 0])
+            .offset([-10, 0])
             .html(function (d) {
                 return "<strong>Flock size:</strong> <span style='color:#39E8BB'>" + d.total + "</span>";
             });
@@ -149,7 +221,6 @@
         //make rectangles
         var yScale = d3.scale.linear()
             .domain([0, d3.max(statesTotal, function (d) {
-                console.log(d.total);
                 return d.total;
             })])
             .range([height, 0]);
@@ -189,49 +260,27 @@
             })
             .on('mouseover', function (d) {
                 tipTotal.show(d);
-            });
-        bar.append('text')
-            .attr({
-                class: "flockSizeLabel",
-                y: function (d) {
-                    return yScale(d.total) - 20;
-                },
-                x: function (d, i) {
-                    return xScale(i);
-                },
-                transform: function (d) {
-                    return "translate(" + xScale(d.state) + ",0)";
-                },
             })
-            .text(function (d) {
-                return "Flock size: " + d.total;
+            .on('mouseout', function (d) {
+                tipTotal.hide(d)
             });
+
         //size labels
         var yLine = chart.append('g')
             .call(yAxis)
             .attr({
-                class: "axis yAxis"
+                class: "y axis"
             })
             .selectAll("text")
-            .style('pointer-events', 'visiblePainted') //http://plnkr.co/edit/GQjI3MkJGaFGn3BTvcYy?p=preview website for axis hover
             .style("text-anchor", "end")
             .attr({
                 dx: "-.8em",
                 dy: ".25em"
-            })
-            .on('mouseover', function (d) {
-                tipTotal.show(d);
-            })
-            .append("text") //not appearing
-            .attr({
-                class: "yTitle",
-                x: width / 2,
-                y: margin.bottom - 5
             });
         var xLine = chart.append("g")
             .call(xAxis)
             .attr({
-                class: "axis yAxis",
+                class: "x axis",
                 transform: "translate(0," + height + ")"
             })
             .append("text")
@@ -239,216 +288,36 @@
                 x: width / 2,
                 y: margin.bottom - 5
             });
+        var titleTips = d3.selectAll('.x .tick')
+            .data(statesTotal)
+            .on('mouseover', function (d) {
+                tipTotal.show(d);
+            });
 
         function type(d) {
             d.total = +d.total;
             return d;
         }
-    </script>
-    <script type="text/javascript">
-        //calculate total birds for each state
-        var dispatch = d3.dispatch('load', 'statechange');
-        dispatch.on("load.menu")
-
-        function getStateChart(state) {
-            var stateMatch = [].sort(function (obj1, obj2) {
-                // Ascending: first flock less than the previous
-                return obj1.flockSize - obj2.flockSize;
-            });;
-            for (j = 0; j < birdFlu.length; j++) {
-                if (birdFlu[j].State == state) {
-                    if (birdFlu[j]["Flock size"] == "pending") {
-                        console.log(birdFlu[j].State + " has a pending flock.")
-                    } else {
-                        stateMatch.push({
-                            county: birdFlu[j].County,
-                            flockSize: birdFlu[j]["Flock size"]
-                        });
-                    };
-                }
-            }
-            console.log(stateMatch.sort(function (obj1, obj2) {
-                return obj1.flockSize - obj2.flockSize;
-            }));
-            //smallest to largest infected flocks
-            stateMatch.sort(function (obj1, obj2) {
-                return obj1.flockSize - obj2.flockSize;
-            });
-
-            function updateChart(stateMatch) {
-                var margin = {
-                        top: 20,
-                        right: 30,
-                        bottom: 30,
-                        left: 100,
-                    },
-                    width = 960 - margin.left - margin.right,
-                    height = 1000 - margin.top - margin.bottom,
-                    barWidth = width / stateMatch.length;
-                //change attributes of chart
-                var chart = d3.select(".stateChart")
-                    .attr({
-                        //preserveAspectRatio: "xMinYMin slice",
-                        //viewBox: "0 0" + " " + 960 + " " + 1000,
-                        width: width + margin.left + margin.right,
-                        height: height + margin.top + margin.bottom
-                    })
-                    .append("g")
-                    .attr({
-                        transform: "translate(" + margin.left + "," + margin.top + ")"
-                    }); //website to update data: http://jsfiddle.net/spanndemic/5JRMt/
-
-                var tipTotal = d3.tip()
-                    .attr({
-                        class: "d3-tip"
-                    })
-                    .offset([0, 0])
-                    .html(function (d) {
-                        return "<strong>Flock size:</strong> <span style='color:#39E8BB'>" + d.flockSize + "</span>";
-                    });
-                chart.call(tipTotal);
-                //make rectangles
-                var yScale = d3.scale.linear()
-                    .domain([0, d3.max(stateMatch, function (d) {
-                        console.log(d.flockSize);
-                        return d.flockSize;
-                    })])
-                    .range([height, 0]);
-                var xScale = d3.scale.ordinal()
-                    .domain(stateMatch.map(function (d) {
-                        return d.county;
-                    }))
-                    .rangeRoundBands([0, width], 0.3);
-                var yAxis = d3.svg.axis()
-                    .scale(yScale)
-                    .orient("left");
-                var xAxis = d3.svg.axis()
-                    .scale(xScale)
-                    .orient("bottom");
-
-                var bar = chart.selectAll("g")
-                    .data(stateMatch)
-                    .enter().append("g");
-                //add rectangles
-                bar.append("rect")
-                    .attr({
-                        class: "flockSize",
-                        y: function (d) {
-                            return yScale(d.flockSize);
-                        },
-                        x: function (d, i) {
-                            return xScale(i);
-                        },
-                        width: xScale.rangeBand(),
-                        height: function (d) {
-                            return height - yScale(d.flockSize);
-                        },
-                        fill: "#FF514B",
-                        transform: function (d) {
-                            return "translate(" + xScale(d.county) + ",0)";
-                        },
-                    })
-                    .on('mouseover', function (d) {
-                        tipTotal.show(d);
-                    });
-                //size labels
-                var yLine = chart.append('g')
-                    .call(yAxis)
-                    .attr({
-                        class: "axis yAxis"
-                    })
-                    .selectAll("text")
-                    .style("text-anchor", "end")
-                    .attr({
-                        dx: "-.8em",
-                        dy: ".25em"
-                    })
-                    .append("text") //not appearing
-                    .attr({
-                        class: "yTitle",
-                        x: width / 2,
-                        y: margin.bottom - 5
-                    });
-                var xLine = chart.append("g")
-                    .call(xAxis)
-                    .attr({
-                        class: "axis yAxis",
-                        transform: "translate(0," + height + ")"
-                    })
-                    .append("text")
-                    .attr({
-                        x: width / 2,
-                        y: margin.bottom - 5
-                    });
-
-                function type(d) {
-                    d.flockSize = +d.flockSize;
-                    return d;
-                }
-                chart.exit().remove();
-            }
+        //start time chart
+        //right here
+        var cleanFlocks = [];
+        for (i = 0; i < birdFlu.length; i++) {
+            if (birdFlu[i]["Flock size"] != 'pending') {
+                cleanFlocks.push(birdFlu[i])
+            };
         };
-        getStateChart("South Dakota");
-        d3.select('#display')
-            .on('change', function () {
-                var state = eval(d3.select(this).property('value'));
-                getStateChart(state);
-            });
-    </script>
-
-    <script type="text/javascript">
-        var SoDak = [
-            {
-                county: 'Moody',
-                flockSize: 694700
-      },
-            {
-                county: 'Yankton',
-                flockSize: 70600
-      },
-            {
-                county: "Hutchinson",
-                flockSize: 70600
-      },
-            {
-                county: "Spink",
-                flockSize: 33300
-      },
-            {
-                county: "Roberts",
-                flockSize: 66600
-      },
-            {
-                county: "McPherson",
-                flockSize: 55200
-      },
-            {
-                county: "McCook",
-                flockSize: 54700
-      },
-            {
-                county: "Kingsbury",
-                flockSize: 71900
-      },
-            {
-                county: "Beadle",
-                flockSize: 50600
-      }
-].sort(function (obj1, obj2) {
-            // Ascending: first flock less than the previous
-            return obj1.flockSize - obj2.flockSize;
-        });
         var margin = {
                 top: 20,
                 right: 30,
                 bottom: 30,
-                left: 80,
+                left: 100,
             },
             width = 960 - margin.left - margin.right,
             height = 1000 - margin.top - margin.bottom,
-            barWidth = width / SoDak.length;
+            barWidth = width / cleanFlocks.length;
+        var parseDate = d3.time.format('%d-%b-%y').parse;
         //change attributes of chart
-        var chart = d3.select(".exampleChart")
+        var chart = d3.select(".timeChart")
             .attr({
                 //preserveAspectRatio: "xMinYMin slice",
                 //viewBox: "0 0" + " " + 960 + " " + 1000,
@@ -459,18 +328,18 @@
             .attr({
                 transform: "translate(" + margin.left + "," + margin.top + ")"
             });
+
         //make rectangles
-        var yScale = d3.scale.linear()
-            .domain([0, d3.max(SoDak, function (d) {
-                console.log(d.flockSize);
-                return d.flockSize;
-            })])
-            .range([height, 0]);
-        var xScale = d3.scale.ordinal()
-            .domain(SoDak.map(function (d) {
-                return d.county;
+        var xScale = d3.time.scale()
+            .domain(d3.extent(cleanFlocks, function (d) {
+                return parseDate(d["Confirmation date"]);
             }))
-            .rangeRoundBands([0, width], 0.2);
+            .range([0, width]);
+        var yScale = d3.scale.linear()
+            .range([height, 0])
+            .domain([0, d3.max(cleanFlocks, function (d) {
+                return d["Flock size"];
+            })]);
         var yAxis = d3.svg.axis()
             .scale(yScale)
             .orient("left");
@@ -478,63 +347,37 @@
             .scale(xScale)
             .orient("bottom");
 
-        var bar = chart.selectAll("g")
-            .data(SoDak)
-            .enter().append("g");
-        //add rectangles
-        bar.append("rect")
-            .attr({
-                class: "flockSize",
-                y: function (d) {
-                    return yScale(d.flockSize);
-                },
-                x: function (d, i) {
-                    return xScale(i);
-                },
-                width: xScale.rangeBand(),
-                height: function (d) {
-                    return height - yScale(d.flockSize);
-                },
-                fill: "#FF514B",
-                transform: function (d) {
-                    return "translate(" + xScale(d.county) + ",0)";
-                },
+        var valueline = d3.svg.line()
+            .x(function (d) {
+                return xScale(parseDate(d["Confirmation date"]));
             })
-            //size labels
-        var yLine = chart.append('g')
+            .y(function (d) {
+                return yScale(d["Flock size"]);
+            });
+        var svg = d3.select(".timeChart")
+            .attr("width", width + margin.left + margin.right)
+            .attr("height", height + margin.top + margin.bottom)
+            .append("g")
+            .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+        svg.append("g")
+            .attr("class", "x axis")
+            .attr("transform", "translate(0," + height + ")")
+            .call(xAxis);
+        svg.append("g")
+            .attr("class", "y axis")
             .call(yAxis)
-            .attr({
-                class: "axis yAxis"
-            })
-            .selectAll("text")
-            .style("text-anchor", "end")
-            .attr({
-                dx: "-.8em",
-                dy: ".25em"
-            })
-            .append("text") //not appearing
-            .attr({
-                class: "yTitle",
-                x: width / 2,
-                y: margin.bottom - 5
-            });
-        var xLine = chart.append("g")
-            .call(xAxis)
-            .attr({
-                class: "axis yAxis",
-                transform: "translate(0," + height + ")"
-            })
             .append("text")
-            .attr({
-                x: width / 2,
-                y: margin.bottom - 5
-            });
-
-        function type(d) {
-            d.flockSize = +d.flockSize;
-            return d;
-        }
+            .attr("transform", "rotate(-90)")
+            .attr("y", 6)
+            .attr("dy", ".71em")
+            .style("text-anchor", "end")
+            .text("Affected birds");
+        svg.append("path")
+            .data(cleanFlocks)
+            .attr("class", "line")
+            .attr("d", valueline(cleanFlocks));
     </script>
+
 </body>
 
 </html>
