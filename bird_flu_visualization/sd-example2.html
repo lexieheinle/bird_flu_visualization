@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Bird Flu</title>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+</head>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+
+<body>
+  <h1>South Dakota example</h1>
+  <style>
+    .chart rect {
+      fill: steelblue;
+    }
+    
+    .chart text {
+      fill: black;
+      font: 10px sans-serif;
+      text-anchor: middle;
+    }
+  </style>
+  <svg class="chart"></svg>
+  <script type="text/javascript">
+    var SoDak = [
+      {
+        county: 'Moody',
+        flockSize: 52000
+      },
+      {
+        county: 'Moody',
+        flockSize: 642700
+      },
+      {
+        county: 'Yankton',
+        flockSize: 70600
+      },
+      {
+        county: "Hutchinson",
+        flockSize: 70600
+      },
+      {
+        county: "Spink",
+        flockSize: 33300
+      },
+      {
+        county: "Roberts",
+        flockSize: 66600
+      },
+      {
+        county: "McPherson",
+        flockSize: 55200
+      },
+      {
+        county: "McCook",
+        flockSize: 54700
+      },
+      {
+        county: "Kingsbury",
+        flockSize: 71900
+      },
+      {
+        county: "Beadle",
+        flockSize: 50600
+      }
+].sort(function (obj1, obj2) {
+      // Ascending: first flock less than the previous
+      return obj1.flockSize - obj2.flockSize;
+    });
+    var margin = {
+        top: 40,
+        right: 20,
+        bottom: 40,
+        left: 40
+      },
+      width = 960 - margin.left - margin.right,
+      height = 1000 - margin.top - margin.bottom,
+      heightAxis = 20,
+      barWidth = width / SoDak.length;
+
+    var x = d3.scale.ordinal()
+      .rangeRoundBands([0, width], .1);
+
+    var y = d3.scale.linear()
+      .range([height, 0]);
+
+    var xAxis = d3.svg.axis()
+      .scale(x)
+      .orient("bottom");
+
+    var yAxis = d3.svg.axis()
+      .scale(y)
+      .orient("left")
+      .ticks(10, "%");
+
+    var svg = d3.select("body").append("svg")
+      .attr("width", width + margin.left + margin.right)
+      .attr("height", height + margin.top + margin.bottom)
+      .append("g")
+      .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
+      .data(SoDak, function (error, data) {
+        if (error) throw error;
+
+        x.domain(SoDak.map(function (d) {
+          return d.county;
+        }));
+        y.domain([0, d3.max(data, function (d) {
+          return d.flockSize;
+        })]);
+
+        svg.append("g")
+          .attr("class", "x axis")
+          .attr("transform", "translate(0," + height + ")")
+          .call(xAxis);
+
+        svg.append("g")
+          .attr("class", "y axis")
+          .call(yAxis)
+          .append("text")
+          .attr("transform", "rotate(-90)")
+          .attr("y", 6)
+          .attr("dy", ".71em")
+          .style("text-anchor", "end")
+          .text("Flock Size");
+
+        svg.selectAll(".bar")
+          .data(data)
+          .enter().append("rect")
+          .attr("class", "bar")
+          .attr("x", function (d) {
+            return x(d.county);
+          })
+          .attr("width", x.rangeBand())
+          .attr("y", function (d) {
+            return y(d.flockSize);
+          })
+          .attr("height", function (d) {
+            return height - y(d.flockSize);
+          });
+      });
+
+    function type(d) {
+      d.flockSize = +d.flockSize;
+      return d;
+    }
+  </script>
+
+</body>
+
+</html>
