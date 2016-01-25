@@ -56,7 +56,8 @@ function drawGraphic() {
       return x(d["Start"]);
     })
     .y(function (d) {
-      return y(d["Time in bed"])
+      console.log(d["Time in bed"]);
+      return y(d["Time in bed"]);
     });
 
   //parse data into columns
@@ -65,9 +66,10 @@ function drawGraphic() {
     if (column == 'Start')
       continue;
     lines[column] = graphic_data.map(function (d) {
+      console.log(d["Time in bed"]);
       return {
         'date': d['Start'],
-        'hours': d[column]
+        'time in bed': d["Time in bed"]
       };
     });
   }
@@ -87,13 +89,13 @@ function drawGraphic() {
     d3.min(d3.entries(lines),
       function (c) {
         return d3.min(c.value, function (v) {
-          var n = v.amt;
+          var n = v["Time in bed"];
           return Math.floor(n);
         });
       }),
     d3.max(d3.entries(lines), function (c) {
       return d3.max(c.value, function (v) {
-        var n = v.amt;
+        var n = v["Time in bed"];
         return Math.ceil(n);
       });
     })
@@ -156,7 +158,7 @@ $(window).load(function () {
       graphic_data.forEach(function (d) {
         d['Start'] = d3.time.format('%Y-%m-%d %X').parse(d['Start']);
         console.log(d['Start']);
-        d["Time in bed"] = d["Time in bed"];
+        d["Time in bed"] = +d["Time in bed"];
         console.log(d['Time in bed']);
       });
 
