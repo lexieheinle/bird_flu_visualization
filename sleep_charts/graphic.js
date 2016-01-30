@@ -56,23 +56,25 @@ function drawGraphic() {
       return x(d["Start"]);
     })
     .y(function (d) {
-      console.log(d["Time in bed"]);
+      //console.log(d["Time in bed"]);
       return y(d["Time in bed"]);
     });
 
   //parse data into columns
   var lines = {};
   for (var column in graphic_data[0]) {
+    console.log(graphic_data[0]);
     if (column == 'Start')
       continue;
     lines[column] = graphic_data.map(function (d) {
-      console.log(d["Time in bed"]);
+      //console.log(d["Time in bed"]);
       return {
         'date': d['Start'],
         'time in bed': d["Time in bed"]
       };
     });
   }
+  console.log(lines);
 
   //draw svg
   var svg = d3.select('#graphic').append('svg')
@@ -145,21 +147,21 @@ $(window).load(function () {
       for (var i = 0; i < nights; i++) {
         if (graphic_data[i]['Time in bed'] != "") {
           hoursEnd = graphic_data[i]['Time in bed'].indexOf(':');
-          console.log(graphic_data[i]['Time in bed'].substring(0, hoursEnd));
+          //console.log(graphic_data[i]['Time in bed'].substring(0, hoursEnd));
           timeLength = graphic_data[i]['Time in bed'].length;
           minutes = graphic_data[i]['Time in bed'].substring((hoursEnd + 1), timeLength);
           hoursFraction = +((parseInt(minutes) / 60).toFixed(2));
-          console.log(hoursFraction);
+          //console.log(hoursFraction);
           newTime = parseInt(graphic_data[i]['Time in bed'].substring(0, hoursEnd)) + hoursFraction;
-          console.log(newTime);
+          //console.log(newTime);
           graphic_data[i]['Time in bed'] = newTime;
         }
       }
       graphic_data.forEach(function (d) {
         d['Start'] = d3.time.format('%Y-%m-%d %X').parse(d['Start']);
-        console.log(d['Start']);
+        //console.log(d['Start']);
         d["Time in bed"] = +d["Time in bed"];
-        console.log(d['Time in bed']);
+        //console.log(d['Time in bed']);
       });
 
       drawGraphic();

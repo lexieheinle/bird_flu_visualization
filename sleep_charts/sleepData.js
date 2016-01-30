@@ -1,15 +1,6 @@
 [{
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-05-01 23:15:14",
-    "End": "2013-05-02 07:12:36",
+    "Start": "5/1/13 23:15",
+    "End": "5/2/13 7:12",
     "Sleep quality": "92%",
     "Time in bed": "7:57",
     "Wake up": ":|",
@@ -17,17 +8,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-05-03 01:53:51",
-    "End": "2013-05-03 08:17:44",
+    "Start": "5/3/13 1:53",
+    "End": "5/3/13 8:17",
     "Sleep quality": "57%",
     "Time in bed": "6:23",
     "Wake up": ":(",
@@ -35,17 +17,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-05-04 00:00:26",
-    "End": "2013-05-04 05:09:56",
+    "Start": "5/4/13 0:00",
+    "End": "5/4/13 5:09",
     "Sleep quality": "56%",
     "Time in bed": "5:09",
     "Wake up": ":)",
@@ -53,17 +26,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-05-23 01:13:41",
-    "End": "2013-05-23 07:41:09",
+    "Start": "5/23/13 1:13",
+    "End": "5/23/13 7:41",
     "Sleep quality": "78%",
     "Time in bed": "6:27",
     "Wake up": ":(",
@@ -71,17 +35,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-05-23 23:59:48",
-    "End": "2013-05-24 07:13:52",
+    "Start": "5/23/13 23:59",
+    "End": "5/24/13 7:13",
     "Sleep quality": "83%",
     "Time in bed": "7:14",
     "Wake up": ":|",
@@ -89,17 +44,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-05-25 00:12:11",
-    "End": "2013-05-25 06:39:27",
+    "Start": "5/25/13 0:12",
+    "End": "5/25/13 6:39",
     "Sleep quality": "64%",
     "Time in bed": "6:27",
     "Wake up": ":(",
@@ -107,17 +53,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-05-26 00:08:44",
-    "End": "2013-05-26 07:44:28",
+    "Start": "5/26/13 0:08",
+    "End": "5/26/13 7:44",
     "Sleep quality": "90%",
     "Time in bed": "7:35",
     "Wake up": ":(",
@@ -125,17 +62,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-05-27 00:11:27",
-    "End": "2013-05-27 07:24:51",
+    "Start": "5/27/13 0:11",
+    "End": "5/27/13 7:24",
     "Sleep quality": "65%",
     "Time in bed": "7:13",
     "Wake up": ":|",
@@ -143,17 +71,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-05-28 00:54:46",
-    "End": "2013-05-28 08:14:33",
+    "Start": "5/28/13 0:54",
+    "End": "5/28/13 8:14",
     "Sleep quality": "75%",
     "Time in bed": "7:19",
     "Wake up": ":)",
@@ -161,35 +80,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-05-28 23:05:25",
-    "End": "2013-05-29 06:57:31",
-    "Sleep quality": "93%",
-    "Time in bed": "7:52",
-    "Wake up": ":|",
-    "Sleep Notes": "",
-    "Activity (steps)": 0
-  },
-  {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-05-29 23:37:36",
-    "End": "2013-05-30 08:45:12",
+    "Start": "5/29/13 23:37",
+    "End": "5/30/13 8:45",
     "Sleep quality": "100%",
     "Time in bed": "9:07",
     "Wake up": ":)",
@@ -197,89 +89,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-05-31 00:17:06",
-    "End": "2013-05-31 08:45:26",
-    "Sleep quality": "92%",
-    "Time in bed": "8:28",
-    "Wake up": ":)",
-    "Sleep Notes": "",
-    "Activity (steps)": 0
-  },
-  {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-05-31 23:51:31",
-    "End": "2013-06-01 08:43:23",
-    "Sleep quality": "100%",
-    "Time in bed": "8:51",
-    "Wake up": ":)",
-    "Sleep Notes": "",
-    "Activity (steps)": 0
-  },
-  {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-06-03 00:48:45",
-    "End": "2013-06-03 09:10:09",
-    "Sleep quality": "99%",
-    "Time in bed": "8:21",
-    "Wake up": ":)",
-    "Sleep Notes": "",
-    "Activity (steps)": 0
-  },
-  {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-06-04 00:56:12",
-    "End": "2013-06-04 07:27:28",
-    "Sleep quality": "68%",
-    "Time in bed": "6:31",
-    "Wake up": ":|",
-    "Sleep Notes": "",
-    "Activity (steps)": 0
-  },
-  {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-06-05 01:02:57",
-    "End": "2013-06-05 08:47:49",
+    "Start": "6/5/13 1:02",
+    "End": "6/5/13 8:47",
     "Sleep quality": "94%",
     "Time in bed": "7:44",
     "Wake up": ":)",
@@ -287,71 +98,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-06-06 02:40:14",
-    "End": "2013-06-06 10:16:21",
-    "Sleep quality": "91%",
-    "Time in bed": "7:36",
-    "Wake up": ":|",
-    "Sleep Notes": "",
-    "Activity (steps)": 0
-  },
-  {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-06-07 00:49:55",
-    "End": "2013-06-07 10:14:39",
-    "Sleep quality": "100%",
-    "Time in bed": "9:24",
-    "Wake up": ":|",
-    "Sleep Notes": "",
-    "Activity (steps)": 0
-  },
-  {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-06-08 00:17:38",
-    "End": "2013-06-08 10:07:54",
-    "Sleep quality": "100%",
-    "Time in bed": "9:50",
-    "Wake up": ":(",
-    "Sleep Notes": "",
-    "Activity (steps)": 0
-  },
-  {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-06-09 00:58:01",
-    "End": "2013-06-09 08:19:48",
+    "Start": "6/9/13 0:58",
+    "End": "6/9/13 8:19",
     "Sleep quality": "84%",
     "Time in bed": "7:21",
     "Wake up": ":(",
@@ -359,143 +107,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-06-10 01:42:46",
-    "End": "2013-06-10 10:27:22",
-    "Sleep quality": "100%",
-    "Time in bed": "8:44",
-    "Wake up": ":)",
-    "Sleep Notes": "",
-    "Activity (steps)": 0
-  },
-  {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-06-18 01:54:31",
-    "End": "2013-06-18 10:01:42",
-    "Sleep quality": "100%",
-    "Time in bed": "8:07",
-    "Wake up": ":)",
-    "Sleep Notes": "",
-    "Activity (steps)": 0
-  },
-  {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-06-19 00:32:01",
-    "End": "2013-06-19 09:02:47",
-    "Sleep quality": "99%",
-    "Time in bed": "8:30",
-    "Wake up": ":)",
-    "Sleep Notes": "",
-    "Activity (steps)": 0
-  },
-  {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-06-24 23:11:43",
-    "End": "2013-06-25 10:02:51",
-    "Sleep quality": "100%",
-    "Time in bed": "10:51",
-    "Wake up": ":)",
-    "Sleep Notes": "",
-    "Activity (steps)": 0
-  },
-  {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-06-25 23:59:47",
-    "End": "2013-06-26 09:35:41",
-    "Sleep quality": "100%",
-    "Time in bed": "9:35",
-    "Wake up": ":)",
-    "Sleep Notes": "",
-    "Activity (steps)": 0
-  },
-  {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-06-27 00:36:15",
-    "End": "2013-06-27 09:20:50",
-    "Sleep quality": "76%",
-    "Time in bed": "8:44",
-    "Wake up": ":|",
-    "Sleep Notes": "",
-    "Activity (steps)": 0
-  },
-  {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-06-28 00:39:19",
-    "End": "2013-06-28 09:05:25",
-    "Sleep quality": "94%",
-    "Time in bed": "8:26",
-    "Wake up": ":|",
-    "Sleep Notes": "",
-    "Activity (steps)": 0
-  },
-  {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-07-02 00:06:23",
-    "End": "2013-07-02 10:08:54",
+    "Start": "7/2/13 0:06",
+    "End": "7/2/13 10:08",
     "Sleep quality": "100%",
     "Time in bed": "10:02",
     "Wake up": ":)",
@@ -503,89 +116,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-07-08 02:34:06",
-    "End": "2013-07-08 09:36:16",
-    "Sleep quality": "72%",
-    "Time in bed": "7:02",
-    "Wake up": ":|",
-    "Sleep Notes": "",
-    "Activity (steps)": 0
-  },
-  {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-07-11 01:33:01",
-    "End": "2013-07-11 08:01:47",
-    "Sleep quality": "75%",
-    "Time in bed": "6:28",
-    "Wake up": ":|",
-    "Sleep Notes": "",
-    "Activity (steps)": 0
-  },
-  {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-07-22 01:00:37",
-    "End": "2013-07-22 09:07:38",
-    "Sleep quality": "84%",
-    "Time in bed": "8:07",
-    "Wake up": ":)",
-    "Sleep Notes": "",
-    "Activity (steps)": 0
-  },
-  {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-07-24 01:31:28",
-    "End": "2013-07-24 09:05:58",
-    "Sleep quality": "89%",
-    "Time in bed": "7:34",
-    "Wake up": ":)",
-    "Sleep Notes": "",
-    "Activity (steps)": 0
-  },
-  {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-09-05 00:07:21",
-    "End": "2013-09-05 08:04:31",
+    "Start": "9/5/13 0:07",
+    "End": "9/5/13 8:04",
     "Sleep quality": "78%",
     "Time in bed": "7:57",
     "Wake up": ":|",
@@ -593,35 +125,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-09-05 23:49:22",
-    "End": "2013-09-06 07:42:22",
-    "Sleep quality": "80%",
-    "Time in bed": "7:53",
-    "Wake up": ":|",
-    "Sleep Notes": "",
-    "Activity (steps)": 0
-  },
-  {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-09-07 02:09:29",
-    "End": "2013-09-07 09:26:51",
+    "Start": "9/7/13 2:09",
+    "End": "9/7/13 9:26",
     "Sleep quality": "65%",
     "Time in bed": "7:17",
     "Wake up": ":|",
@@ -629,17 +134,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-09-08 00:43:59",
-    "End": "2013-09-08 08:00:39",
+    "Start": "9/8/13 0:43",
+    "End": "9/8/13 8:00",
     "Sleep quality": "70%",
     "Time in bed": "7:16",
     "Wake up": ":|",
@@ -647,35 +143,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-09-09 00:05:14",
-    "End": "2013-09-09 07:51:36",
-    "Sleep quality": "82%",
-    "Time in bed": "7:46",
-    "Wake up": ":|",
-    "Sleep Notes": "",
-    "Activity (steps)": 0
-  },
-  {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-09-09 23:47:29",
-    "End": "2013-09-10 07:38:29",
+    "Start": "9/9/13 23:47",
+    "End": "9/10/13 7:38",
     "Sleep quality": "84%",
     "Time in bed": "7:51",
     "Wake up": ":|",
@@ -683,17 +152,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-09-10 22:23:57",
-    "End": "2013-09-11 07:32:42",
+    "Start": "9/10/13 22:23",
+    "End": "9/11/13 7:32",
     "Sleep quality": "89%",
     "Time in bed": "9:08",
     "Wake up": ":|",
@@ -701,17 +161,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-09-12 00:03:48",
-    "End": "2013-09-12 07:41:45",
+    "Start": "9/12/13 0:03",
+    "End": "9/12/13 7:41",
     "Sleep quality": "77%",
     "Time in bed": "7:37",
     "Wake up": ":|",
@@ -719,17 +170,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-09-12 23:48:43",
-    "End": "2013-09-13 07:07:33",
+    "Start": "9/12/13 23:48",
+    "End": "9/13/13 7:07",
     "Sleep quality": "52%",
     "Time in bed": "7:18",
     "Wake up": ":(",
@@ -737,17 +179,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-09-14 00:57:06",
-    "End": "2013-09-14 08:00:19",
+    "Start": "9/14/13 0:57",
+    "End": "9/14/13 8:00",
     "Sleep quality": "73%",
     "Time in bed": "7:03",
     "Wake up": ":(",
@@ -755,17 +188,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-09-15 00:52:40",
-    "End": "2013-09-15 07:17:17",
+    "Start": "9/15/13 0:52",
+    "End": "9/15/13 7:17",
     "Sleep quality": "64%",
     "Time in bed": "6:24",
     "Wake up": ":|",
@@ -773,35 +197,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-09-15 23:57:32",
-    "End": "2013-09-16 07:15:34",
-    "Sleep quality": "70%",
-    "Time in bed": "7:18",
-    "Wake up": ":|",
-    "Sleep Notes": "",
-    "Activity (steps)": 0
-  },
-  {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-09-16 23:44:16",
-    "End": "2013-09-17 06:47:10",
+    "Start": "9/16/13 23:44",
+    "End": "9/17/13 6:47",
     "Sleep quality": "68%",
     "Time in bed": "7:02",
     "Wake up": ":|",
@@ -809,17 +206,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-09-18 00:23:27",
-    "End": "2013-09-18 07:57:28",
+    "Start": "9/18/13 0:23",
+    "End": "9/18/13 7:57",
     "Sleep quality": "73%",
     "Time in bed": "7:34",
     "Wake up": ":|",
@@ -827,17 +215,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-09-19 23:54:22",
-    "End": "2013-09-20 07:35:32",
+    "Start": "9/19/13 23:54",
+    "End": "9/20/13 7:35",
     "Sleep quality": "77%",
     "Time in bed": "7:41",
     "Wake up": ":|",
@@ -845,17 +224,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-09-21 01:43:01",
-    "End": "2013-09-21 10:44:23",
+    "Start": "9/21/13 1:43",
+    "End": "9/21/13 10:44",
     "Sleep quality": "82%",
     "Time in bed": "9:01",
     "Wake up": ":)",
@@ -863,17 +233,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-09-22 23:55:27",
-    "End": "2013-09-23 07:27:39",
+    "Start": "9/22/13 23:55",
+    "End": "9/23/13 7:27",
     "Sleep quality": "77%",
     "Time in bed": "7:32",
     "Wake up": ":)",
@@ -881,17 +242,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-09-24 01:16:03",
-    "End": "2013-09-24 08:03:09",
+    "Start": "9/24/13 1:16",
+    "End": "9/24/13 8:03",
     "Sleep quality": "61%",
     "Time in bed": "6:47",
     "Wake up": ":|",
@@ -899,17 +251,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-09-25 00:08:59",
-    "End": "2013-09-25 08:00:43",
+    "Start": "9/25/13 0:08",
+    "End": "9/25/13 8:00",
     "Sleep quality": "76%",
     "Time in bed": "7:51",
     "Wake up": ":)",
@@ -917,17 +260,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-09-26 01:12:57",
-    "End": "2013-09-26 07:57:13",
+    "Start": "9/26/13 1:12",
+    "End": "9/26/13 7:57",
     "Sleep quality": "55%",
     "Time in bed": "6:44",
     "Wake up": ":|",
@@ -935,17 +269,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-09-27 00:50:32",
-    "End": "2013-09-27 08:09:45",
+    "Start": "9/27/13 0:50",
+    "End": "9/27/13 8:09",
     "Sleep quality": "70%",
     "Time in bed": "7:19",
     "Wake up": ":|",
@@ -953,17 +278,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-09-28 00:58:21",
-    "End": "2013-09-28 08:52:35",
+    "Start": "9/28/13 0:58",
+    "End": "9/28/13 8:52",
     "Sleep quality": "86%",
     "Time in bed": "7:54",
     "Wake up": ":)",
@@ -971,17 +287,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-09-28 23:53:23",
-    "End": "2013-09-29 08:28:21",
+    "Start": "9/28/13 23:53",
+    "End": "9/29/13 8:28",
     "Sleep quality": "88%",
     "Time in bed": "8:34",
     "Wake up": ":)",
@@ -989,17 +296,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-09-29 22:48:40",
-    "End": "2013-09-30 07:16:12",
+    "Start": "9/29/13 22:48",
+    "End": "9/30/13 7:16",
     "Sleep quality": "85%",
     "Time in bed": "8:27",
     "Wake up": ":)",
@@ -1007,17 +305,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-10-01 00:00:15",
-    "End": "2013-10-01 07:12:18",
+    "Start": "10/1/13 0:00",
+    "End": "10/1/13 7:12",
     "Sleep quality": "78%",
     "Time in bed": "7:12",
     "Wake up": ":|",
@@ -1025,17 +314,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-10-01 23:14:13",
-    "End": "2013-10-02 07:08:43",
+    "Start": "10/1/13 23:14",
+    "End": "10/2/13 7:08",
     "Sleep quality": "86%",
     "Time in bed": "7:54",
     "Wake up": ":)",
@@ -1043,17 +323,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-10-05 01:35:25",
-    "End": "2013-10-05 09:20:25",
+    "Start": "10/5/13 1:35",
+    "End": "10/5/13 9:20",
     "Sleep quality": "66%",
     "Time in bed": "7:45",
     "Wake up": ":)",
@@ -1061,17 +332,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-10-07 23:32:31",
-    "End": "2013-10-08 07:40:41",
+    "Start": "10/7/13 23:32",
+    "End": "10/8/13 7:40",
     "Sleep quality": "85%",
     "Time in bed": "8:08",
     "Wake up": ":)",
@@ -1079,17 +341,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-10-08 23:53:10",
-    "End": "2013-10-09 06:54:51",
+    "Start": "10/8/13 23:53",
+    "End": "10/9/13 6:54",
     "Sleep quality": "45%",
     "Time in bed": "7:01",
     "Wake up": ":|",
@@ -1097,17 +350,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-10-10 00:04:23",
-    "End": "2013-10-10 07:31:42",
+    "Start": "10/10/13 0:04",
+    "End": "10/10/13 7:31",
     "Sleep quality": "80%",
     "Time in bed": "7:27",
     "Wake up": ":|",
@@ -1115,17 +359,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-10-10 22:57:13",
-    "End": "2013-10-11 07:46:36",
+    "Start": "10/10/13 22:57",
+    "End": "10/11/13 7:46",
     "Sleep quality": "96%",
     "Time in bed": "8:49",
     "Wake up": ":)",
@@ -1133,17 +368,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-10-12 01:31:22",
-    "End": "2013-10-12 07:23:59",
+    "Start": "10/12/13 1:31",
+    "End": "10/12/13 7:23",
     "Sleep quality": "63%",
     "Time in bed": "5:52",
     "Wake up": ":|",
@@ -1151,17 +377,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-10-13 23:37:55",
-    "End": "2013-10-14 07:02:01",
+    "Start": "10/13/13 23:37",
+    "End": "10/14/13 7:02",
     "Sleep quality": "87%",
     "Time in bed": "7:24",
     "Wake up": ":|",
@@ -1169,17 +386,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-10-14 23:58:22",
-    "End": "2013-10-15 07:42:09",
+    "Start": "10/14/13 23:58",
+    "End": "10/15/13 7:42",
     "Sleep quality": "72%",
     "Time in bed": "7:43",
     "Wake up": ":|",
@@ -1187,17 +395,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-10-15 23:38:44",
-    "End": "2013-10-16 07:35:04",
+    "Start": "10/15/13 23:38",
+    "End": "10/16/13 7:35",
     "Sleep quality": "84%",
     "Time in bed": "7:56",
     "Wake up": ":|",
@@ -1205,17 +404,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-10-16 23:30:37",
-    "End": "2013-10-17 07:35:18",
+    "Start": "10/16/13 23:30",
+    "End": "10/17/13 7:35",
     "Sleep quality": "60%",
     "Time in bed": "8:04",
     "Wake up": ":|",
@@ -1223,17 +413,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-10-17 23:42:02",
-    "End": "2013-10-18 05:50:43",
+    "Start": "10/17/13 23:42",
+    "End": "10/18/13 5:50",
     "Sleep quality": "61%",
     "Time in bed": "6:08",
     "Wake up": ":|",
@@ -1241,17 +422,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-10-23 00:05:23",
-    "End": "2013-10-23 07:33:40",
+    "Start": "10/23/13 0:05",
+    "End": "10/23/13 7:33",
     "Sleep quality": "70%",
     "Time in bed": "7:28",
     "Wake up": ":)",
@@ -1259,17 +431,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-10-23 23:54:57",
-    "End": "2013-10-24 07:10:47",
+    "Start": "10/23/13 23:54",
+    "End": "10/24/13 7:10",
     "Sleep quality": "71%",
     "Time in bed": "7:15",
     "Wake up": ":|",
@@ -1277,17 +440,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-10-25 00:57:54",
-    "End": "2013-10-25 07:47:58",
+    "Start": "10/25/13 0:57",
+    "End": "10/25/13 7:47",
     "Sleep quality": "72%",
     "Time in bed": "6:50",
     "Wake up": ":|",
@@ -1295,17 +449,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-10-26 02:05:12",
-    "End": "2013-10-26 09:26:59",
+    "Start": "10/26/13 2:05",
+    "End": "10/26/13 9:26",
     "Sleep quality": "68%",
     "Time in bed": "7:21",
     "Wake up": ":|",
@@ -1313,17 +458,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-10-27 01:38:25",
-    "End": "2013-10-27 08:46:03",
+    "Start": "10/27/13 1:38",
+    "End": "10/27/13 8:46",
     "Sleep quality": "62%",
     "Time in bed": "7:07",
     "Wake up": ":|",
@@ -1331,17 +467,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-10-27 23:32:17",
-    "End": "2013-10-28 07:49:51",
+    "Start": "10/27/13 23:32",
+    "End": "10/28/13 7:49",
     "Sleep quality": "76%",
     "Time in bed": "8:17",
     "Wake up": ":|",
@@ -1349,17 +476,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-10-29 00:08:08",
-    "End": "2013-10-29 07:31:40",
+    "Start": "10/29/13 0:08",
+    "End": "10/29/13 7:31",
     "Sleep quality": "79%",
     "Time in bed": "7:23",
     "Wake up": ":|",
@@ -1367,17 +485,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-10-29 23:58:19",
-    "End": "2013-10-30 07:38:08",
+    "Start": "10/29/13 23:58",
+    "End": "10/30/13 7:38",
     "Sleep quality": "76%",
     "Time in bed": "7:39",
     "Wake up": ":)",
@@ -1385,17 +494,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-10-30 23:14:56",
-    "End": "2013-10-31 07:36:03",
+    "Start": "10/30/13 23:14",
+    "End": "10/31/13 7:36",
     "Sleep quality": "76%",
     "Time in bed": "8:21",
     "Wake up": ":)",
@@ -1403,17 +503,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-11-01 00:20:44",
-    "End": "2013-11-01 07:27:52",
+    "Start": "11/1/13 0:20",
+    "End": "11/1/13 7:27",
     "Sleep quality": "71%",
     "Time in bed": "7:07",
     "Wake up": ":)",
@@ -1421,17 +512,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-11-02 00:17:29",
-    "End": "2013-11-02 07:39:17",
+    "Start": "11/2/13 0:17",
+    "End": "11/2/13 7:39",
     "Sleep quality": "65%",
     "Time in bed": "7:21",
     "Wake up": ":)",
@@ -1439,17 +521,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-11-04 00:33:43",
-    "End": "2013-11-04 07:57:42",
+    "Start": "11/4/13 0:33",
+    "End": "11/4/13 7:57",
     "Sleep quality": "82%",
     "Time in bed": "7:23",
     "Wake up": ":|",
@@ -1457,17 +530,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-11-05 00:06:35",
-    "End": "2013-11-05 07:30:53",
+    "Start": "11/5/13 0:06",
+    "End": "11/5/13 7:30",
     "Sleep quality": "71%",
     "Time in bed": "7:24",
     "Wake up": ":|",
@@ -1475,17 +539,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-11-06 00:25:09",
-    "End": "2013-11-06 07:58:41",
+    "Start": "11/6/13 0:25",
+    "End": "11/6/13 7:58",
     "Sleep quality": "71%",
     "Time in bed": "7:33",
     "Wake up": ":|",
@@ -1493,17 +548,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-11-06 23:46:45",
-    "End": "2013-11-07 07:52:23",
+    "Start": "11/6/13 23:46",
+    "End": "11/7/13 7:52",
     "Sleep quality": "81%",
     "Time in bed": "8:05",
     "Wake up": ":|",
@@ -1511,17 +557,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-11-08 00:09:54",
-    "End": "2013-11-08 07:27:31",
+    "Start": "11/8/13 0:09",
+    "End": "11/8/13 7:27",
     "Sleep quality": "83%",
     "Time in bed": "7:17",
     "Wake up": ":|",
@@ -1529,35 +566,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-11-09 02:50:45",
-    "End": "2013-11-09 08:00:14",
-    "Sleep quality": "52%",
-    "Time in bed": "5:09",
-    "Wake up": "",
-    "Sleep Notes": "Ate late:Drank coffee",
-    "Activity (steps)": 0
-  },
-  {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-11-10 01:02:08",
-    "End": "2013-11-10 06:18:42",
+    "Start": "11/10/13 1:02",
+    "End": "11/10/13 6:18",
     "Sleep quality": "44%",
     "Time in bed": "5:16",
     "Wake up": ":(",
@@ -1565,17 +575,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-11-12 00:19:47",
-    "End": "2013-11-12 07:35:50",
+    "Start": "11/12/13 0:19",
+    "End": "11/12/13 7:35",
     "Sleep quality": "66%",
     "Time in bed": "7:16",
     "Wake up": ":|",
@@ -1583,17 +584,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-11-13 00:09:21",
-    "End": "2013-11-13 08:05:19",
+    "Start": "11/13/13 0:09",
+    "End": "11/13/13 8:05",
     "Sleep quality": "74%",
     "Time in bed": "7:55",
     "Wake up": ":)",
@@ -1601,17 +593,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-11-13 23:58:22",
-    "End": "2013-11-14 06:52:31",
+    "Start": "11/13/13 23:58",
+    "End": "11/14/13 6:52",
     "Sleep quality": "61%",
     "Time in bed": "6:54",
     "Wake up": ":|",
@@ -1619,17 +602,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-11-15 00:28:41",
-    "End": "2013-11-15 07:36:00",
+    "Start": "11/15/13 0:28",
+    "End": "11/15/13 7:36",
     "Sleep quality": "75%",
     "Time in bed": "7:07",
     "Wake up": ":|",
@@ -1637,17 +611,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-11-17 00:19:34",
-    "End": "2013-11-17 09:13:43",
+    "Start": "11/17/13 0:19",
+    "End": "11/17/13 9:13",
     "Sleep quality": "86%",
     "Time in bed": "8:54",
     "Wake up": ":)",
@@ -1655,17 +620,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-11-18 00:48:58",
-    "End": "2013-11-18 07:36:14",
+    "Start": "11/18/13 0:48",
+    "End": "11/18/13 7:36",
     "Sleep quality": "77%",
     "Time in bed": "6:47",
     "Wake up": ":|",
@@ -1673,17 +629,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-11-19 00:01:52",
-    "End": "2013-11-19 07:48:36",
+    "Start": "11/19/13 0:01",
+    "End": "11/19/13 7:48",
     "Sleep quality": "78%",
     "Time in bed": "7:46",
     "Wake up": ":|",
@@ -1691,17 +638,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-11-19 23:47:38",
-    "End": "2013-11-20 07:52:21",
+    "Start": "11/19/13 23:47",
+    "End": "11/20/13 7:52",
     "Sleep quality": "62%",
     "Time in bed": "8:04",
     "Wake up": ":|",
@@ -1709,17 +647,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-11-21 01:00:00",
-    "End": "2013-11-21 07:35:08",
+    "Start": "11/21/13 1:00",
+    "End": "11/21/13 7:35",
     "Sleep quality": "55%",
     "Time in bed": "6:35",
     "Wake up": ":(",
@@ -1727,17 +656,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-11-22 01:10:22",
-    "End": "2013-11-22 07:48:04",
+    "Start": "11/22/13 1:10",
+    "End": "11/22/13 7:48",
     "Sleep quality": "73%",
     "Time in bed": "6:37",
     "Wake up": ":(",
@@ -1745,17 +665,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-11-23 01:12:04",
-    "End": "2013-11-23 09:00:17",
+    "Start": "11/23/13 1:12",
+    "End": "11/23/13 9:00",
     "Sleep quality": "84%",
     "Time in bed": "7:48",
     "Wake up": ":)",
@@ -1763,17 +674,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-11-24 02:24:28",
-    "End": "2013-11-24 10:16:49",
+    "Start": "11/24/13 2:24",
+    "End": "11/24/13 10:16",
     "Sleep quality": "78%",
     "Time in bed": "7:52",
     "Wake up": ":)",
@@ -1781,17 +683,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-11-24 23:13:28",
-    "End": "2013-11-25 07:38:40",
+    "Start": "11/24/13 23:13",
+    "End": "11/25/13 7:38",
     "Sleep quality": "89%",
     "Time in bed": "8:25",
     "Wake up": ":)",
@@ -1799,17 +692,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-11-26 00:06:14",
-    "End": "2013-11-26 07:37:17",
+    "Start": "11/26/13 0:06",
+    "End": "11/26/13 7:37",
     "Sleep quality": "89%",
     "Time in bed": "7:31",
     "Wake up": ":)",
@@ -1817,17 +701,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-11-27 00:45:10",
-    "End": "2013-11-27 08:21:52",
+    "Start": "11/27/13 0:45",
+    "End": "11/27/13 8:21",
     "Sleep quality": "70%",
     "Time in bed": "7:36",
     "Wake up": ":)",
@@ -1835,17 +710,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-11-30 23:55:29",
-    "End": "2013-12-01 10:07:50",
+    "Start": "11/30/13 23:55",
+    "End": "12/1/13 10:07",
     "Sleep quality": "100%",
     "Time in bed": "10:12",
     "Wake up": ":)",
@@ -1853,17 +719,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-12-01 23:46:24",
-    "End": "2013-12-02 07:45:57",
+    "Start": "12/1/13 23:46",
+    "End": "12/2/13 7:45",
     "Sleep quality": "90%",
     "Time in bed": "7:59",
     "Wake up": ":)",
@@ -1871,17 +728,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-12-03 00:13:29",
-    "End": "2013-12-03 07:58:21",
+    "Start": "12/3/13 0:13",
+    "End": "12/3/13 7:58",
     "Sleep quality": "84%",
     "Time in bed": "7:44",
     "Wake up": ":)",
@@ -1889,17 +737,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-12-03 22:54:26",
-    "End": "2013-12-04 07:48:00",
+    "Start": "12/3/13 22:54",
+    "End": "12/4/13 7:48",
     "Sleep quality": "95%",
     "Time in bed": "8:53",
     "Wake up": ":)",
@@ -1907,17 +746,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-12-04 22:56:21",
-    "End": "2013-12-05 05:57:59",
+    "Start": "12/4/13 22:56",
+    "End": "12/5/13 5:57",
     "Sleep quality": "73%",
     "Time in bed": "7:01",
     "Wake up": ":|",
@@ -1925,17 +755,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-12-06 00:03:10",
-    "End": "2013-12-06 08:40:41",
+    "Start": "12/6/13 0:03",
+    "End": "12/6/13 8:40",
     "Sleep quality": "87%",
     "Time in bed": "8:37",
     "Wake up": ":)",
@@ -1943,17 +764,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-12-08 02:32:01",
-    "End": "2013-12-08 09:53:40",
+    "Start": "12/8/13 2:32",
+    "End": "12/8/13 9:53",
     "Sleep quality": "77%",
     "Time in bed": "7:21",
     "Wake up": ":)",
@@ -1961,17 +773,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-12-09 00:53:52",
-    "End": "2013-12-09 07:40:25",
+    "Start": "12/9/13 0:53",
+    "End": "12/9/13 7:40",
     "Sleep quality": "76%",
     "Time in bed": "6:46",
     "Wake up": ":|",
@@ -1979,17 +782,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-12-09 23:09:52",
-    "End": "2013-12-10 07:48:27",
+    "Start": "12/9/13 23:09",
+    "End": "12/10/13 7:48",
     "Sleep quality": "86%",
     "Time in bed": "8:38",
     "Wake up": ":)",
@@ -1997,17 +791,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-12-11 00:08:40",
-    "End": "2013-12-11 07:38:04",
+    "Start": "12/11/13 0:08",
+    "End": "12/11/13 7:38",
     "Sleep quality": "83%",
     "Time in bed": "7:29",
     "Wake up": ":|",
@@ -2015,17 +800,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-12-11 23:17:33",
-    "End": "2013-12-12 07:40:54",
+    "Start": "12/11/13 23:17",
+    "End": "12/12/13 7:40",
     "Sleep quality": "87%",
     "Time in bed": "8:23",
     "Wake up": ":)",
@@ -2033,17 +809,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-12-12 23:40:15",
-    "End": "2013-12-13 08:09:11",
+    "Start": "12/12/13 23:40",
+    "End": "12/13/13 8:09",
     "Sleep quality": "75%",
     "Time in bed": "8:28",
     "Wake up": ":(",
@@ -2051,17 +818,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-12-13 23:32:45",
-    "End": "2013-12-14 08:30:55",
+    "Start": "12/13/13 23:32",
+    "End": "12/14/13 8:30",
     "Sleep quality": "68%",
     "Time in bed": "8:58",
     "Wake up": ":|",
@@ -2069,17 +827,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-12-15 00:25:59",
-    "End": "2013-12-15 09:02:50",
+    "Start": "12/15/13 0:25",
+    "End": "12/15/13 9:02",
     "Sleep quality": "93%",
     "Time in bed": "8:36",
     "Wake up": ":|",
@@ -2087,17 +836,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-12-15 23:27:20",
-    "End": "2013-12-16 07:49:00",
+    "Start": "12/15/13 23:27",
+    "End": "12/16/13 7:49",
     "Sleep quality": "81%",
     "Time in bed": "8:21",
     "Wake up": ":|",
@@ -2105,17 +845,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-12-16 23:51:05",
-    "End": "2013-12-17 06:38:20",
+    "Start": "12/16/13 23:51",
+    "End": "12/17/13 6:38",
     "Sleep quality": "73%",
     "Time in bed": "6:47",
     "Wake up": ":|",
@@ -2123,17 +854,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-12-17 23:20:40",
-    "End": "2013-12-18 08:46:48",
+    "Start": "12/17/13 23:20",
+    "End": "12/18/13 8:46",
     "Sleep quality": "93%",
     "Time in bed": "9:26",
     "Wake up": ":)",
@@ -2141,17 +863,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-12-19 00:08:24",
-    "End": "2013-12-19 07:04:59",
+    "Start": "12/19/13 0:08",
+    "End": "12/19/13 7:04",
     "Sleep quality": "64%",
     "Time in bed": "6:56",
     "Wake up": ":)",
@@ -2159,17 +872,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2013-12-20 00:14:55",
-    "End": "2013-12-20 05:23:38",
+    "Start": "12/20/13 0:14",
+    "End": "12/20/13 5:23",
     "Sleep quality": "55%",
     "Time in bed": "5:08",
     "Wake up": ":|",
@@ -2177,17 +881,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-01-13 00:12:14",
-    "End": "2014-01-13 07:45:37",
+    "Start": "1/13/14 0:12",
+    "End": "1/13/14 7:45",
     "Sleep quality": "84%",
     "Time in bed": "7:33",
     "Wake up": ":|",
@@ -2195,17 +890,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-01-14 00:20:09",
-    "End": "2014-01-14 08:30:17",
+    "Start": "1/14/14 0:20",
+    "End": "1/14/14 8:30",
     "Sleep quality": "89%",
     "Time in bed": "8:10",
     "Wake up": ":)",
@@ -2213,17 +899,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-01-15 00:24:58",
-    "End": "2014-01-15 07:30:59",
+    "Start": "1/15/14 0:24",
+    "End": "1/15/14 7:30",
     "Sleep quality": "68%",
     "Time in bed": "7:06",
     "Wake up": ":(",
@@ -2231,17 +908,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-01-16 00:40:01",
-    "End": "2014-01-16 08:05:38",
+    "Start": "1/16/14 0:40",
+    "End": "1/16/14 8:05",
     "Sleep quality": "69%",
     "Time in bed": "7:25",
     "Wake up": ":|",
@@ -2249,17 +917,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-01-17 00:47:02",
-    "End": "2014-01-17 07:39:40",
+    "Start": "1/17/14 0:47",
+    "End": "1/17/14 7:39",
     "Sleep quality": "73%",
     "Time in bed": "6:52",
     "Wake up": ":|",
@@ -2267,17 +926,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-01-18 00:45:33",
-    "End": "2014-01-18 10:08:00",
+    "Start": "1/18/14 0:45",
+    "End": "1/18/14 10:08",
     "Sleep quality": "95%",
     "Time in bed": "9:22",
     "Wake up": ":)",
@@ -2285,17 +935,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-01-19 01:04:42",
-    "End": "2014-01-19 10:25:44",
+    "Start": "1/19/14 1:04",
+    "End": "1/19/14 10:25",
     "Sleep quality": "98%",
     "Time in bed": "9:21",
     "Wake up": ":)",
@@ -2303,17 +944,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-01-20 02:51:40",
-    "End": "2014-01-20 08:00:25",
+    "Start": "1/20/14 2:51",
+    "End": "1/20/14 8:00",
     "Sleep quality": "28%",
     "Time in bed": "5:08",
     "Wake up": ":|",
@@ -2321,17 +953,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-01-21 00:19:11",
-    "End": "2014-01-21 07:55:53",
+    "Start": "1/21/14 0:19",
+    "End": "1/21/14 7:55",
     "Sleep quality": "71%",
     "Time in bed": "7:36",
     "Wake up": ":)",
@@ -2339,17 +962,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-01-22 00:11:04",
-    "End": "2014-01-22 07:33:28",
+    "Start": "1/22/14 0:11",
+    "End": "1/22/14 7:33",
     "Sleep quality": "73%",
     "Time in bed": "7:22",
     "Wake up": ":|",
@@ -2357,17 +971,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-01-22 23:26:07",
-    "End": "2014-01-23 08:10:11",
+    "Start": "1/22/14 23:26",
+    "End": "1/23/14 8:10",
     "Sleep quality": "79%",
     "Time in bed": "8:44",
     "Wake up": ":|",
@@ -2375,17 +980,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-01-23 22:21:04",
-    "End": "2014-01-24 07:47:24",
+    "Start": "1/23/14 22:21",
+    "End": "1/24/14 7:47",
     "Sleep quality": "94%",
     "Time in bed": "9:26",
     "Wake up": ":)",
@@ -2393,17 +989,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-01-24 23:04:50",
-    "End": "2014-01-25 08:57:52",
+    "Start": "1/24/14 23:04",
+    "End": "1/25/14 8:57",
     "Sleep quality": "75%",
     "Time in bed": "9:53",
     "Wake up": ":)",
@@ -2411,17 +998,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-01-25 23:29:41",
-    "End": "2014-01-26 08:18:24",
+    "Start": "1/25/14 23:29",
+    "End": "1/26/14 8:18",
     "Sleep quality": "80%",
     "Time in bed": "8:48",
     "Wake up": ":)",
@@ -2429,17 +1007,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-01-26 23:22:31",
-    "End": "2014-01-27 07:38:06",
+    "Start": "1/26/14 23:22",
+    "End": "1/27/14 7:38",
     "Sleep quality": "83%",
     "Time in bed": "8:15",
     "Wake up": ":)",
@@ -2447,17 +1016,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-01-28 00:28:19",
-    "End": "2014-01-28 07:26:55",
+    "Start": "1/28/14 0:28",
+    "End": "1/28/14 7:26",
     "Sleep quality": "66%",
     "Time in bed": "6:58",
     "Wake up": ":(",
@@ -2465,17 +1025,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-01-29 00:24:49",
-    "End": "2014-01-29 07:37:13",
+    "Start": "1/29/14 0:24",
+    "End": "1/29/14 7:37",
     "Sleep quality": "74%",
     "Time in bed": "7:12",
     "Wake up": ":(",
@@ -2483,17 +1034,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-01-30 00:45:17",
-    "End": "2014-01-30 08:38:08",
+    "Start": "1/30/14 0:45",
+    "End": "1/30/14 8:38",
     "Sleep quality": "87%",
     "Time in bed": "7:52",
     "Wake up": ":)",
@@ -2501,17 +1043,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-01-31 00:06:54",
-    "End": "2014-01-31 07:38:32",
+    "Start": "1/31/14 0:06",
+    "End": "1/31/14 7:38",
     "Sleep quality": "74%",
     "Time in bed": "7:31",
     "Wake up": ":)",
@@ -2519,17 +1052,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-02-01 01:10:08",
-    "End": "2014-02-01 09:30:45",
+    "Start": "2/1/14 1:10",
+    "End": "2/1/14 9:30",
     "Sleep quality": "95%",
     "Time in bed": "8:20",
     "Wake up": ":)",
@@ -2537,17 +1061,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-02-02 01:29:16",
-    "End": "2014-02-02 10:25:06",
+    "Start": "2/2/14 1:29",
+    "End": "2/2/14 10:25",
     "Sleep quality": "92%",
     "Time in bed": "8:55",
     "Wake up": ":)",
@@ -2555,17 +1070,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-02-03 00:42:35",
-    "End": "2014-02-03 07:37:39",
+    "Start": "2/3/14 0:42",
+    "End": "2/3/14 7:37",
     "Sleep quality": "67%",
     "Time in bed": "6:55",
     "Wake up": ":)",
@@ -2573,17 +1079,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-02-04 00:38:11",
-    "End": "2014-02-04 07:57:50",
+    "Start": "2/4/14 0:38",
+    "End": "2/4/14 7:57",
     "Sleep quality": "81%",
     "Time in bed": "7:19",
     "Wake up": ":|",
@@ -2591,17 +1088,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-02-05 00:17:13",
-    "End": "2014-02-05 07:36:23",
+    "Start": "2/5/14 0:17",
+    "End": "2/5/14 7:36",
     "Sleep quality": "76%",
     "Time in bed": "7:19",
     "Wake up": ":|",
@@ -2609,17 +1097,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-02-06 00:53:06",
-    "End": "2014-02-06 08:08:54",
+    "Start": "2/6/14 0:53",
+    "End": "2/6/14 8:08",
     "Sleep quality": "75%",
     "Time in bed": "7:15",
     "Wake up": ":|",
@@ -2627,17 +1106,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-02-06 23:41:18",
-    "End": "2014-02-07 07:46:54",
+    "Start": "2/6/14 23:41",
+    "End": "2/7/14 7:46",
     "Sleep quality": "73%",
     "Time in bed": "8:05",
     "Wake up": ":|",
@@ -2645,17 +1115,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-02-08 00:45:14",
-    "End": "2014-02-08 09:38:36",
+    "Start": "2/8/14 0:45",
+    "End": "2/8/14 9:38",
     "Sleep quality": "78%",
     "Time in bed": "8:53",
     "Wake up": ":)",
@@ -2663,17 +1124,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-02-09 00:20:45",
-    "End": "2014-02-09 07:50:41",
+    "Start": "2/9/14 0:20",
+    "End": "2/9/14 7:50",
     "Sleep quality": "75%",
     "Time in bed": "7:29",
     "Wake up": ":|",
@@ -2681,17 +1133,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-02-10 00:24:27",
-    "End": "2014-02-10 07:40:20",
+    "Start": "2/10/14 0:24",
+    "End": "2/10/14 7:40",
     "Sleep quality": "84%",
     "Time in bed": "7:15",
     "Wake up": ":|",
@@ -2699,17 +1142,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-02-11 01:14:50",
-    "End": "2014-02-11 09:26:27",
+    "Start": "2/11/14 1:14",
+    "End": "2/11/14 9:26",
     "Sleep quality": "61%",
     "Time in bed": "8:11",
     "Wake up": ":)",
@@ -2717,17 +1151,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-02-12 00:13:34",
-    "End": "2014-02-12 07:48:14",
+    "Start": "2/12/14 0:13",
+    "End": "2/12/14 7:48",
     "Sleep quality": "84%",
     "Time in bed": "7:34",
     "Wake up": ":)",
@@ -2735,17 +1160,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-02-14 01:31:11",
-    "End": "2014-02-14 10:10:56",
+    "Start": "2/14/14 1:31",
+    "End": "2/14/14 10:10",
     "Sleep quality": "66%",
     "Time in bed": "8:39",
     "Wake up": ":)",
@@ -2753,17 +1169,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-02-15 01:51:30",
-    "End": "2014-02-15 09:14:16",
+    "Start": "2/15/14 1:51",
+    "End": "2/15/14 9:14",
     "Sleep quality": "86%",
     "Time in bed": "7:22",
     "Wake up": ":|",
@@ -2771,17 +1178,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-02-16 01:27:16",
-    "End": "2014-02-16 09:29:52",
+    "Start": "2/16/14 1:27",
+    "End": "2/16/14 9:29",
     "Sleep quality": "79%",
     "Time in bed": "8:02",
     "Wake up": ":)",
@@ -2789,17 +1187,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-02-17 01:00:05",
-    "End": "2014-02-17 07:43:31",
+    "Start": "2/17/14 1:00",
+    "End": "2/17/14 7:43",
     "Sleep quality": "55%",
     "Time in bed": "6:43",
     "Wake up": ":|",
@@ -2807,17 +1196,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-02-18 00:32:47",
-    "End": "2014-02-18 06:36:04",
+    "Start": "2/18/14 0:32",
+    "End": "2/18/14 6:36",
     "Sleep quality": "48%",
     "Time in bed": "6:03",
     "Wake up": ":|",
@@ -2825,17 +1205,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-02-18 23:48:32",
-    "End": "2014-02-19 07:46:13",
+    "Start": "2/18/14 23:48",
+    "End": "2/19/14 7:46",
     "Sleep quality": "90%",
     "Time in bed": "7:57",
     "Wake up": ":)",
@@ -2843,17 +1214,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-02-20 00:22:55",
-    "End": "2014-02-20 09:23:35",
+    "Start": "2/20/14 0:22",
+    "End": "2/20/14 9:23",
     "Sleep quality": "82%",
     "Time in bed": "9:00",
     "Wake up": ":)",
@@ -2861,17 +1223,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-02-20 22:50:20",
-    "End": "2014-02-21 07:50:38",
+    "Start": "2/20/14 22:50",
+    "End": "2/21/14 7:50",
     "Sleep quality": "95%",
     "Time in bed": "9:00",
     "Wake up": ":)",
@@ -2879,17 +1232,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-02-22 01:56:44",
-    "End": "2014-02-22 08:55:56",
+    "Start": "2/22/14 1:56",
+    "End": "2/22/14 8:55",
     "Sleep quality": "76%",
     "Time in bed": "6:59",
     "Wake up": ":)",
@@ -2897,17 +1241,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-02-23 00:59:44",
-    "End": "2014-02-23 09:13:54",
+    "Start": "2/23/14 0:59",
+    "End": "2/23/14 9:13",
     "Sleep quality": "88%",
     "Time in bed": "8:14",
     "Wake up": ":)",
@@ -2915,17 +1250,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-02-24 00:49:35",
-    "End": "2014-02-24 07:40:31",
+    "Start": "2/24/14 0:49",
+    "End": "2/24/14 7:40",
     "Sleep quality": "69%",
     "Time in bed": "6:50",
     "Wake up": ":)",
@@ -2933,17 +1259,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-02-25 00:22:26",
-    "End": "2014-02-25 08:20:41",
+    "Start": "2/25/14 0:22",
+    "End": "2/25/14 8:20",
     "Sleep quality": "79%",
     "Time in bed": "7:58",
     "Wake up": ":|",
@@ -2951,17 +1268,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-02-25 23:59:00",
-    "End": "2014-02-26 07:04:30",
+    "Start": "2/25/14 23:59",
+    "End": "2/26/14 7:04",
     "Sleep quality": "76%",
     "Time in bed": "7:05",
     "Wake up": ":)",
@@ -2969,17 +1277,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-02-27 23:49:36",
-    "End": "2014-02-28 07:28:27",
+    "Start": "2/27/14 23:49",
+    "End": "2/28/14 7:28",
     "Sleep quality": "81%",
     "Time in bed": "7:38",
     "Wake up": ":)",
@@ -2987,17 +1286,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-03-01 01:05:56",
-    "End": "2014-03-01 09:49:48",
+    "Start": "3/1/14 1:05",
+    "End": "3/1/14 9:49",
     "Sleep quality": "61%",
     "Time in bed": "8:43",
     "Wake up": ":)",
@@ -3005,17 +1295,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-03-02 02:30:36",
-    "End": "2014-03-02 10:00:35",
+    "Start": "3/2/14 2:30",
+    "End": "3/2/14 10:00",
     "Sleep quality": "79%",
     "Time in bed": "7:29",
     "Wake up": ":)",
@@ -3023,17 +1304,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-03-02 23:07:38",
-    "End": "2014-03-03 07:37:04",
+    "Start": "3/2/14 23:07",
+    "End": "3/3/14 7:37",
     "Sleep quality": "93%",
     "Time in bed": "8:29",
     "Wake up": ":)",
@@ -3041,17 +1313,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-03-04 00:22:48",
-    "End": "2014-03-04 07:32:52",
+    "Start": "3/4/14 0:22",
+    "End": "3/4/14 7:32",
     "Sleep quality": "74%",
     "Time in bed": "7:10",
     "Wake up": ":|",
@@ -3059,17 +1322,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-03-05 00:25:42",
-    "End": "2014-03-05 06:53:32",
+    "Start": "3/5/14 0:25",
+    "End": "3/5/14 6:53",
     "Sleep quality": "63%",
     "Time in bed": "6:27",
     "Wake up": ":|",
@@ -3077,17 +1331,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-03-05 23:06:09",
-    "End": "2014-03-06 08:00:29",
+    "Start": "3/5/14 23:06",
+    "End": "3/6/14 8:00",
     "Sleep quality": "90%",
     "Time in bed": "8:54",
     "Wake up": ":)",
@@ -3095,17 +1340,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-03-07 01:44:48",
-    "End": "2014-03-07 07:45:50",
+    "Start": "3/7/14 1:44",
+    "End": "3/7/14 7:45",
     "Sleep quality": "65%",
     "Time in bed": "6:01",
     "Wake up": ":)",
@@ -3113,17 +1349,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-03-08 02:10:05",
-    "End": "2014-03-08 09:22:47",
+    "Start": "3/8/14 2:10",
+    "End": "3/8/14 9:22",
     "Sleep quality": "80%",
     "Time in bed": "7:12",
     "Wake up": ":)",
@@ -3131,17 +1358,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-03-09 01:02:41",
-    "End": "2014-03-09 09:00:21",
+    "Start": "3/9/14 1:02",
+    "End": "3/9/14 9:00",
     "Sleep quality": "69%",
     "Time in bed": "6:57",
     "Wake up": ":)",
@@ -3149,17 +1367,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-03-09 23:25:18",
-    "End": "2014-03-10 06:36:07",
+    "Start": "3/9/14 23:25",
+    "End": "3/10/14 6:36",
     "Sleep quality": "72%",
     "Time in bed": "7:10",
     "Wake up": ":|",
@@ -3167,17 +1376,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-03-10 23:45:39",
-    "End": "2014-03-11 07:40:54",
+    "Start": "3/10/14 23:45",
+    "End": "3/11/14 7:40",
     "Sleep quality": "82%",
     "Time in bed": "7:55",
     "Wake up": ":)",
@@ -3185,17 +1385,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-03-12 00:47:31",
-    "End": "2014-03-12 06:53:41",
+    "Start": "3/12/14 0:47",
+    "End": "3/12/14 6:53",
     "Sleep quality": "63%",
     "Time in bed": "6:06",
     "Wake up": ":|",
@@ -3203,17 +1394,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-03-13 01:07:22",
-    "End": "2014-03-13 08:07:07",
+    "Start": "3/13/14 1:07",
+    "End": "3/13/14 8:07",
     "Sleep quality": "77%",
     "Time in bed": "6:59",
     "Wake up": ":)",
@@ -3221,17 +1403,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-03-14 00:05:36",
-    "End": "2014-03-14 07:41:13",
+    "Start": "3/14/14 0:05",
+    "End": "3/14/14 7:41",
     "Sleep quality": "75%",
     "Time in bed": "7:35",
     "Wake up": ":)",
@@ -3239,17 +1412,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-03-15 00:50:16",
-    "End": "2014-03-15 09:30:14",
+    "Start": "3/15/14 0:50",
+    "End": "3/15/14 9:30",
     "Sleep quality": "84%",
     "Time in bed": "8:39",
     "Wake up": ":)",
@@ -3257,17 +1421,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-03-16 01:27:05",
-    "End": "2014-03-16 09:27:27",
+    "Start": "3/16/14 1:27",
+    "End": "3/16/14 9:27",
     "Sleep quality": "87%",
     "Time in bed": "8:00",
     "Wake up": ":)",
@@ -3275,17 +1430,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-03-17 00:04:48",
-    "End": "2014-03-17 07:45:23",
+    "Start": "3/17/14 0:04",
+    "End": "3/17/14 7:45",
     "Sleep quality": "75%",
     "Time in bed": "7:40",
     "Wake up": ":)",
@@ -3293,17 +1439,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-03-18 00:15:01",
-    "End": "2014-03-18 08:27:26",
+    "Start": "3/18/14 0:15",
+    "End": "3/18/14 8:27",
     "Sleep quality": "81%",
     "Time in bed": "8:12",
     "Wake up": ":)",
@@ -3311,17 +1448,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-03-19 00:25:03",
-    "End": "2014-03-19 05:57:51",
+    "Start": "3/19/14 0:25",
+    "End": "3/19/14 5:57",
     "Sleep quality": "65%",
     "Time in bed": "5:32",
     "Wake up": ":)",
@@ -3329,17 +1457,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-03-20 00:36:26",
-    "End": "2014-03-20 07:40:37",
+    "Start": "3/20/14 0:36",
+    "End": "3/20/14 7:40",
     "Sleep quality": "83%",
     "Time in bed": "7:04",
     "Wake up": ":)",
@@ -3347,17 +1466,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-03-21 00:48:01",
-    "End": "2014-03-21 07:08:11",
+    "Start": "3/21/14 0:48",
+    "End": "3/21/14 7:08",
     "Sleep quality": "61%",
     "Time in bed": "6:20",
     "Wake up": ":)",
@@ -3365,17 +1475,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-03-21 23:53:19",
-    "End": "2014-03-22 09:00:12",
+    "Start": "3/21/14 23:53",
+    "End": "3/22/14 9:00",
     "Sleep quality": "78%",
     "Time in bed": "9:06",
     "Wake up": ":(",
@@ -3383,17 +1484,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-03-25 00:30:10",
-    "End": "2014-03-25 08:37:54",
+    "Start": "3/25/14 0:30",
+    "End": "3/25/14 8:37",
     "Sleep quality": "53%",
     "Time in bed": "8:07",
     "Wake up": ":)",
@@ -3401,17 +1493,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-03-26 00:19:53",
-    "End": "2014-03-26 09:11:53",
+    "Start": "3/26/14 0:19",
+    "End": "3/26/14 9:11",
     "Sleep quality": "100%",
     "Time in bed": "8:51",
     "Wake up": ":)",
@@ -3419,17 +1502,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-03-27 02:04:55",
-    "End": "2014-03-27 09:38:54",
+    "Start": "3/27/14 2:04",
+    "End": "3/27/14 9:38",
     "Sleep quality": "87%",
     "Time in bed": "7:33",
     "Wake up": ":)",
@@ -3437,17 +1511,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-03-28 02:39:28",
-    "End": "2014-03-28 08:46:52",
+    "Start": "3/28/14 2:39",
+    "End": "3/28/14 8:46",
     "Sleep quality": "68%",
     "Time in bed": "6:07",
     "Wake up": ":|",
@@ -3455,17 +1520,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-03-29 00:18:49",
-    "End": "2014-03-29 09:46:10",
+    "Start": "3/29/14 0:18",
+    "End": "3/29/14 9:46",
     "Sleep quality": "100%",
     "Time in bed": "9:27",
     "Wake up": ":)",
@@ -3473,17 +1529,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-03-30 02:36:12",
-    "End": "2014-03-30 08:01:16",
+    "Start": "3/30/14 2:36",
+    "End": "3/30/14 8:01",
     "Sleep quality": "68%",
     "Time in bed": "5:25",
     "Wake up": ":(",
@@ -3491,17 +1538,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-03-31 01:13:06",
-    "End": "2014-03-31 06:31:54",
+    "Start": "3/31/14 1:13",
+    "End": "3/31/14 6:31",
     "Sleep quality": "52%",
     "Time in bed": "5:18",
     "Wake up": ":|",
@@ -3509,17 +1547,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-04-01 00:47:57",
-    "End": "2014-04-01 06:49:17",
+    "Start": "4/1/14 0:47",
+    "End": "4/1/14 6:49",
     "Sleep quality": "72%",
     "Time in bed": "6:01",
     "Wake up": ":|",
@@ -3527,17 +1556,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-04-02 00:32:49",
-    "End": "2014-04-02 07:52:41",
+    "Start": "4/2/14 0:32",
+    "End": "4/2/14 7:52",
     "Sleep quality": "82%",
     "Time in bed": "7:19",
     "Wake up": ":)",
@@ -3545,17 +1565,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-04-03 00:10:52",
-    "End": "2014-04-03 08:31:16",
+    "Start": "4/3/14 0:10",
+    "End": "4/3/14 8:31",
     "Sleep quality": "84%",
     "Time in bed": "8:20",
     "Wake up": ":)",
@@ -3563,17 +1574,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-04-05 01:01:37",
-    "End": "2014-04-05 08:00:15",
+    "Start": "4/5/14 1:01",
+    "End": "4/5/14 8:00",
     "Sleep quality": "59%",
     "Time in bed": "6:58",
     "Wake up": ":|",
@@ -3581,17 +1583,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-04-06 01:17:50",
-    "End": "2014-04-06 10:00:04",
+    "Start": "4/6/14 1:17",
+    "End": "4/6/14 10:00",
     "Sleep quality": "100%",
     "Time in bed": "8:42",
     "Wake up": ":)",
@@ -3599,17 +1592,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-04-07 00:28:37",
-    "End": "2014-04-07 07:48:56",
+    "Start": "4/7/14 0:28",
+    "End": "4/7/14 7:48",
     "Sleep quality": "71%",
     "Time in bed": "7:20",
     "Wake up": ":)",
@@ -3617,17 +1601,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-04-08 00:37:29",
-    "End": "2014-04-08 07:39:50",
+    "Start": "4/8/14 0:37",
+    "End": "4/8/14 7:39",
     "Sleep quality": "78%",
     "Time in bed": "7:02",
     "Wake up": ":)",
@@ -3635,17 +1610,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-04-09 00:28:17",
-    "End": "2014-04-09 07:46:22",
+    "Start": "4/9/14 0:28",
+    "End": "4/9/14 7:46",
     "Sleep quality": "71%",
     "Time in bed": "7:18",
     "Wake up": ":)",
@@ -3653,17 +1619,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-04-10 00:52:43",
-    "End": "2014-04-10 07:33:19",
+    "Start": "4/10/14 0:52",
+    "End": "4/10/14 7:33",
     "Sleep quality": "76%",
     "Time in bed": "6:40",
     "Wake up": ":)",
@@ -3671,17 +1628,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-04-11 00:14:06",
-    "End": "2014-04-11 07:21:25",
+    "Start": "4/11/14 0:14",
+    "End": "4/11/14 7:21",
     "Sleep quality": "83%",
     "Time in bed": "7:07",
     "Wake up": ":)",
@@ -3689,17 +1637,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-04-12 00:07:26",
-    "End": "2014-04-12 09:57:57",
+    "Start": "4/12/14 0:07",
+    "End": "4/12/14 9:57",
     "Sleep quality": "91%",
     "Time in bed": "9:50",
     "Wake up": ":)",
@@ -3707,17 +1646,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-04-13 00:13:19",
-    "End": "2014-04-13 08:00:10",
+    "Start": "4/13/14 0:13",
+    "End": "4/13/14 8:00",
     "Sleep quality": "79%",
     "Time in bed": "7:46",
     "Wake up": ":)",
@@ -3725,17 +1655,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-04-14 00:24:34",
-    "End": "2014-04-14 07:57:46",
+    "Start": "4/14/14 0:24",
+    "End": "4/14/14 7:57",
     "Sleep quality": "77%",
     "Time in bed": "7:33",
     "Wake up": ":)",
@@ -3743,17 +1664,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-04-15 00:32:08",
-    "End": "2014-04-15 08:28:00",
+    "Start": "4/15/14 0:32",
+    "End": "4/15/14 8:28",
     "Sleep quality": "64%",
     "Time in bed": "7:55",
     "Wake up": ":)",
@@ -3761,17 +1673,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-04-16 01:58:09",
-    "End": "2014-04-16 07:05:58",
+    "Start": "4/16/14 1:58",
+    "End": "4/16/14 7:05",
     "Sleep quality": "58%",
     "Time in bed": "5:07",
     "Wake up": ":|",
@@ -3779,17 +1682,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-04-17 00:53:53",
-    "End": "2014-04-17 07:52:29",
+    "Start": "4/17/14 0:53",
+    "End": "4/17/14 7:52",
     "Sleep quality": "71%",
     "Time in bed": "6:58",
     "Wake up": ":)",
@@ -3797,17 +1691,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-04-19 01:46:41",
-    "End": "2014-04-19 10:09:01",
+    "Start": "4/19/14 1:46",
+    "End": "4/19/14 10:09",
     "Sleep quality": "73%",
     "Time in bed": "8:22",
     "Wake up": ":)",
@@ -3815,17 +1700,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-04-21 00:18:16",
-    "End": "2014-04-21 09:03:29",
+    "Start": "4/21/14 0:18",
+    "End": "4/21/14 9:03",
     "Sleep quality": "98%",
     "Time in bed": "8:45",
     "Wake up": ":)",
@@ -3833,17 +1709,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-04-22 01:05:47",
-    "End": "2014-04-22 08:23:18",
+    "Start": "4/22/14 1:05",
+    "End": "4/22/14 8:23",
     "Sleep quality": "85%",
     "Time in bed": "7:17",
     "Wake up": ":)",
@@ -3851,17 +1718,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-04-23 00:53:50",
-    "End": "2014-04-23 06:00:37",
+    "Start": "4/23/14 0:53",
+    "End": "4/23/14 6:00",
     "Sleep quality": "59%",
     "Time in bed": "5:06",
     "Wake up": ":|",
@@ -3869,17 +1727,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-04-24 01:13:48",
-    "End": "2014-04-24 08:27:43",
+    "Start": "4/24/14 1:13",
+    "End": "4/24/14 8:27",
     "Sleep quality": "74%",
     "Time in bed": "7:13",
     "Wake up": ":)",
@@ -3887,17 +1736,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-04-24 23:51:34",
-    "End": "2014-04-25 07:15:33",
+    "Start": "4/24/14 23:51",
+    "End": "4/25/14 7:15",
     "Sleep quality": "85%",
     "Time in bed": "7:23",
     "Wake up": ":)",
@@ -3905,17 +1745,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-04-26 00:23:16",
-    "End": "2014-04-26 08:08:29",
+    "Start": "4/26/14 0:23",
+    "End": "4/26/14 8:08",
     "Sleep quality": "91%",
     "Time in bed": "7:45",
     "Wake up": ":)",
@@ -3923,17 +1754,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-04-28 00:46:56",
-    "End": "2014-04-28 07:40:14",
+    "Start": "4/28/14 0:46",
+    "End": "4/28/14 7:40",
     "Sleep quality": "71%",
     "Time in bed": "6:53",
     "Wake up": ":)",
@@ -3941,17 +1763,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-04-29 00:10:31",
-    "End": "2014-04-29 06:54:53",
+    "Start": "4/29/14 0:10",
+    "End": "4/29/14 6:54",
     "Sleep quality": "66%",
     "Time in bed": "6:44",
     "Wake up": ":|",
@@ -3959,17 +1772,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-05-01 01:06:44",
-    "End": "2014-05-01 07:00:18",
+    "Start": "5/1/14 1:06",
+    "End": "5/1/14 7:00",
     "Sleep quality": "56%",
     "Time in bed": "5:53",
     "Wake up": ":|",
@@ -3977,17 +1781,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-05-02 01:00:26",
-    "End": "2014-05-02 07:17:24",
+    "Start": "5/2/14 1:00",
+    "End": "5/2/14 7:17",
     "Sleep quality": "74%",
     "Time in bed": "6:16",
     "Wake up": ":)",
@@ -3995,17 +1790,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-05-03 01:18:37",
-    "End": "2014-05-03 08:17:41",
+    "Start": "5/3/14 1:18",
+    "End": "5/3/14 8:17",
     "Sleep quality": "72%",
     "Time in bed": "6:59",
     "Wake up": ":)",
@@ -4013,17 +1799,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-05-04 01:28:49",
-    "End": "2014-05-04 08:30:30",
+    "Start": "5/4/14 1:28",
+    "End": "5/4/14 8:30",
     "Sleep quality": "70%",
     "Time in bed": "7:01",
     "Wake up": ":)",
@@ -4031,17 +1808,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-05-05 00:06:52",
-    "End": "2014-05-05 07:44:48",
+    "Start": "5/5/14 0:06",
+    "End": "5/5/14 7:44",
     "Sleep quality": "82%",
     "Time in bed": "7:37",
     "Wake up": ":)",
@@ -4049,17 +1817,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-05-05 22:15:50",
-    "End": "2014-05-06 05:46:22",
+    "Start": "5/5/14 22:15",
+    "End": "5/6/14 5:46",
     "Sleep quality": "65%",
     "Time in bed": "7:30",
     "Wake up": ":)",
@@ -4067,17 +1826,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-05-07 00:08:19",
-    "End": "2014-05-07 06:44:59",
+    "Start": "5/7/14 0:08",
+    "End": "5/7/14 6:44",
     "Sleep quality": "58%",
     "Time in bed": "6:36",
     "Wake up": ":)",
@@ -4085,17 +1835,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-05-19 21:33:23",
-    "End": "2014-05-20 08:21:42",
+    "Start": "5/19/14 21:33",
+    "End": "5/20/14 8:21",
     "Sleep quality": "98%",
     "Time in bed": "10:48",
     "Wake up": ":)",
@@ -4103,17 +1844,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-06-07 01:34:08",
-    "End": "2014-06-07 08:51:36",
+    "Start": "6/7/14 1:34",
+    "End": "6/7/14 8:51",
     "Sleep quality": "77%",
     "Time in bed": "7:17",
     "Wake up": ":(",
@@ -4121,17 +1853,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-06-13 23:30:18",
-    "End": "2014-06-14 07:29:41",
+    "Start": "6/13/14 23:30",
+    "End": "6/14/14 7:29",
     "Sleep quality": "70%",
     "Time in bed": "7:59",
     "Wake up": ":|",
@@ -4139,17 +1862,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-08-24 22:12:30",
-    "End": "2014-08-25 06:58:00",
+    "Start": "8/24/14 22:12",
+    "End": "8/25/14 6:58",
     "Sleep quality": "91%",
     "Time in bed": "8:45",
     "Wake up": ":)",
@@ -4157,17 +1871,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-08-25 22:57:15",
-    "End": "2014-08-26 06:20:54",
+    "Start": "8/25/14 22:57",
+    "End": "8/26/14 6:20",
     "Sleep quality": "87%",
     "Time in bed": "7:23",
     "Wake up": ":|",
@@ -4175,17 +1880,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-08-26 22:29:04",
-    "End": "2014-08-27 06:50:01",
+    "Start": "8/26/14 22:29",
+    "End": "8/27/14 6:50",
     "Sleep quality": "100%",
     "Time in bed": "8:20",
     "Wake up": ":)",
@@ -4193,17 +1889,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-08-27 22:51:25",
-    "End": "2014-08-28 06:04:21",
+    "Start": "8/27/14 22:51",
+    "End": "8/28/14 6:04",
     "Sleep quality": "80%",
     "Time in bed": "7:12",
     "Wake up": ":|",
@@ -4211,17 +1898,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-08-29 23:35:52",
-    "End": "2014-08-30 07:24:06",
+    "Start": "8/29/14 23:35",
+    "End": "8/30/14 7:24",
     "Sleep quality": "94%",
     "Time in bed": "7:48",
     "Wake up": ":)",
@@ -4229,17 +1907,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-09-01 00:13:25",
-    "End": "2014-09-01 07:00:39",
+    "Start": "9/1/14 0:13",
+    "End": "9/1/14 7:00",
     "Sleep quality": "82%",
     "Time in bed": "6:47",
     "Wake up": ":|",
@@ -4247,17 +1916,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-09-02 23:12:42",
-    "End": "2014-09-03 06:36:55",
+    "Start": "9/2/14 23:12",
+    "End": "9/3/14 6:36",
     "Sleep quality": "89%",
     "Time in bed": "7:24",
     "Wake up": ":)",
@@ -4265,17 +1925,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-09-04 23:31:37",
-    "End": "2014-09-05 06:42:07",
+    "Start": "9/4/14 23:31",
+    "End": "9/5/14 6:42",
     "Sleep quality": "87%",
     "Time in bed": "7:10",
     "Wake up": ":|",
@@ -4283,17 +1934,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-09-06 00:11:48",
-    "End": "2014-09-06 07:09:17",
+    "Start": "9/6/14 0:11",
+    "End": "9/6/14 7:09",
     "Sleep quality": "84%",
     "Time in bed": "6:57",
     "Wake up": ":)",
@@ -4301,17 +1943,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-09-07 23:13:02",
-    "End": "2014-09-08 06:50:53",
+    "Start": "9/7/14 23:13",
+    "End": "9/8/14 6:50",
     "Sleep quality": "94%",
     "Time in bed": "7:37",
     "Wake up": ":|",
@@ -4319,17 +1952,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-09-08 23:07:32",
-    "End": "2014-09-09 06:07:50",
+    "Start": "9/8/14 23:07",
+    "End": "9/9/14 6:07",
     "Sleep quality": "85%",
     "Time in bed": "7:00",
     "Wake up": ":|",
@@ -4337,17 +1961,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-09-09 22:29:53",
-    "End": "2014-09-10 06:38:45",
+    "Start": "9/9/14 22:29",
+    "End": "9/10/14 6:38",
     "Sleep quality": "98%",
     "Time in bed": "8:08",
     "Wake up": ":)",
@@ -4355,17 +1970,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-09-10 22:37:32",
-    "End": "2014-09-11 06:30:22",
+    "Start": "9/10/14 22:37",
+    "End": "9/11/14 6:30",
     "Sleep quality": "88%",
     "Time in bed": "7:52",
     "Wake up": ":|",
@@ -4373,17 +1979,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-09-11 23:18:23",
-    "End": "2014-09-12 07:24:57",
+    "Start": "9/11/14 23:18",
+    "End": "9/12/14 7:24",
     "Sleep quality": "95%",
     "Time in bed": "8:06",
     "Wake up": ":)",
@@ -4391,17 +1988,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-09-13 23:15:36",
-    "End": "2014-09-14 08:03:18",
+    "Start": "9/13/14 23:15",
+    "End": "9/14/14 8:03",
     "Sleep quality": "100%",
     "Time in bed": "8:47",
     "Wake up": ":|",
@@ -4409,17 +1997,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-09-14 23:12:51",
-    "End": "2014-09-15 07:27:26",
+    "Start": "9/14/14 23:12",
+    "End": "9/15/14 7:27",
     "Sleep quality": "98%",
     "Time in bed": "8:14",
     "Wake up": ":|",
@@ -4427,17 +2006,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-09-15 22:27:59",
-    "End": "2014-09-16 06:27:41",
+    "Start": "9/15/14 22:27",
+    "End": "9/16/14 6:27",
     "Sleep quality": "91%",
     "Time in bed": "7:59",
     "Wake up": ":|",
@@ -4445,17 +2015,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-09-16 23:31:19",
-    "End": "2014-09-17 06:35:25",
+    "Start": "9/16/14 23:31",
+    "End": "9/17/14 6:35",
     "Sleep quality": "86%",
     "Time in bed": "7:04",
     "Wake up": ":|",
@@ -4463,17 +2024,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-09-17 23:04:50",
-    "End": "2014-09-18 06:30:19",
+    "Start": "9/17/14 23:04",
+    "End": "9/18/14 6:30",
     "Sleep quality": "90%",
     "Time in bed": "7:25",
     "Wake up": ":|",
@@ -4481,17 +2033,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-09-19 00:14:40",
-    "End": "2014-09-19 07:13:09",
+    "Start": "9/19/14 0:14",
+    "End": "9/19/14 7:13",
     "Sleep quality": "65%",
     "Time in bed": "6:58",
     "Wake up": ":)",
@@ -4499,17 +2042,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-09-20 22:44:34",
-    "End": "2014-09-21 07:05:20",
+    "Start": "9/20/14 22:44",
+    "End": "9/21/14 7:05",
     "Sleep quality": "92%",
     "Time in bed": "8:20",
     "Wake up": ":(",
@@ -4517,17 +2051,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-09-22 00:00:56",
-    "End": "2014-09-22 06:34:31",
+    "Start": "9/22/14 0:00",
+    "End": "9/22/14 6:34",
     "Sleep quality": "79%",
     "Time in bed": "6:33",
     "Wake up": ":|",
@@ -4535,17 +2060,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-09-22 22:10:34",
-    "End": "2014-09-23 06:27:46",
+    "Start": "9/22/14 22:10",
+    "End": "9/23/14 6:27",
     "Sleep quality": "98%",
     "Time in bed": "8:17",
     "Wake up": ":|",
@@ -4553,17 +2069,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-09-23 23:22:51",
-    "End": "2014-09-24 06:58:05",
+    "Start": "9/23/14 23:22",
+    "End": "9/24/14 6:58",
     "Sleep quality": "90%",
     "Time in bed": "7:35",
     "Wake up": ":|",
@@ -4571,17 +2078,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-09-24 23:54:17",
-    "End": "2014-09-25 06:18:44",
+    "Start": "9/24/14 23:54",
+    "End": "9/25/14 6:18",
     "Sleep quality": "77%",
     "Time in bed": "6:24",
     "Wake up": ":|",
@@ -4589,17 +2087,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-09-25 23:39:52",
-    "End": "2014-09-26 07:04:27",
+    "Start": "9/25/14 23:39",
+    "End": "9/26/14 7:04",
     "Sleep quality": "89%",
     "Time in bed": "7:24",
     "Wake up": ":)",
@@ -4607,17 +2096,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-09-27 00:12:52",
-    "End": "2014-09-27 08:39:54",
+    "Start": "9/27/14 0:12",
+    "End": "9/27/14 8:39",
     "Sleep quality": "100%",
     "Time in bed": "8:27",
     "Wake up": ":)",
@@ -4625,17 +2105,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-09-27 23:01:34",
-    "End": "2014-09-28 06:57:48",
+    "Start": "9/27/14 23:01",
+    "End": "9/28/14 6:57",
     "Sleep quality": "85%",
     "Time in bed": "7:56",
     "Wake up": ":|",
@@ -4643,17 +2114,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-09-28 23:14:31",
-    "End": "2014-09-29 06:34:46",
+    "Start": "9/28/14 23:14",
+    "End": "9/29/14 6:34",
     "Sleep quality": "85%",
     "Time in bed": "7:20",
     "Wake up": ":|",
@@ -4661,17 +2123,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-09-29 22:57:30",
-    "End": "2014-09-30 06:08:34",
+    "Start": "9/29/14 22:57",
+    "End": "9/30/14 6:08",
     "Sleep quality": "86%",
     "Time in bed": "7:11",
     "Wake up": ":|",
@@ -4679,17 +2132,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-09-30 23:13:16",
-    "End": "2014-10-01 06:35:53",
+    "Start": "9/30/14 23:13",
+    "End": "10/1/14 6:35",
     "Sleep quality": "84%",
     "Time in bed": "7:22",
     "Wake up": ":|",
@@ -4697,17 +2141,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-10-01 23:24:44",
-    "End": "2014-10-02 06:40:11",
+    "Start": "10/1/14 23:24",
+    "End": "10/2/14 6:40",
     "Sleep quality": "81%",
     "Time in bed": "7:15",
     "Wake up": ":(",
@@ -4715,17 +2150,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-10-02 23:40:33",
-    "End": "2014-10-03 06:39:47",
+    "Start": "10/2/14 23:40",
+    "End": "10/3/14 6:39",
     "Sleep quality": "83%",
     "Time in bed": "6:59",
     "Wake up": ":|",
@@ -4733,17 +2159,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-10-04 00:40:52",
-    "End": "2014-10-04 07:47:33",
+    "Start": "10/4/14 0:40",
+    "End": "10/4/14 7:47",
     "Sleep quality": "85%",
     "Time in bed": "7:06",
     "Wake up": ":|",
@@ -4751,17 +2168,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-10-04 23:48:55",
-    "End": "2014-10-05 08:32:27",
+    "Start": "10/4/14 23:48",
+    "End": "10/5/14 8:32",
     "Sleep quality": "100%",
     "Time in bed": "8:43",
     "Wake up": ":)",
@@ -4769,35 +2177,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-10-06 00:01:45",
-    "End": "2014-10-06 06:38:56",
-    "Sleep quality": "79%",
-    "Time in bed": "6:37",
-    "Wake up": "",
-    "Sleep Notes": "Ate late:Drank coffee:Worked out",
-    "Activity (steps)": 0
-  },
-  {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-10-06 21:58:05",
-    "End": "2014-10-07 06:13:26",
+    "Start": "10/6/14 21:58",
+    "End": "10/7/14 6:13",
     "Sleep quality": "99%",
     "Time in bed": "8:15",
     "Wake up": ":)",
@@ -4805,17 +2186,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-10-07 22:57:21",
-    "End": "2014-10-08 06:44:31",
+    "Start": "10/7/14 22:57",
+    "End": "10/8/14 6:44",
     "Sleep quality": "77%",
     "Time in bed": "7:47",
     "Wake up": ":|",
@@ -4823,17 +2195,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-10-08 23:33:11",
-    "End": "2014-10-09 06:07:59",
+    "Start": "10/8/14 23:33",
+    "End": "10/9/14 6:07",
     "Sleep quality": "75%",
     "Time in bed": "6:34",
     "Wake up": ":|",
@@ -4841,17 +2204,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-10-09 23:03:09",
-    "End": "2014-10-10 07:28:35",
+    "Start": "10/9/14 23:03",
+    "End": "10/10/14 7:28",
     "Sleep quality": "99%",
     "Time in bed": "8:25",
     "Wake up": ":|",
@@ -4859,17 +2213,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-10-11 00:26:20",
-    "End": "2014-10-11 07:06:14",
+    "Start": "10/11/14 0:26",
+    "End": "10/11/14 7:06",
     "Sleep quality": "81%",
     "Time in bed": "6:39",
     "Wake up": ":(",
@@ -4877,17 +2222,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-10-11 23:54:37",
-    "End": "2014-10-12 08:57:33",
+    "Start": "10/11/14 23:54",
+    "End": "10/12/14 8:57",
     "Sleep quality": "100%",
     "Time in bed": "9:02",
     "Wake up": ":|",
@@ -4895,17 +2231,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-10-12 23:04:39",
-    "End": "2014-10-13 06:51:11",
+    "Start": "10/12/14 23:04",
+    "End": "10/13/14 6:51",
     "Sleep quality": "92%",
     "Time in bed": "7:46",
     "Wake up": ":|",
@@ -4913,17 +2240,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-10-13 23:33:11",
-    "End": "2014-10-14 06:43:21",
+    "Start": "10/13/14 23:33",
+    "End": "10/14/14 6:43",
     "Sleep quality": "77%",
     "Time in bed": "7:10",
     "Wake up": ":|",
@@ -4931,17 +2249,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-10-14 23:49:35",
-    "End": "2014-10-15 06:58:26",
+    "Start": "10/14/14 23:49",
+    "End": "10/15/14 6:58",
     "Sleep quality": "76%",
     "Time in bed": "7:08",
     "Wake up": ":|",
@@ -4949,17 +2258,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-10-15 23:31:11",
-    "End": "2014-10-16 06:51:46",
+    "Start": "10/15/14 23:31",
+    "End": "10/16/14 6:51",
     "Sleep quality": "86%",
     "Time in bed": "7:20",
     "Wake up": ":|",
@@ -4967,17 +2267,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-10-17 00:27:14",
-    "End": "2014-10-17 06:05:27",
+    "Start": "10/17/14 0:27",
+    "End": "10/17/14 6:05",
     "Sleep quality": "64%",
     "Time in bed": "5:38",
     "Wake up": ":|",
@@ -4985,17 +2276,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-10-21 23:40:17",
-    "End": "2014-10-22 06:58:32",
+    "Start": "10/21/14 23:40",
+    "End": "10/22/14 6:58",
     "Sleep quality": "88%",
     "Time in bed": "7:18",
     "Wake up": ":|",
@@ -5003,17 +2285,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-10-22 23:31:59",
-    "End": "2014-10-23 06:15:39",
+    "Start": "10/22/14 23:31",
+    "End": "10/23/14 6:15",
     "Sleep quality": "82%",
     "Time in bed": "6:43",
     "Wake up": ":(",
@@ -5021,17 +2294,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-10-24 00:13:50",
-    "End": "2014-10-24 06:57:51",
+    "Start": "10/24/14 0:13",
+    "End": "10/24/14 6:57",
     "Sleep quality": "81%",
     "Time in bed": "6:44",
     "Wake up": ":|",
@@ -5039,17 +2303,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-10-25 00:57:59",
-    "End": "2014-10-25 08:57:48",
+    "Start": "10/25/14 0:57",
+    "End": "10/25/14 8:57",
     "Sleep quality": "75%",
     "Time in bed": "7:59",
     "Wake up": ":(",
@@ -5057,17 +2312,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-10-25 23:34:18",
-    "End": "2014-10-26 07:30:48",
+    "Start": "10/25/14 23:34",
+    "End": "10/26/14 7:30",
     "Sleep quality": "89%",
     "Time in bed": "7:56",
     "Wake up": ":)",
@@ -5075,17 +2321,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-10-27 01:06:10",
-    "End": "2014-10-27 06:40:36",
+    "Start": "10/27/14 1:06",
+    "End": "10/27/14 6:40",
     "Sleep quality": "67%",
     "Time in bed": "5:34",
     "Wake up": ":|",
@@ -5093,17 +2330,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-10-27 22:55:05",
-    "End": "2014-10-28 06:28:50",
+    "Start": "10/27/14 22:55",
+    "End": "10/28/14 6:28",
     "Sleep quality": "86%",
     "Time in bed": "7:33",
     "Wake up": ":|",
@@ -5111,17 +2339,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-10-28 22:49:14",
-    "End": "2014-10-29 06:47:16",
+    "Start": "10/28/14 22:49",
+    "End": "10/29/14 6:47",
     "Sleep quality": "66%",
     "Time in bed": "7:58",
     "Wake up": ":)",
@@ -5129,17 +2348,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-10-29 23:38:10",
-    "End": "2014-10-30 06:30:18",
+    "Start": "10/29/14 23:38",
+    "End": "10/30/14 6:30",
     "Sleep quality": "77%",
     "Time in bed": "6:52",
     "Wake up": ":|",
@@ -5147,17 +2357,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-10-31 00:05:29",
-    "End": "2014-10-31 07:27:45",
+    "Start": "10/31/14 0:05",
+    "End": "10/31/14 7:27",
     "Sleep quality": "81%",
     "Time in bed": "7:22",
     "Wake up": ":|",
@@ -5165,17 +2366,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-11-01 00:41:18",
-    "End": "2014-11-01 07:34:08",
+    "Start": "11/1/14 0:41",
+    "End": "11/1/14 7:34",
     "Sleep quality": "80%",
     "Time in bed": "6:52",
     "Wake up": ":|",
@@ -5183,17 +2375,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-11-02 00:10:07",
-    "End": "2014-11-02 07:12:40",
+    "Start": "11/2/14 0:10",
+    "End": "11/2/14 7:12",
     "Sleep quality": "91%",
     "Time in bed": "8:02",
     "Wake up": ":|",
@@ -5201,17 +2384,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-11-02 23:26:26",
-    "End": "2014-11-03 06:57:30",
+    "Start": "11/2/14 23:26",
+    "End": "11/3/14 6:57",
     "Sleep quality": "90%",
     "Time in bed": "7:31",
     "Wake up": ":|",
@@ -5219,17 +2393,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-11-03 23:04:34",
-    "End": "2014-11-04 06:21:35",
+    "Start": "11/3/14 23:04",
+    "End": "11/4/14 6:21",
     "Sleep quality": "86%",
     "Time in bed": "7:17",
     "Wake up": ":|",
@@ -5237,17 +2402,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-11-04 23:50:18",
-    "End": "2014-11-05 06:57:36",
+    "Start": "11/4/14 23:50",
+    "End": "11/5/14 6:57",
     "Sleep quality": "86%",
     "Time in bed": "7:07",
     "Wake up": ":|",
@@ -5255,17 +2411,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-11-06 00:30:50",
-    "End": "2014-11-06 06:38:17",
+    "Start": "11/6/14 0:30",
+    "End": "11/6/14 6:38",
     "Sleep quality": "71%",
     "Time in bed": "6:07",
     "Wake up": ":|",
@@ -5273,17 +2420,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-11-07 00:13:18",
-    "End": "2014-11-07 07:27:38",
+    "Start": "11/7/14 0:13",
+    "End": "11/7/14 7:27",
     "Sleep quality": "86%",
     "Time in bed": "7:14",
     "Wake up": ":|",
@@ -5291,17 +2429,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-11-08 01:13:37",
-    "End": "2014-11-08 08:20:52",
+    "Start": "11/8/14 1:13",
+    "End": "11/8/14 8:20",
     "Sleep quality": "83%",
     "Time in bed": "7:07",
     "Wake up": ":|",
@@ -5309,17 +2438,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-11-09 00:35:34",
-    "End": "2014-11-09 08:27:49",
+    "Start": "11/9/14 0:35",
+    "End": "11/9/14 8:27",
     "Sleep quality": "95%",
     "Time in bed": "7:52",
     "Wake up": ":|",
@@ -5327,17 +2447,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-11-10 00:50:34",
-    "End": "2014-11-10 06:34:24",
+    "Start": "11/10/14 0:50",
+    "End": "11/10/14 6:34",
     "Sleep quality": "70%",
     "Time in bed": "5:43",
     "Wake up": ":(",
@@ -5345,17 +2456,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-11-11 00:01:39",
-    "End": "2014-11-11 06:08:10",
+    "Start": "11/11/14 0:01",
+    "End": "11/11/14 6:08",
     "Sleep quality": "70%",
     "Time in bed": "6:06",
     "Wake up": ":|",
@@ -5363,17 +2465,8 @@
     "Activity (steps)": 0
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-11-13 00:30:47",
-    "End": "2014-11-13 06:27:23",
+    "Start": "11/13/14 0:30",
+    "End": "11/13/14 6:27",
     "Sleep quality": "69%",
     "Time in bed": "5:56",
     "Wake up": ":|",
@@ -5381,17 +2474,8 @@
     "Activity (steps)": 7389
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-11-13 23:13:33",
-    "End": "2014-11-14 06:58:52",
+    "Start": "11/13/14 23:13",
+    "End": "11/14/14 6:58",
     "Sleep quality": "90%",
     "Time in bed": "7:45",
     "Wake up": ":|",
@@ -5399,17 +2483,8 @@
     "Activity (steps)": 6075
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-11-15 00:51:20",
-    "End": "2014-11-15 08:37:46",
+    "Start": "11/15/14 0:51",
+    "End": "11/15/14 8:37",
     "Sleep quality": "92%",
     "Time in bed": "7:46",
     "Wake up": ":)",
@@ -5417,17 +2492,8 @@
     "Activity (steps)": 7710
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-11-16 00:45:53",
-    "End": "2014-11-16 08:14:55",
+    "Start": "11/16/14 0:45",
+    "End": "11/16/14 8:14",
     "Sleep quality": "88%",
     "Time in bed": "7:29",
     "Wake up": ":)",
@@ -5435,17 +2501,8 @@
     "Activity (steps)": 663
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-11-17 00:16:55",
-    "End": "2014-11-17 06:50:54",
+    "Start": "11/17/14 0:16",
+    "End": "11/17/14 6:50",
     "Sleep quality": "76%",
     "Time in bed": "6:33",
     "Wake up": ":|",
@@ -5453,17 +2510,8 @@
     "Activity (steps)": 2977
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-11-17 22:57:06",
-    "End": "2014-11-18 06:08:03",
+    "Start": "11/17/14 22:57",
+    "End": "11/18/14 6:08",
     "Sleep quality": "84%",
     "Time in bed": "7:10",
     "Wake up": ":|",
@@ -5471,17 +2519,8 @@
     "Activity (steps)": 2547
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-11-18 23:24:06",
-    "End": "2014-11-19 06:33:21",
+    "Start": "11/18/14 23:24",
+    "End": "11/19/14 6:33",
     "Sleep quality": "83%",
     "Time in bed": "7:09",
     "Wake up": ":)",
@@ -5489,17 +2528,8 @@
     "Activity (steps)": 5701
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-11-19 23:31:51",
-    "End": "2014-11-20 06:28:40",
+    "Start": "11/19/14 23:31",
+    "End": "11/20/14 6:28",
     "Sleep quality": "80%",
     "Time in bed": "6:56",
     "Wake up": ":|",
@@ -5507,17 +2537,8 @@
     "Activity (steps)": 7765
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-11-20 23:54:24",
-    "End": "2014-11-21 06:35:44",
+    "Start": "11/20/14 23:54",
+    "End": "11/21/14 6:35",
     "Sleep quality": "80%",
     "Time in bed": "6:41",
     "Wake up": ":|",
@@ -5525,17 +2546,8 @@
     "Activity (steps)": 6347
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-11-22 00:15:47",
-    "End": "2014-11-22 08:36:02",
+    "Start": "11/22/14 0:15",
+    "End": "11/22/14 8:36",
     "Sleep quality": "85%",
     "Time in bed": "8:20",
     "Wake up": ":|",
@@ -5543,17 +2555,8 @@
     "Activity (steps)": 8058
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-11-23 00:24:38",
-    "End": "2014-11-23 07:15:41",
+    "Start": "11/23/14 0:24",
+    "End": "11/23/14 7:15",
     "Sleep quality": "78%",
     "Time in bed": "6:51",
     "Wake up": ":)",
@@ -5561,17 +2564,8 @@
     "Activity (steps)": 7754
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-11-30 23:31:25",
-    "End": "2014-12-01 06:42:41",
+    "Start": "11/30/14 23:31",
+    "End": "12/1/14 6:42",
     "Sleep quality": "82%",
     "Time in bed": "7:11",
     "Wake up": ":|",
@@ -5579,17 +2573,8 @@
     "Activity (steps)": 1619
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-12-02 00:54:59",
-    "End": "2014-12-02 07:05:53",
+    "Start": "12/2/14 0:54",
+    "End": "12/2/14 7:05",
     "Sleep quality": "76%",
     "Time in bed": "6:10",
     "Wake up": ":|",
@@ -5597,17 +2582,8 @@
     "Activity (steps)": 4761
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-12-02 23:01:24",
-    "End": "2014-12-03 06:55:44",
+    "Start": "12/2/14 23:01",
+    "End": "12/3/14 6:55",
     "Sleep quality": "91%",
     "Time in bed": "7:54",
     "Wake up": ":|",
@@ -5615,17 +2591,8 @@
     "Activity (steps)": 6507
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-12-03 23:46:37",
-    "End": "2014-12-04 07:06:46",
+    "Start": "12/3/14 23:46",
+    "End": "12/4/14 7:06",
     "Sleep quality": "88%",
     "Time in bed": "7:20",
     "Wake up": ":|",
@@ -5633,17 +2600,8 @@
     "Activity (steps)": 6408
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-12-04 23:05:29",
-    "End": "2014-12-05 06:58:37",
+    "Start": "12/4/14 23:05",
+    "End": "12/5/14 6:58",
     "Sleep quality": "90%",
     "Time in bed": "7:53",
     "Wake up": ":|",
@@ -5651,17 +2609,8 @@
     "Activity (steps)": 6919
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-12-06 00:16:26",
-    "End": "2014-12-06 08:30:19",
+    "Start": "12/6/14 0:16",
+    "End": "12/6/14 8:30",
     "Sleep quality": "84%",
     "Time in bed": "8:13",
     "Wake up": ":)",
@@ -5669,17 +2618,8 @@
     "Activity (steps)": 8590
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-12-08 00:18:49",
-    "End": "2014-12-08 06:40:34",
+    "Start": "12/8/14 0:18",
+    "End": "12/8/14 6:40",
     "Sleep quality": "75%",
     "Time in bed": "6:21",
     "Wake up": ":|",
@@ -5687,17 +2627,8 @@
     "Activity (steps)": 7921
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-12-08 23:36:05",
-    "End": "2014-12-09 06:28:24",
+    "Start": "12/8/14 23:36",
+    "End": "12/9/14 6:28",
     "Sleep quality": "81%",
     "Time in bed": "6:52",
     "Wake up": ":|",
@@ -5705,17 +2636,8 @@
     "Activity (steps)": 3092
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-12-09 23:22:04",
-    "End": "2014-12-10 06:57:50",
+    "Start": "12/9/14 23:22",
+    "End": "12/10/14 6:57",
     "Sleep quality": "90%",
     "Time in bed": "7:35",
     "Wake up": ":)",
@@ -5723,17 +2645,8 @@
     "Activity (steps)": 4351
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-12-11 00:05:37",
-    "End": "2014-12-11 06:06:12",
+    "Start": "12/11/14 0:05",
+    "End": "12/11/14 6:06",
     "Sleep quality": "72%",
     "Time in bed": "6:00",
     "Wake up": ":|",
@@ -5741,17 +2654,8 @@
     "Activity (steps)": 7605
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-12-11 23:02:18",
-    "End": "2014-12-12 07:06:58",
+    "Start": "12/11/14 23:02",
+    "End": "12/12/14 7:06",
     "Sleep quality": "96%",
     "Time in bed": "8:04",
     "Wake up": ":)",
@@ -5759,17 +2663,8 @@
     "Activity (steps)": 9679
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-12-12 23:52:31",
-    "End": "2014-12-13 07:44:41",
+    "Start": "12/12/14 23:52",
+    "End": "12/13/14 7:44",
     "Sleep quality": "89%",
     "Time in bed": "7:52",
     "Wake up": ":)",
@@ -5777,17 +2672,8 @@
     "Activity (steps)": 6354
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-12-13 22:22:45",
-    "End": "2014-12-14 07:51:40",
+    "Start": "12/13/14 22:22",
+    "End": "12/14/14 7:51",
     "Sleep quality": "100%",
     "Time in bed": "9:28",
     "Wake up": ":)",
@@ -5795,17 +2681,8 @@
     "Activity (steps)": 6055
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-12-14 23:18:31",
-    "End": "2014-12-15 07:50:28",
+    "Start": "12/14/14 23:18",
+    "End": "12/15/14 7:50",
     "Sleep quality": "97%",
     "Time in bed": "8:31",
     "Wake up": ":)",
@@ -5813,17 +2690,8 @@
     "Activity (steps)": 3587
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-12-16 00:32:59",
-    "End": "2014-12-16 07:57:21",
+    "Start": "12/16/14 0:32",
+    "End": "12/16/14 7:57",
     "Sleep quality": "83%",
     "Time in bed": "7:24",
     "Wake up": ":)",
@@ -5831,17 +2699,8 @@
     "Activity (steps)": 4297
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-12-17 00:07:08",
-    "End": "2014-12-17 07:54:59",
+    "Start": "12/17/14 0:07",
+    "End": "12/17/14 7:54",
     "Sleep quality": "87%",
     "Time in bed": "7:47",
     "Wake up": ":)",
@@ -5849,17 +2708,8 @@
     "Activity (steps)": 4069
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2014-12-17 23:07:26",
-    "End": "2014-12-18 06:07:28",
+    "Start": "12/17/14 23:07",
+    "End": "12/18/14 6:07",
     "Sleep quality": "77%",
     "Time in bed": "7:00",
     "Wake up": ":|",
@@ -5867,17 +2717,8 @@
     "Activity (steps)": 2663
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-01-07 22:38:41",
-    "End": "2015-01-08 07:57:57",
+    "Start": "1/7/15 22:38",
+    "End": "1/8/15 7:57",
     "Sleep quality": "84%",
     "Time in bed": "9:19",
     "Wake up": ":)",
@@ -5885,17 +2726,8 @@
     "Activity (steps)": 3360
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-01-11 22:53:02",
-    "End": "2015-01-12 06:28:06",
+    "Start": "1/11/15 22:53",
+    "End": "1/12/15 6:28",
     "Sleep quality": "88%",
     "Time in bed": "7:35",
     "Wake up": ":|",
@@ -5903,17 +2735,8 @@
     "Activity (steps)": 2673
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-01-12 22:37:40",
-    "End": "2015-01-13 07:35:43",
+    "Start": "1/12/15 22:37",
+    "End": "1/13/15 7:35",
     "Sleep quality": "100%",
     "Time in bed": "8:58",
     "Wake up": ":|",
@@ -5921,17 +2744,8 @@
     "Activity (steps)": 2655
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-01-13 22:45:19",
-    "End": "2015-01-14 07:38:38",
+    "Start": "1/13/15 22:45",
+    "End": "1/14/15 7:38",
     "Sleep quality": "88%",
     "Time in bed": "8:53",
     "Wake up": ":)",
@@ -5939,17 +2753,8 @@
     "Activity (steps)": 6711
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-01-14 22:32:05",
-    "End": "2015-01-15 07:27:43",
+    "Start": "1/14/15 22:32",
+    "End": "1/15/15 7:27",
     "Sleep quality": "99%",
     "Time in bed": "8:55",
     "Wake up": ":)",
@@ -5957,17 +2762,8 @@
     "Activity (steps)": 3350
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-01-15 22:40:21",
-    "End": "2015-01-16 07:38:36",
+    "Start": "1/15/15 22:40",
+    "End": "1/16/15 7:38",
     "Sleep quality": "97%",
     "Time in bed": "8:58",
     "Wake up": ":)",
@@ -5975,17 +2771,8 @@
     "Activity (steps)": 5671
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-01-16 23:30:24",
-    "End": "2015-01-17 07:03:23",
+    "Start": "1/16/15 23:30",
+    "End": "1/17/15 7:03",
     "Sleep quality": "85%",
     "Time in bed": "7:32",
     "Wake up": ":)",
@@ -5993,17 +2780,8 @@
     "Activity (steps)": 2623
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-01-18 23:25:34",
-    "End": "2015-01-19 07:25:03",
+    "Start": "1/18/15 23:25",
+    "End": "1/19/15 7:25",
     "Sleep quality": "91%",
     "Time in bed": "7:59",
     "Wake up": ":|",
@@ -6011,17 +2789,8 @@
     "Activity (steps)": 4823
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-01-19 23:20:39",
-    "End": "2015-01-20 07:09:53",
+    "Start": "1/19/15 23:20",
+    "End": "1/20/15 7:09",
     "Sleep quality": "90%",
     "Time in bed": "7:49",
     "Wake up": ":)",
@@ -6029,17 +2798,8 @@
     "Activity (steps)": 1169
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-01-20 21:58:03",
-    "End": "2015-01-21 06:28:28",
+    "Start": "1/20/15 21:58",
+    "End": "1/21/15 6:28",
     "Sleep quality": "51%",
     "Time in bed": "8:30",
     "Wake up": ":(",
@@ -6047,17 +2807,8 @@
     "Activity (steps)": 8132
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-01-22 01:40:26",
-    "End": "2015-01-22 07:44:56",
+    "Start": "1/22/15 1:40",
+    "End": "1/22/15 7:44",
     "Sleep quality": "70%",
     "Time in bed": "6:04",
     "Wake up": ":|",
@@ -6065,17 +2816,8 @@
     "Activity (steps)": 4509
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-01-23 00:09:55",
-    "End": "2015-01-23 07:47:07",
+    "Start": "1/23/15 0:09",
+    "End": "1/23/15 7:47",
     "Sleep quality": "84%",
     "Time in bed": "7:37",
     "Wake up": ":|",
@@ -6083,17 +2825,8 @@
     "Activity (steps)": 4469
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-01-23 23:15:40",
-    "End": "2015-01-24 06:42:31",
+    "Start": "1/23/15 23:15",
+    "End": "1/24/15 6:42",
     "Sleep quality": "83%",
     "Time in bed": "7:26",
     "Wake up": ":|",
@@ -6101,17 +2834,8 @@
     "Activity (steps)": 6931
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-01-25 00:03:43",
-    "End": "2015-01-25 07:57:36",
+    "Start": "1/25/15 0:03",
+    "End": "1/25/15 7:57",
     "Sleep quality": "89%",
     "Time in bed": "7:53",
     "Wake up": ":|",
@@ -6119,17 +2843,8 @@
     "Activity (steps)": 4779
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-01-25 23:10:00",
-    "End": "2015-01-26 07:47:36",
+    "Start": "1/25/15 23:10",
+    "End": "1/26/15 7:47",
     "Sleep quality": "98%",
     "Time in bed": "8:37",
     "Wake up": ":|",
@@ -6137,17 +2852,8 @@
     "Activity (steps)": 2831
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-01-26 23:38:39",
-    "End": "2015-01-27 07:29:05",
+    "Start": "1/26/15 23:38",
+    "End": "1/27/15 7:29",
     "Sleep quality": "90%",
     "Time in bed": "7:50",
     "Wake up": ":|",
@@ -6155,17 +2861,8 @@
     "Activity (steps)": 1450
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-01-27 23:06:04",
-    "End": "2015-01-28 06:23:45",
+    "Start": "1/27/15 23:06",
+    "End": "1/28/15 6:23",
     "Sleep quality": "77%",
     "Time in bed": "7:17",
     "Wake up": ":|",
@@ -6173,215 +2870,8 @@
     "Activity (steps)": 7640
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-01-29 00:12:09",
-    "End": "2015-01-29 07:27:52",
-    "Sleep quality": "81%",
-    "Time in bed": "7:15",
-    "Wake up": "",
-    "Sleep Notes": "Ate late:Drank coffee:Drank tea:Stressful day",
-    "Activity (steps)": 6492
-  },
-  {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-01-30 00:04:38",
-    "End": "2015-01-30 07:32:57",
-    "Sleep quality": "84%",
-    "Time in bed": "7:28",
-    "Wake up": "",
-    "Sleep Notes": "Ate late:Drank coffee:Drank tea:Worked out",
-    "Activity (steps)": 7574
-  },
-  {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-01-30 23:28:32",
-    "End": "2015-01-31 07:42:34",
-    "Sleep quality": "83%",
-    "Time in bed": "8:14",
-    "Wake up": "",
-    "Sleep Notes": "Ate late:Drank coffee:Drank tea:Worked out",
-    "Activity (steps)": 2258
-  },
-  {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-02-01 00:06:25",
-    "End": "2015-02-01 07:42:44",
-    "Sleep quality": "87%",
-    "Time in bed": "7:36",
-    "Wake up": "",
-    "Sleep Notes": "Drank coffee:Drank tea",
-    "Activity (steps)": 90
-  },
-  {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-02-01 23:02:45",
-    "End": "2015-02-02 07:27:37",
-    "Sleep quality": "88%",
-    "Time in bed": "8:24",
-    "Wake up": "",
-    "Sleep Notes": "Ate late:Drank coffee:Drank tea:Stressful day",
-    "Activity (steps)": 706
-  },
-  {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-02-02 23:16:43",
-    "End": "2015-02-03 07:17:43",
-    "Sleep quality": "93%",
-    "Time in bed": "8:00",
-    "Wake up": "",
-    "Sleep Notes": "Drank coffee:Drank tea",
-    "Activity (steps)": 2244
-  },
-  {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-02-03 23:04:42",
-    "End": "2015-02-04 06:16:53",
-    "Sleep quality": "71%",
-    "Time in bed": "7:12",
-    "Wake up": "",
-    "Sleep Notes": "Drank coffee:Drank tea:Worked out",
-    "Activity (steps)": 5854
-  },
-  {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-02-04 23:32:46",
-    "End": "2015-02-05 07:12:13",
-    "Sleep quality": "74%",
-    "Time in bed": "7:39",
-    "Wake up": "",
-    "Sleep Notes": "Ate late:Drank coffee:Drank tea:Stressful day",
-    "Activity (steps)": 3768
-  },
-  {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-02-05 23:48:21",
-    "End": "2015-02-06 07:48:05",
-    "Sleep quality": "91%",
-    "Time in bed": "7:59",
-    "Wake up": "",
-    "Sleep Notes": "Ate late:Drank coffee:Drank tea:Worked out",
-    "Activity (steps)": 9769
-  },
-  {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-02-07 02:01:54",
-    "End": "2015-02-07 07:58:30",
-    "Sleep quality": "69%",
-    "Time in bed": "5:56",
-    "Wake up": "",
-    "Sleep Notes": "Drank coffee:Drank tea",
-    "Activity (steps)": 1659
-  },
-  {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-02-08 01:26:50",
-    "End": "2015-02-08 08:10:46",
-    "Sleep quality": "77%",
-    "Time in bed": "6:43",
-    "Wake up": "",
-    "Sleep Notes": "Ate late:Drank coffee:Drank tea",
-    "Activity (steps)": 2650
-  },
-  {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-02-09 03:16:11",
-    "End": "2015-02-09 06:43:28",
+    "Start": "2/9/15 3:16",
+    "End": "2/9/15 6:43",
     "Sleep quality": "41%",
     "Time in bed": "3:27",
     "Wake up": ":|",
@@ -6389,17 +2879,8 @@
     "Activity (steps)": 2206
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-02-09 21:33:40",
-    "End": "2015-02-10 07:21:28",
+    "Start": "2/9/15 21:33",
+    "End": "2/10/15 7:21",
     "Sleep quality": "100%",
     "Time in bed": "9:47",
     "Wake up": ":)",
@@ -6407,17 +2888,8 @@
     "Activity (steps)": 3762
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-02-10 22:47:48",
-    "End": "2015-02-11 06:27:40",
+    "Start": "2/10/15 22:47",
+    "End": "2/11/15 6:27",
     "Sleep quality": "86%",
     "Time in bed": "7:39",
     "Wake up": ":)",
@@ -6425,17 +2897,8 @@
     "Activity (steps)": 5204
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-02-11 23:11:35",
-    "End": "2015-02-12 07:24:30",
+    "Start": "2/11/15 23:11",
+    "End": "2/12/15 7:24",
     "Sleep quality": "92%",
     "Time in bed": "8:12",
     "Wake up": ":|",
@@ -6443,17 +2906,8 @@
     "Activity (steps)": 2083
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-02-12 23:42:30",
-    "End": "2015-02-13 06:47:48",
+    "Start": "2/12/15 23:42",
+    "End": "2/13/15 6:47",
     "Sleep quality": "72%",
     "Time in bed": "7:05",
     "Wake up": ":|",
@@ -6461,17 +2915,8 @@
     "Activity (steps)": 4397
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-02-14 01:28:23",
-    "End": "2015-02-14 07:01:07",
+    "Start": "2/14/15 1:28",
+    "End": "2/14/15 7:01",
     "Sleep quality": "66%",
     "Time in bed": "5:32",
     "Wake up": ":)",
@@ -6479,17 +2924,8 @@
     "Activity (steps)": 3476
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-02-15 00:20:19",
-    "End": "2015-02-15 07:27:53",
+    "Start": "2/15/15 0:20",
+    "End": "2/15/15 7:27",
     "Sleep quality": "80%",
     "Time in bed": "7:07",
     "Wake up": ":)",
@@ -6497,17 +2933,8 @@
     "Activity (steps)": 3851
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-02-16 00:14:02",
-    "End": "2015-02-16 07:22:02",
+    "Start": "2/16/15 0:14",
+    "End": "2/16/15 7:22",
     "Sleep quality": "70%",
     "Time in bed": "7:08",
     "Wake up": ":|",
@@ -6515,17 +2942,8 @@
     "Activity (steps)": 3011
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-02-17 00:23:31",
-    "End": "2015-02-17 07:15:55",
+    "Start": "2/17/15 0:23",
+    "End": "2/17/15 7:15",
     "Sleep quality": "78%",
     "Time in bed": "6:52",
     "Wake up": ":|",
@@ -6533,17 +2951,8 @@
     "Activity (steps)": 1606
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-02-17 23:21:35",
-    "End": "2015-02-18 06:27:30",
+    "Start": "2/17/15 23:21",
+    "End": "2/18/15 6:27",
     "Sleep quality": "77%",
     "Time in bed": "7:05",
     "Wake up": ":|",
@@ -6551,17 +2960,8 @@
     "Activity (steps)": 5321
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-02-18 23:43:29",
-    "End": "2015-02-19 07:28:48",
+    "Start": "2/18/15 23:43",
+    "End": "2/19/15 7:28",
     "Sleep quality": "84%",
     "Time in bed": "7:45",
     "Wake up": ":|",
@@ -6569,17 +2969,8 @@
     "Activity (steps)": 2996
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-02-20 00:04:22",
-    "End": "2015-02-20 06:44:58",
+    "Start": "2/20/15 0:04",
+    "End": "2/20/15 6:44",
     "Sleep quality": "76%",
     "Time in bed": "6:40",
     "Wake up": ":|",
@@ -6587,17 +2978,8 @@
     "Activity (steps)": 4455
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-02-21 00:21:32",
-    "End": "2015-02-21 07:47:46",
+    "Start": "2/21/15 0:21",
+    "End": "2/21/15 7:47",
     "Sleep quality": "83%",
     "Time in bed": "7:26",
     "Wake up": ":)",
@@ -6605,17 +2987,8 @@
     "Activity (steps)": 4406
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-02-22 01:01:07",
-    "End": "2015-02-22 08:12:45",
+    "Start": "2/22/15 1:01",
+    "End": "2/22/15 8:12",
     "Sleep quality": "81%",
     "Time in bed": "7:11",
     "Wake up": ":)",
@@ -6623,17 +2996,8 @@
     "Activity (steps)": 7078
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-02-23 00:08:51",
-    "End": "2015-02-23 06:09:20",
+    "Start": "2/23/15 0:08",
+    "End": "2/23/15 6:09",
     "Sleep quality": "71%",
     "Time in bed": "6:00",
     "Wake up": ":|",
@@ -6641,17 +3005,8 @@
     "Activity (steps)": 9128
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-02-23 22:37:03",
-    "End": "2015-02-24 06:53:50",
+    "Start": "2/23/15 22:37",
+    "End": "2/24/15 6:53",
     "Sleep quality": "92%",
     "Time in bed": "8:16",
     "Wake up": ":|",
@@ -6659,17 +3014,8 @@
     "Activity (steps)": 2837
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-02-24 23:13:45",
-    "End": "2015-02-25 06:08:51",
+    "Start": "2/24/15 23:13",
+    "End": "2/25/15 6:08",
     "Sleep quality": "81%",
     "Time in bed": "6:55",
     "Wake up": ":|",
@@ -6677,17 +3023,8 @@
     "Activity (steps)": 4589
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-02-25 23:11:23",
-    "End": "2015-02-26 06:51:08",
+    "Start": "2/25/15 23:11",
+    "End": "2/26/15 6:51",
     "Sleep quality": "81%",
     "Time in bed": "7:39",
     "Wake up": ":|",
@@ -6695,17 +3032,8 @@
     "Activity (steps)": 5552
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-02-28 00:00:22",
-    "End": "2015-02-28 07:54:16",
+    "Start": "2/28/15 0:00",
+    "End": "2/28/15 7:54",
     "Sleep quality": "91%",
     "Time in bed": "7:53",
     "Wake up": ":)",
@@ -6713,17 +3041,8 @@
     "Activity (steps)": 7147
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-03-01 00:51:20",
-    "End": "2015-03-01 07:44:28",
+    "Start": "3/1/15 0:51",
+    "End": "3/1/15 7:44",
     "Sleep quality": "80%",
     "Time in bed": "6:53",
     "Wake up": ":|",
@@ -6731,17 +3050,8 @@
     "Activity (steps)": 2636
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-03-01 23:42:13",
-    "End": "2015-03-02 07:28:03",
+    "Start": "3/1/15 23:42",
+    "End": "3/2/15 7:28",
     "Sleep quality": "82%",
     "Time in bed": "7:45",
     "Wake up": ":|",
@@ -6749,35 +3059,8 @@
     "Activity (steps)": 2722
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-03-02 23:54:39",
-    "End": "2015-03-03 06:50:13",
-    "Sleep quality": "81%",
-    "Time in bed": "6:55",
-    "Wake up": "",
-    "Sleep Notes": "Drank coffee:Followed bedtime routine :Stressful day",
-    "Activity (steps)": 6132
-  },
-  {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-03-03 23:39:58",
-    "End": "2015-03-04 06:27:44",
+    "Start": "3/3/15 23:39",
+    "End": "3/4/15 6:27",
     "Sleep quality": "82%",
     "Time in bed": "6:47",
     "Wake up": ":|",
@@ -6785,17 +3068,8 @@
     "Activity (steps)": 5005
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-03-04 22:17:10",
-    "End": "2015-03-05 07:13:09",
+    "Start": "3/4/15 22:17",
+    "End": "3/5/15 7:13",
     "Sleep quality": "100%",
     "Time in bed": "8:55",
     "Wake up": ":)",
@@ -6803,17 +3077,8 @@
     "Activity (steps)": 2546
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-03-05 22:57:05",
-    "End": "2015-03-06 07:47:52",
+    "Start": "3/5/15 22:57",
+    "End": "3/6/15 7:47",
     "Sleep quality": "100%",
     "Time in bed": "8:50",
     "Wake up": ":)",
@@ -6821,17 +3086,8 @@
     "Activity (steps)": 6280
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-03-07 01:27:32",
-    "End": "2015-03-07 07:37:16",
+    "Start": "3/7/15 1:27",
+    "End": "3/7/15 7:37",
     "Sleep quality": "69%",
     "Time in bed": "6:09",
     "Wake up": ":)",
@@ -6839,17 +3095,8 @@
     "Activity (steps)": 2567
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-03-07 23:35:43",
-    "End": "2015-03-08 07:27:38",
+    "Start": "3/7/15 23:35",
+    "End": "3/8/15 7:27",
     "Sleep quality": "81%",
     "Time in bed": "6:51",
     "Wake up": ":)",
@@ -6857,17 +3104,8 @@
     "Activity (steps)": 2509
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-03-09 00:16:32",
-    "End": "2015-03-09 07:05:49",
+    "Start": "3/9/15 0:16",
+    "End": "3/9/15 7:05",
     "Sleep quality": "83%",
     "Time in bed": "6:49",
     "Wake up": ":|",
@@ -6875,17 +3113,8 @@
     "Activity (steps)": 6452
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-03-09 23:19:00",
-    "End": "2015-03-10 06:57:36",
+    "Start": "3/9/15 23:19",
+    "End": "3/10/15 6:57",
     "Sleep quality": "83%",
     "Time in bed": "7:38",
     "Wake up": ":|",
@@ -6893,17 +3122,8 @@
     "Activity (steps)": 934
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-03-10 22:34:26",
-    "End": "2015-03-11 06:24:36",
+    "Start": "3/10/15 22:34",
+    "End": "3/11/15 6:24",
     "Sleep quality": "77%",
     "Time in bed": "7:50",
     "Wake up": ":|",
@@ -6911,17 +3131,8 @@
     "Activity (steps)": 7795
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-03-11 22:55:00",
-    "End": "2015-03-12 06:57:52",
+    "Start": "3/11/15 22:55",
+    "End": "3/12/15 6:57",
     "Sleep quality": "80%",
     "Time in bed": "8:02",
     "Wake up": ":)",
@@ -6929,17 +3140,8 @@
     "Activity (steps)": 4456
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-03-12 23:15:00",
-    "End": "2015-03-13 06:31:23",
+    "Start": "3/12/15 23:15",
+    "End": "3/13/15 6:31",
     "Sleep quality": "77%",
     "Time in bed": "7:16",
     "Wake up": ":)",
@@ -6947,35 +3149,8 @@
     "Activity (steps)": 5395
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-03-14 01:02:20",
-    "End": "2015-03-14 07:58:01",
-    "Sleep quality": "76%",
-    "Time in bed": "6:55",
-    "Wake up": "",
-    "Sleep Notes": "Ate late:Drank coffee:Drank tea:Worked out",
-    "Activity (steps)": 10288
-  },
-  {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-03-15 01:22:09",
-    "End": "2015-03-15 07:56:17",
+    "Start": "3/15/15 1:22",
+    "End": "3/15/15 7:56",
     "Sleep quality": "73%",
     "Time in bed": "6:34",
     "Wake up": ":|",
@@ -6983,17 +3158,8 @@
     "Activity (steps)": 9110
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-03-15 23:33:33",
-    "End": "2015-03-16 06:47:22",
+    "Start": "3/15/15 23:33",
+    "End": "3/16/15 6:47",
     "Sleep quality": "83%",
     "Time in bed": "7:13",
     "Wake up": ":)",
@@ -7001,17 +3167,8 @@
     "Activity (steps)": 2821
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-03-16 23:43:35",
-    "End": "2015-03-17 06:57:43",
+    "Start": "3/16/15 23:43",
+    "End": "3/17/15 6:57",
     "Sleep quality": "77%",
     "Time in bed": "7:14",
     "Wake up": ":|",
@@ -7019,17 +3176,8 @@
     "Activity (steps)": 2942
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-03-17 23:24:07",
-    "End": "2015-03-18 06:37:54",
+    "Start": "3/17/15 23:24",
+    "End": "3/18/15 6:37",
     "Sleep quality": "80%",
     "Time in bed": "7:13",
     "Wake up": ":)",
@@ -7037,17 +3185,8 @@
     "Activity (steps)": 9055
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-03-18 23:29:16",
-    "End": "2015-03-19 06:58:05",
+    "Start": "3/18/15 23:29",
+    "End": "3/19/15 6:58",
     "Sleep quality": "81%",
     "Time in bed": "7:28",
     "Wake up": ":|",
@@ -7055,17 +3194,8 @@
     "Activity (steps)": 5120
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-03-19 23:44:31",
-    "End": "2015-03-20 06:57:54",
+    "Start": "3/19/15 23:44",
+    "End": "3/20/15 6:57",
     "Sleep quality": "76%",
     "Time in bed": "7:13",
     "Wake up": ":|",
@@ -7073,17 +3203,8 @@
     "Activity (steps)": 9526
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-03-20 23:04:20",
-    "End": "2015-03-21 07:57:45",
+    "Start": "3/20/15 23:04",
+    "End": "3/21/15 7:57",
     "Sleep quality": "99%",
     "Time in bed": "8:53",
     "Wake up": ":|",
@@ -7091,17 +3212,8 @@
     "Activity (steps)": 3241
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-03-22 00:08:06",
-    "End": "2015-03-22 07:41:51",
+    "Start": "3/22/15 0:08",
+    "End": "3/22/15 7:41",
     "Sleep quality": "84%",
     "Time in bed": "7:33",
     "Wake up": ":)",
@@ -7109,17 +3221,8 @@
     "Activity (steps)": 3574
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-03-23 23:20:06",
-    "End": "2015-03-24 06:38:36",
+    "Start": "3/23/15 23:20",
+    "End": "3/24/15 6:38",
     "Sleep quality": "81%",
     "Time in bed": "7:18",
     "Wake up": ":|",
@@ -7127,17 +3230,8 @@
     "Activity (steps)": 5206
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-03-24 22:57:04",
-    "End": "2015-03-25 06:57:37",
+    "Start": "3/24/15 22:57",
+    "End": "3/25/15 6:57",
     "Sleep quality": "84%",
     "Time in bed": "8:00",
     "Wake up": ":|",
@@ -7145,17 +3239,8 @@
     "Activity (steps)": 1524
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-03-27 00:10:20",
-    "End": "2015-03-27 07:57:37",
+    "Start": "3/27/15 0:10",
+    "End": "3/27/15 7:57",
     "Sleep quality": "88%",
     "Time in bed": "7:47",
     "Wake up": ":(",
@@ -7163,17 +3248,8 @@
     "Activity (steps)": 786
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-03-27 23:30:22",
-    "End": "2015-03-28 07:56:59",
+    "Start": "3/27/15 23:30",
+    "End": "3/28/15 7:56",
     "Sleep quality": "96%",
     "Time in bed": "8:26",
     "Wake up": ":|",
@@ -7181,17 +3257,8 @@
     "Activity (steps)": 713
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-03-29 22:32:33",
-    "End": "2015-03-30 06:18:34",
+    "Start": "3/29/15 22:32",
+    "End": "3/30/15 6:18",
     "Sleep quality": "92%",
     "Time in bed": "7:46",
     "Wake up": ":|",
@@ -7199,17 +3266,8 @@
     "Activity (steps)": 1074
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-03-30 22:38:59",
-    "End": "2015-03-31 06:57:39",
+    "Start": "3/30/15 22:38",
+    "End": "3/31/15 6:57",
     "Sleep quality": "72%",
     "Time in bed": "8:18",
     "Wake up": ":)",
@@ -7217,17 +3275,8 @@
     "Activity (steps)": 7007
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-03-31 22:46:57",
-    "End": "2015-04-01 06:12:32",
+    "Start": "3/31/15 22:46",
+    "End": "4/1/15 6:12",
     "Sleep quality": "87%",
     "Time in bed": "7:25",
     "Wake up": ":|",
@@ -7235,17 +3284,8 @@
     "Activity (steps)": 9622
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-04-01 22:18:01",
-    "End": "2015-04-02 06:48:14",
+    "Start": "4/1/15 22:18",
+    "End": "4/2/15 6:48",
     "Sleep quality": "90%",
     "Time in bed": "8:30",
     "Wake up": ":)",
@@ -7253,17 +3293,8 @@
     "Activity (steps)": 2248
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-04-02 23:34:35",
-    "End": "2015-04-03 06:43:43",
+    "Start": "4/2/15 23:34",
+    "End": "4/3/15 6:43",
     "Sleep quality": "74%",
     "Time in bed": "7:09",
     "Wake up": ":)",
@@ -7271,17 +3302,8 @@
     "Activity (steps)": 4540
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-04-03 23:25:58",
-    "End": "2015-04-04 06:58:40",
+    "Start": "4/3/15 23:25",
+    "End": "4/4/15 6:58",
     "Sleep quality": "70%",
     "Time in bed": "7:32",
     "Wake up": ":)",
@@ -7289,17 +3311,8 @@
     "Activity (steps)": 4776
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-04-04 23:40:05",
-    "End": "2015-04-05 06:56:48",
+    "Start": "4/4/15 23:40",
+    "End": "4/5/15 6:56",
     "Sleep quality": "80%",
     "Time in bed": "7:16",
     "Wake up": ":)",
@@ -7307,17 +3320,8 @@
     "Activity (steps)": 4148
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-04-05 23:28:19",
-    "End": "2015-04-06 06:42:26",
+    "Start": "4/5/15 23:28",
+    "End": "4/6/15 6:42",
     "Sleep quality": "82%",
     "Time in bed": "7:14",
     "Wake up": ":)",
@@ -7325,17 +3329,8 @@
     "Activity (steps)": 3503
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-04-06 23:02:31",
-    "End": "2015-04-07 06:57:55",
+    "Start": "4/6/15 23:02",
+    "End": "4/7/15 6:57",
     "Sleep quality": "83%",
     "Time in bed": "7:55",
     "Wake up": ":)",
@@ -7343,17 +3338,8 @@
     "Activity (steps)": 1154
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-04-07 22:12:34",
-    "End": "2015-04-08 06:20:02",
+    "Start": "4/7/15 22:12",
+    "End": "4/8/15 6:20",
     "Sleep quality": "80%",
     "Time in bed": "8:07",
     "Wake up": ":|",
@@ -7361,17 +3347,8 @@
     "Activity (steps)": 5398
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-04-09 01:05:46",
-    "End": "2015-04-09 06:44:56",
+    "Start": "4/9/15 1:05",
+    "End": "4/9/15 6:44",
     "Sleep quality": "63%",
     "Time in bed": "5:39",
     "Wake up": ":|",
@@ -7379,17 +3356,8 @@
     "Activity (steps)": 4722
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-04-09 23:04:36",
-    "End": "2015-04-10 06:57:58",
+    "Start": "4/9/15 23:04",
+    "End": "4/10/15 6:57",
     "Sleep quality": "88%",
     "Time in bed": "7:53",
     "Wake up": ":)",
@@ -7397,17 +3365,8 @@
     "Activity (steps)": 4309
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-04-11 00:07:00",
-    "End": "2015-04-11 07:08:32",
+    "Start": "4/11/15 0:07",
+    "End": "4/11/15 7:08",
     "Sleep quality": "78%",
     "Time in bed": "7:01",
     "Wake up": ":)",
@@ -7415,17 +3374,8 @@
     "Activity (steps)": 7927
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-04-11 23:41:54",
-    "End": "2015-04-12 06:33:41",
+    "Start": "4/11/15 23:41",
+    "End": "4/12/15 6:33",
     "Sleep quality": "71%",
     "Time in bed": "6:51",
     "Wake up": ":)",
@@ -7433,17 +3383,8 @@
     "Activity (steps)": 10814
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-04-12 23:06:29",
-    "End": "2015-04-13 06:39:12",
+    "Start": "4/12/15 23:06",
+    "End": "4/13/15 6:39",
     "Sleep quality": "82%",
     "Time in bed": "7:32",
     "Wake up": ":)",
@@ -7451,17 +3392,8 @@
     "Activity (steps)": 4725
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-04-13 23:41:15",
-    "End": "2015-04-14 06:45:23",
+    "Start": "4/13/15 23:41",
+    "End": "4/14/15 6:45",
     "Sleep quality": "78%",
     "Time in bed": "7:04",
     "Wake up": ":)",
@@ -7469,17 +3401,8 @@
     "Activity (steps)": 5724
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-04-14 22:38:16",
-    "End": "2015-04-15 06:27:38",
+    "Start": "4/14/15 22:38",
+    "End": "4/15/15 6:27",
     "Sleep quality": "80%",
     "Time in bed": "7:49",
     "Wake up": ":|",
@@ -7487,17 +3410,8 @@
     "Activity (steps)": 5756
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-04-15 22:23:49",
-    "End": "2015-04-16 06:57:44",
+    "Start": "4/15/15 22:23",
+    "End": "4/16/15 6:57",
     "Sleep quality": "91%",
     "Time in bed": "8:33",
     "Wake up": ":|",
@@ -7505,17 +3419,8 @@
     "Activity (steps)": 2194
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-04-16 23:33:41",
-    "End": "2015-04-17 06:57:37",
+    "Start": "4/16/15 23:33",
+    "End": "4/17/15 6:57",
     "Sleep quality": "75%",
     "Time in bed": "7:23",
     "Wake up": ":)",
@@ -7523,17 +3428,8 @@
     "Activity (steps)": 4242
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-04-18 00:54:09",
-    "End": "2015-04-18 07:11:09",
+    "Start": "4/18/15 0:54",
+    "End": "4/18/15 7:11",
     "Sleep quality": "70%",
     "Time in bed": "6:17",
     "Wake up": ":|",
@@ -7541,17 +3437,8 @@
     "Activity (steps)": 3949
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-04-18 23:54:18",
-    "End": "2015-04-19 07:41:01",
+    "Start": "4/18/15 23:54",
+    "End": "4/19/15 7:41",
     "Sleep quality": "89%",
     "Time in bed": "7:46",
     "Wake up": ":)",
@@ -7559,17 +3446,8 @@
     "Activity (steps)": 2017
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-04-19 22:28:40",
-    "End": "2015-04-20 07:01:51",
+    "Start": "4/19/15 22:28",
+    "End": "4/20/15 7:01",
     "Sleep quality": "93%",
     "Time in bed": "8:33",
     "Wake up": ":)",
@@ -7577,17 +3455,8 @@
     "Activity (steps)": 2411
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-04-20 23:15:45",
-    "End": "2015-04-21 06:45:03",
+    "Start": "4/20/15 23:15",
+    "End": "4/21/15 6:45",
     "Sleep quality": "85%",
     "Time in bed": "7:29",
     "Wake up": ":|",
@@ -7595,17 +3464,8 @@
     "Activity (steps)": 3912
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-04-21 23:01:39",
-    "End": "2015-04-22 06:58:01",
+    "Start": "4/21/15 23:01",
+    "End": "4/22/15 6:58",
     "Sleep quality": "90%",
     "Time in bed": "7:56",
     "Wake up": ":)",
@@ -7613,17 +3473,8 @@
     "Activity (steps)": 4323
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-04-22 22:55:21",
-    "End": "2015-04-23 07:17:09",
+    "Start": "4/22/15 22:55",
+    "End": "4/23/15 7:17",
     "Sleep quality": "90%",
     "Time in bed": "8:21",
     "Wake up": ":)",
@@ -7631,17 +3482,8 @@
     "Activity (steps)": 3665
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-04-24 01:20:59",
-    "End": "2015-04-24 08:25:48",
+    "Start": "4/24/15 1:20",
+    "End": "4/24/15 8:25",
     "Sleep quality": "64%",
     "Time in bed": "7:04",
     "Wake up": ":|",
@@ -7649,17 +3491,8 @@
     "Activity (steps)": 9975
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-04-25 00:05:14",
-    "End": "2015-04-25 07:44:00",
+    "Start": "4/25/15 0:05",
+    "End": "4/25/15 7:44",
     "Sleep quality": "84%",
     "Time in bed": "7:38",
     "Wake up": ":)",
@@ -7667,35 +3500,8 @@
     "Activity (steps)": 1873
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-04-25 23:09:09",
-    "End": "2015-04-26 01:56:16",
-    "Sleep quality": "32%",
-    "Time in bed": "2:47",
-    "Wake up": "",
-    "Sleep Notes": "Ate late:Drank coffee:Drank tea",
-    "Activity (steps)": 1610
-  },
-  {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-04-26 02:33:12",
-    "End": "2015-04-26 07:20:55",
+    "Start": "4/26/15 2:33",
+    "End": "4/26/15 7:20",
     "Sleep quality": "56%",
     "Time in bed": "4:47",
     "Wake up": ":|",
@@ -7703,17 +3509,8 @@
     "Activity (steps)": 234
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-04-26 22:35:41",
-    "End": "2015-04-27 07:11:54",
+    "Start": "4/26/15 22:35",
+    "End": "4/27/15 7:11",
     "Sleep quality": "89%",
     "Time in bed": "8:36",
     "Wake up": ":)",
@@ -7721,17 +3518,8 @@
     "Activity (steps)": 3050
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-05-01 00:06:02",
-    "End": "2015-05-01 07:27:59",
+    "Start": "5/1/15 0:06",
+    "End": "5/1/15 7:27",
     "Sleep quality": "79%",
     "Time in bed": "7:21",
     "Wake up": ":)",
@@ -7739,17 +3527,8 @@
     "Activity (steps)": 8212
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-05-02 00:35:55",
-    "End": "2015-05-02 08:31:04",
+    "Start": "5/2/15 0:35",
+    "End": "5/2/15 8:31",
     "Sleep quality": "80%",
     "Time in bed": "7:55",
     "Wake up": ":)",
@@ -7757,17 +3536,8 @@
     "Activity (steps)": 2435
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-05-03 01:20:37",
-    "End": "2015-05-03 10:12:15",
+    "Start": "5/3/15 1:20",
+    "End": "5/3/15 10:12",
     "Sleep quality": "99%",
     "Time in bed": "8:51",
     "Wake up": ":)",
@@ -7775,17 +3545,8 @@
     "Activity (steps)": 3672
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-05-05 01:30:19",
-    "End": "2015-05-05 08:52:37",
+    "Start": "5/5/15 1:30",
+    "End": "5/5/15 8:52",
     "Sleep quality": "80%",
     "Time in bed": "7:22",
     "Wake up": ":|",
@@ -7793,17 +3554,8 @@
     "Activity (steps)": 3046
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-05-06 00:55:21",
-    "End": "2015-05-06 08:40:39",
+    "Start": "5/6/15 0:55",
+    "End": "5/6/15 8:40",
     "Sleep quality": "87%",
     "Time in bed": "7:45",
     "Wake up": ":)",
@@ -7811,17 +3563,8 @@
     "Activity (steps)": 6355
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-05-07 00:50:23",
-    "End": "2015-05-07 08:40:56",
+    "Start": "5/7/15 0:50",
+    "End": "5/7/15 8:40",
     "Sleep quality": "83%",
     "Time in bed": "7:50",
     "Wake up": ":)",
@@ -7829,17 +3572,8 @@
     "Activity (steps)": 309
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-05-08 00:33:07",
-    "End": "2015-05-08 08:32:42",
+    "Start": "5/8/15 0:33",
+    "End": "5/8/15 8:32",
     "Sleep quality": "87%",
     "Time in bed": "7:59",
     "Wake up": ":)",
@@ -7847,17 +3581,8 @@
     "Activity (steps)": 8675
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-05-09 01:40:41",
-    "End": "2015-05-09 09:22:36",
+    "Start": "5/9/15 1:40",
+    "End": "5/9/15 9:22",
     "Sleep quality": "85%",
     "Time in bed": "7:41",
     "Wake up": ":)",
@@ -7865,17 +3590,8 @@
     "Activity (steps)": 6607
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-05-10 00:43:26",
-    "End": "2015-05-10 09:31:27",
+    "Start": "5/10/15 0:43",
+    "End": "5/10/15 9:31",
     "Sleep quality": "87%",
     "Time in bed": "8:48",
     "Wake up": ":)",
@@ -7883,17 +3599,8 @@
     "Activity (steps)": 4608
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-05-10 23:15:43",
-    "End": "2015-05-11 06:17:50",
+    "Start": "5/10/15 23:15",
+    "End": "5/11/15 6:17",
     "Sleep quality": "77%",
     "Time in bed": "7:02",
     "Wake up": ":|",
@@ -7901,17 +3608,8 @@
     "Activity (steps)": 1098
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-05-12 00:50:04",
-    "End": "2015-05-12 09:52:48",
+    "Start": "5/12/15 0:50",
+    "End": "5/12/15 9:52",
     "Sleep quality": "96%",
     "Time in bed": "9:02",
     "Wake up": ":)",
@@ -7919,17 +3617,8 @@
     "Activity (steps)": 5926
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-05-13 01:03:19",
-    "End": "2015-05-13 08:02:48",
+    "Start": "5/13/15 1:03",
+    "End": "5/13/15 8:02",
     "Sleep quality": "79%",
     "Time in bed": "6:59",
     "Wake up": ":)",
@@ -7937,17 +3626,8 @@
     "Activity (steps)": 988
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-05-14 00:51:04",
-    "End": "2015-05-14 09:04:21",
+    "Start": "5/14/15 0:51",
+    "End": "5/14/15 9:04",
     "Sleep quality": "85%",
     "Time in bed": "8:13",
     "Wake up": ":|",
@@ -7955,17 +3635,8 @@
     "Activity (steps)": 4244
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-05-14 23:48:31",
-    "End": "2015-05-15 08:04:17",
+    "Start": "5/14/15 23:48",
+    "End": "5/15/15 8:04",
     "Sleep quality": "91%",
     "Time in bed": "8:15",
     "Wake up": ":)",
@@ -7973,35 +3644,8 @@
     "Activity (steps)": 8290
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-05-16 00:19:20",
-    "End": "2015-05-16 08:33:50",
-    "Sleep quality": "79%",
-    "Time in bed": "8:14",
-    "Wake up": "",
-    "Sleep Notes": "Ate late:Drank coffee:Stressful day",
-    "Activity (steps)": 5051
-  },
-  {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-05-17 01:00:03",
-    "End": "2015-05-17 05:20:34",
+    "Start": "5/17/15 1:00",
+    "End": "5/17/15 5:20",
     "Sleep quality": "19%",
     "Time in bed": "4:20",
     "Wake up": ":(",
@@ -8009,17 +3653,8 @@
     "Activity (steps)": 723
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-05-17 23:48:28",
-    "End": "2015-05-18 08:19:06",
+    "Start": "5/17/15 23:48",
+    "End": "5/18/15 8:19",
     "Sleep quality": "96%",
     "Time in bed": "8:30",
     "Wake up": ":)",
@@ -8027,17 +3662,8 @@
     "Activity (steps)": 1415
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-05-19 00:32:22",
-    "End": "2015-05-19 09:39:19",
+    "Start": "5/19/15 0:32",
+    "End": "5/19/15 9:39",
     "Sleep quality": "100%",
     "Time in bed": "9:06",
     "Wake up": ":)",
@@ -8045,17 +3671,8 @@
     "Activity (steps)": 3693
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-05-20 00:00:15",
-    "End": "2015-05-20 07:51:36",
+    "Start": "5/20/15 0:00",
+    "End": "5/20/15 7:51",
     "Sleep quality": "91%",
     "Time in bed": "7:51",
     "Wake up": ":)",
@@ -8063,17 +3680,8 @@
     "Activity (steps)": 1920
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-05-20 23:22:48",
-    "End": "2015-05-21 08:04:37",
+    "Start": "5/20/15 23:22",
+    "End": "5/21/15 8:04",
     "Sleep quality": "95%",
     "Time in bed": "8:41",
     "Wake up": ":)",
@@ -8081,17 +3689,8 @@
     "Activity (steps)": 3783
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-05-21 23:25:02",
-    "End": "2015-05-22 08:09:02",
+    "Start": "5/21/15 23:25",
+    "End": "5/22/15 8:09",
     "Sleep quality": "95%",
     "Time in bed": "8:43",
     "Wake up": ":|",
@@ -8099,17 +3698,8 @@
     "Activity (steps)": 6261
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-05-23 01:07:33",
-    "End": "2015-05-23 09:55:39",
+    "Start": "5/23/15 1:07",
+    "End": "5/23/15 9:55",
     "Sleep quality": "84%",
     "Time in bed": "8:48",
     "Wake up": ":)",
@@ -8117,17 +3707,8 @@
     "Activity (steps)": 5504
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-05-23 23:53:25",
-    "End": "2015-05-24 08:17:54",
+    "Start": "5/23/15 23:53",
+    "End": "5/24/15 8:17",
     "Sleep quality": "93%",
     "Time in bed": "8:24",
     "Wake up": ":|",
@@ -8135,17 +3716,8 @@
     "Activity (steps)": 1445
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-05-24 23:38:40",
-    "End": "2015-05-25 08:56:10",
+    "Start": "5/24/15 23:38",
+    "End": "5/25/15 8:56",
     "Sleep quality": "97%",
     "Time in bed": "9:17",
     "Wake up": ":|",
@@ -8153,17 +3725,8 @@
     "Activity (steps)": 4814
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-05-26 00:49:21",
-    "End": "2015-05-26 08:14:42",
+    "Start": "5/26/15 0:49",
+    "End": "5/26/15 8:14",
     "Sleep quality": "81%",
     "Time in bed": "7:25",
     "Wake up": ":|",
@@ -8171,17 +3734,8 @@
     "Activity (steps)": 1483
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-05-27 01:28:40",
-    "End": "2015-05-27 08:01:21",
+    "Start": "5/27/15 1:28",
+    "End": "5/27/15 8:01",
     "Sleep quality": "71%",
     "Time in bed": "6:32",
     "Wake up": ":|",
@@ -8189,17 +3743,8 @@
     "Activity (steps)": 1980
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-05-28 00:36:25",
-    "End": "2015-05-28 06:57:43",
+    "Start": "5/28/15 0:36",
+    "End": "5/28/15 6:57",
     "Sleep quality": "73%",
     "Time in bed": "6:21",
     "Wake up": ":|",
@@ -8207,17 +3752,8 @@
     "Activity (steps)": 4297
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-05-29 00:03:42",
-    "End": "2015-05-29 08:36:15",
+    "Start": "5/29/15 0:03",
+    "End": "5/29/15 8:36",
     "Sleep quality": "97%",
     "Time in bed": "8:32",
     "Wake up": ":|",
@@ -8225,17 +3761,8 @@
     "Activity (steps)": 4604
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-05-31 23:22:12",
-    "End": "2015-06-01 07:58:07",
+    "Start": "5/31/15 23:22",
+    "End": "6/1/15 7:58",
     "Sleep quality": "90%",
     "Time in bed": "8:35",
     "Wake up": ":)",
@@ -8243,17 +3770,8 @@
     "Activity (steps)": 1251
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-06-02 00:33:17",
-    "End": "2015-06-02 08:02:20",
+    "Start": "6/2/15 0:33",
+    "End": "6/2/15 8:02",
     "Sleep quality": "85%",
     "Time in bed": "7:29",
     "Wake up": ":)",
@@ -8261,17 +3779,8 @@
     "Activity (steps)": 3882
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-06-02 23:50:42",
-    "End": "2015-06-03 07:45:06",
+    "Start": "6/2/15 23:50",
+    "End": "6/3/15 7:45",
     "Sleep quality": "89%",
     "Time in bed": "7:54",
     "Wake up": ":|",
@@ -8279,17 +3788,8 @@
     "Activity (steps)": 546
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-06-03 23:41:30",
-    "End": "2015-06-04 08:11:23",
+    "Start": "6/3/15 23:41",
+    "End": "6/4/15 8:11",
     "Sleep quality": "92%",
     "Time in bed": "8:29",
     "Wake up": ":)",
@@ -8297,17 +3797,8 @@
     "Activity (steps)": 3501
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-06-05 00:38:19",
-    "End": "2015-06-05 08:01:47",
+    "Start": "6/5/15 0:38",
+    "End": "6/5/15 8:01",
     "Sleep quality": "84%",
     "Time in bed": "7:23",
     "Wake up": ":)",
@@ -8315,17 +3806,8 @@
     "Activity (steps)": 4136
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-06-06 00:50:12",
-    "End": "2015-06-06 09:28:13",
+    "Start": "6/6/15 0:50",
+    "End": "6/6/15 9:28",
     "Sleep quality": "96%",
     "Time in bed": "8:38",
     "Wake up": ":)",
@@ -8333,17 +3815,8 @@
     "Activity (steps)": 6624
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-06-07 00:07:23",
-    "End": "2015-06-07 08:48:50",
+    "Start": "6/7/15 0:07",
+    "End": "6/7/15 8:48",
     "Sleep quality": "93%",
     "Time in bed": "8:41",
     "Wake up": ":|",
@@ -8351,17 +3824,8 @@
     "Activity (steps)": 671
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-06-08 00:14:28",
-    "End": "2015-06-08 08:12:20",
+    "Start": "6/8/15 0:14",
+    "End": "6/8/15 8:12",
     "Sleep quality": "88%",
     "Time in bed": "7:57",
     "Wake up": ":|",
@@ -8369,17 +3833,8 @@
     "Activity (steps)": 4784
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-06-08 23:22:45",
-    "End": "2015-06-09 06:33:37",
+    "Start": "6/8/15 23:22",
+    "End": "6/9/15 6:33",
     "Sleep quality": "76%",
     "Time in bed": "7:10",
     "Wake up": ":)",
@@ -8387,17 +3842,8 @@
     "Activity (steps)": 4732
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-06-10 23:36:47",
-    "End": "2015-06-11 06:42:51",
+    "Start": "6/10/15 23:36",
+    "End": "6/11/15 6:42",
     "Sleep quality": "78%",
     "Time in bed": "7:06",
     "Wake up": ":)",
@@ -8405,17 +3851,8 @@
     "Activity (steps)": 3421
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-06-12 00:54:29",
-    "End": "2015-06-12 07:29:48",
+    "Start": "6/12/15 0:54",
+    "End": "6/12/15 7:29",
     "Sleep quality": "74%",
     "Time in bed": "6:35",
     "Wake up": ":)",
@@ -8423,17 +3860,8 @@
     "Activity (steps)": 3356
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-06-13 00:05:21",
-    "End": "2015-06-13 08:13:19",
+    "Start": "6/13/15 0:05",
+    "End": "6/13/15 8:13",
     "Sleep quality": "91%",
     "Time in bed": "8:07",
     "Wake up": ":)",
@@ -8441,17 +3869,8 @@
     "Activity (steps)": 4301
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-06-13 23:42:18",
-    "End": "2015-06-14 08:10:26",
+    "Start": "6/13/15 23:42",
+    "End": "6/14/15 8:10",
     "Sleep quality": "93%",
     "Time in bed": "8:28",
     "Wake up": ":)",
@@ -8459,17 +3878,8 @@
     "Activity (steps)": 1217
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-06-14 23:56:09",
-    "End": "2015-06-15 07:29:23",
+    "Start": "6/14/15 23:56",
+    "End": "6/15/15 7:29",
     "Sleep quality": "81%",
     "Time in bed": "7:33",
     "Wake up": ":|",
@@ -8477,17 +3887,8 @@
     "Activity (steps)": 1182
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-06-15 23:17:22",
-    "End": "2015-06-16 06:46:13",
+    "Start": "6/15/15 23:17",
+    "End": "6/16/15 6:46",
     "Sleep quality": "82%",
     "Time in bed": "7:28",
     "Wake up": ":)",
@@ -8495,17 +3896,8 @@
     "Activity (steps)": 3917
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-06-16 23:15:32",
-    "End": "2015-06-17 07:49:41",
+    "Start": "6/16/15 23:15",
+    "End": "6/17/15 7:49",
     "Sleep quality": "92%",
     "Time in bed": "8:34",
     "Wake up": ":)",
@@ -8513,17 +3905,8 @@
     "Activity (steps)": 11453
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-06-18 00:21:22",
-    "End": "2015-06-18 06:42:42",
+    "Start": "6/18/15 0:21",
+    "End": "6/18/15 6:42",
     "Sleep quality": "71%",
     "Time in bed": "6:21",
     "Wake up": ":)",
@@ -8531,17 +3914,8 @@
     "Activity (steps)": 6103
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-06-19 00:07:58",
-    "End": "2015-06-19 07:37:32",
+    "Start": "6/19/15 0:07",
+    "End": "6/19/15 7:37",
     "Sleep quality": "83%",
     "Time in bed": "7:29",
     "Wake up": ":)",
@@ -8549,17 +3923,8 @@
     "Activity (steps)": 3375
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-06-20 00:52:44",
-    "End": "2015-06-20 08:48:01",
+    "Start": "6/20/15 0:52",
+    "End": "6/20/15 8:48",
     "Sleep quality": "71%",
     "Time in bed": "7:55",
     "Wake up": ":|",
@@ -8567,17 +3932,8 @@
     "Activity (steps)": 5007
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-06-20 23:34:05",
-    "End": "2015-06-21 07:40:34",
+    "Start": "6/20/15 23:34",
+    "End": "6/21/15 7:40",
     "Sleep quality": "90%",
     "Time in bed": "8:06",
     "Wake up": ":|",
@@ -8585,17 +3941,8 @@
     "Activity (steps)": 2376
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-06-21 23:44:41",
-    "End": "2015-06-22 07:27:40",
+    "Start": "6/21/15 23:44",
+    "End": "6/22/15 7:27",
     "Sleep quality": "85%",
     "Time in bed": "7:42",
     "Wake up": ":)",
@@ -8603,35 +3950,8 @@
     "Activity (steps)": 707
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-06-22 22:50:29",
-    "End": "2015-06-23 05:49:23",
-    "Sleep quality": "76%",
-    "Time in bed": "6:58",
-    "Wake up": "",
-    "Sleep Notes": "Ate late:Drank coffee:Stressful day",
-    "Activity (steps)": 4676
-  },
-  {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-06-24 00:15:46",
-    "End": "2015-06-24 07:16:31",
+    "Start": "6/24/15 0:15",
+    "End": "6/24/15 7:16",
     "Sleep quality": "81%",
     "Time in bed": "7:00",
     "Wake up": ":)",
@@ -8639,17 +3959,8 @@
     "Activity (steps)": 8849
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-06-25 00:26:53",
-    "End": "2015-06-25 06:26:47",
+    "Start": "6/25/15 0:26",
+    "End": "6/25/15 6:26",
     "Sleep quality": "63%",
     "Time in bed": "5:59",
     "Wake up": ":)",
@@ -8657,17 +3968,8 @@
     "Activity (steps)": 4628
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-06-26 00:34:08",
-    "End": "2015-06-26 07:42:20",
+    "Start": "6/26/15 0:34",
+    "End": "6/26/15 7:42",
     "Sleep quality": "78%",
     "Time in bed": "7:08",
     "Wake up": ":)",
@@ -8675,17 +3977,8 @@
     "Activity (steps)": 4246
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-06-27 00:03:37",
-    "End": "2015-06-27 07:09:52",
+    "Start": "6/27/15 0:03",
+    "End": "6/27/15 7:09",
     "Sleep quality": "76%",
     "Time in bed": "7:06",
     "Wake up": ":)",
@@ -8693,17 +3986,8 @@
     "Activity (steps)": 5065
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-06-28 23:40:32",
-    "End": "2015-06-29 07:15:53",
+    "Start": "6/28/15 23:40",
+    "End": "6/29/15 7:15",
     "Sleep quality": "83%",
     "Time in bed": "7:35",
     "Wake up": ":)",
@@ -8711,17 +3995,8 @@
     "Activity (steps)": 1333
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-06-30 00:09:29",
-    "End": "2015-06-30 06:25:57",
+    "Start": "6/30/15 0:09",
+    "End": "6/30/15 6:25",
     "Sleep quality": "69%",
     "Time in bed": "6:16",
     "Wake up": ":)",
@@ -8729,17 +4004,8 @@
     "Activity (steps)": 4145
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-07-01 00:23:44",
-    "End": "2015-07-01 07:27:56",
+    "Start": "7/1/15 0:23",
+    "End": "7/1/15 7:27",
     "Sleep quality": "75%",
     "Time in bed": "7:04",
     "Wake up": ":)",
@@ -8747,17 +4013,8 @@
     "Activity (steps)": 7749
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-07-01 23:34:29",
-    "End": "2015-07-02 06:43:40",
+    "Start": "7/1/15 23:34",
+    "End": "7/2/15 6:43",
     "Sleep quality": "76%",
     "Time in bed": "7:09",
     "Wake up": ":)",
@@ -8765,17 +4022,8 @@
     "Activity (steps)": 5739
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-07-06 23:49:09",
-    "End": "2015-07-07 06:43:33",
+    "Start": "7/6/15 23:49",
+    "End": "7/7/15 6:43",
     "Sleep quality": "75%",
     "Time in bed": "6:54",
     "Wake up": ":|",
@@ -8783,17 +4031,8 @@
     "Activity (steps)": 5968
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-07-07 23:22:06",
-    "End": "2015-07-08 07:22:15",
+    "Start": "7/7/15 23:22",
+    "End": "7/8/15 7:22",
     "Sleep quality": "90%",
     "Time in bed": "8:00",
     "Wake up": ":)",
@@ -8801,17 +4040,8 @@
     "Activity (steps)": 7495
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-07-08 23:41:56",
-    "End": "2015-07-09 07:28:01",
+    "Start": "7/8/15 23:41",
+    "End": "7/9/15 7:28",
     "Sleep quality": "80%",
     "Time in bed": "7:46",
     "Wake up": ":)",
@@ -8819,17 +4049,8 @@
     "Activity (steps)": 5292
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-07-13 00:04:52",
-    "End": "2015-07-13 07:26:43",
+    "Start": "7/13/15 0:04",
+    "End": "7/13/15 7:26",
     "Sleep quality": "84%",
     "Time in bed": "7:21",
     "Wake up": ":)",
@@ -8837,17 +4058,8 @@
     "Activity (steps)": 3542
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-07-13 23:28:48",
-    "End": "2015-07-14 06:42:44",
+    "Start": "7/13/15 23:28",
+    "End": "7/14/15 6:42",
     "Sleep quality": "80%",
     "Time in bed": "7:13",
     "Wake up": ":)",
@@ -8855,17 +4067,8 @@
     "Activity (steps)": 5300
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-07-14 23:27:05",
-    "End": "2015-07-15 07:28:17",
+    "Start": "7/14/15 23:27",
+    "End": "7/15/15 7:28",
     "Sleep quality": "91%",
     "Time in bed": "8:01",
     "Wake up": ":)",
@@ -8873,17 +4076,8 @@
     "Activity (steps)": 7044
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-07-16 00:17:06",
-    "End": "2015-07-16 06:33:05",
+    "Start": "7/16/15 0:17",
+    "End": "7/16/15 6:33",
     "Sleep quality": "70%",
     "Time in bed": "6:15",
     "Wake up": ":|",
@@ -8891,17 +4085,8 @@
     "Activity (steps)": 4557
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-07-16 21:14:36",
-    "End": "2015-07-17 07:21:49",
+    "Start": "7/16/15 21:14",
+    "End": "7/17/15 7:21",
     "Sleep quality": "98%",
     "Time in bed": "10:07",
     "Wake up": ":)",
@@ -8909,17 +4094,8 @@
     "Activity (steps)": 10092
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-07-20 23:32:37",
-    "End": "2015-07-21 06:43:02",
+    "Start": "7/20/15 23:32",
+    "End": "7/21/15 6:43",
     "Sleep quality": "77%",
     "Time in bed": "7:10",
     "Wake up": ":|",
@@ -8927,17 +4103,8 @@
     "Activity (steps)": 5137
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-07-22 00:21:09",
-    "End": "2015-07-22 08:14:14",
+    "Start": "7/22/15 0:21",
+    "End": "7/22/15 8:14",
     "Sleep quality": "89%",
     "Time in bed": "7:53",
     "Wake up": ":|",
@@ -8945,17 +4112,8 @@
     "Activity (steps)": 12547
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-07-22 22:28:50",
-    "End": "2015-07-23 06:33:51",
+    "Start": "7/22/15 22:28",
+    "End": "7/23/15 6:33",
     "Sleep quality": "89%",
     "Time in bed": "8:05",
     "Wake up": ":|",
@@ -8963,17 +4121,8 @@
     "Activity (steps)": 3864
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-07-23 23:59:36",
-    "End": "2015-07-24 07:27:51",
+    "Start": "7/23/15 23:59",
+    "End": "7/24/15 7:27",
     "Sleep quality": "81%",
     "Time in bed": "7:28",
     "Wake up": ":|",
@@ -8981,17 +4130,8 @@
     "Activity (steps)": 4147
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-07-25 00:10:06",
-    "End": "2015-07-25 07:37:28",
+    "Start": "7/25/15 0:10",
+    "End": "7/25/15 7:37",
     "Sleep quality": "77%",
     "Time in bed": "7:27",
     "Wake up": ":|",
@@ -8999,17 +4139,8 @@
     "Activity (steps)": 5105
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-07-27 00:14:34",
-    "End": "2015-07-27 07:49:25",
+    "Start": "7/27/15 0:14",
+    "End": "7/27/15 7:49",
     "Sleep quality": "73%",
     "Time in bed": "7:34",
     "Wake up": ":|",
@@ -9017,17 +4148,8 @@
     "Activity (steps)": 3139
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-07-27 23:43:31",
-    "End": "2015-07-28 06:27:47",
+    "Start": "7/27/15 23:43",
+    "End": "7/28/15 6:27",
     "Sleep quality": "65%",
     "Time in bed": "6:44",
     "Wake up": ":|",
@@ -9035,17 +4157,8 @@
     "Activity (steps)": 4700
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-07-29 00:22:53",
-    "End": "2015-07-29 07:27:40",
+    "Start": "7/29/15 0:22",
+    "End": "7/29/15 7:27",
     "Sleep quality": "79%",
     "Time in bed": "7:04",
     "Wake up": ":)",
@@ -9053,17 +4166,8 @@
     "Activity (steps)": 4369
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-07-29 23:57:45",
-    "End": "2015-07-30 06:27:35",
+    "Start": "7/29/15 23:57",
+    "End": "7/30/15 6:27",
     "Sleep quality": "70%",
     "Time in bed": "6:29",
     "Wake up": ":|",
@@ -9071,17 +4175,8 @@
     "Activity (steps)": 5597
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-07-31 00:20:14",
-    "End": "2015-07-31 07:27:48",
+    "Start": "7/31/15 0:20",
+    "End": "7/31/15 7:27",
     "Sleep quality": "81%",
     "Time in bed": "7:07",
     "Wake up": ":)",
@@ -9089,17 +4184,8 @@
     "Activity (steps)": 3959
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-08-02 23:59:46",
-    "End": "2015-08-03 07:27:58",
+    "Start": "8/2/15 23:59",
+    "End": "8/3/15 7:27",
     "Sleep quality": "84%",
     "Time in bed": "7:28",
     "Wake up": ":|",
@@ -9107,17 +4193,8 @@
     "Activity (steps)": 1206
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-08-03 23:06:19",
-    "End": "2015-08-04 06:26:35",
+    "Start": "8/3/15 23:06",
+    "End": "8/4/15 6:26",
     "Sleep quality": "83%",
     "Time in bed": "7:20",
     "Wake up": ":|",
@@ -9125,35 +4202,8 @@
     "Activity (steps)": 1637
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-08-04 22:43:43",
-    "End": "2015-08-05 04:54:43",
-    "Sleep quality": "0%",
-    "Time in bed": "0:00",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": 3861
-  },
-  {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-08-05 23:03:44",
-    "End": "2015-08-06 06:27:45",
+    "Start": "8/5/15 23:03",
+    "End": "8/6/15 6:27",
     "Sleep quality": "81%",
     "Time in bed": "7:24",
     "Wake up": ":)",
@@ -9161,17 +4211,8 @@
     "Activity (steps)": 1633
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-08-06 23:53:21",
-    "End": "2015-08-07 07:27:41",
+    "Start": "8/6/15 23:53",
+    "End": "8/7/15 7:27",
     "Sleep quality": "84%",
     "Time in bed": "7:34",
     "Wake up": ":)",
@@ -9179,35 +4220,8 @@
     "Activity (steps)": 3884
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-08-07 22:51:26",
-    "End": "2015-08-08 08:38:34",
-    "Sleep quality": "95%",
-    "Time in bed": "9:47",
-    "Wake up": ":)",
-    "Sleep Notes": "",
-    "Activity (steps)": 2282
-  },
-  {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-08-08 23:44:38",
-    "End": "2015-08-09 07:33:37",
+    "Start": "8/8/15 23:44",
+    "End": "8/9/15 7:33",
     "Sleep quality": "89%",
     "Time in bed": "7:48",
     "Wake up": ":)",
@@ -9215,17 +4229,8 @@
     "Activity (steps)": 2670
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-08-09 22:57:53",
-    "End": "2015-08-10 07:27:37",
+    "Start": "8/9/15 22:57",
+    "End": "8/10/15 7:27",
     "Sleep quality": "90%",
     "Time in bed": "8:29",
     "Wake up": ":)",
@@ -9233,17 +4238,8 @@
     "Activity (steps)": 740
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-08-11 00:26:05",
-    "End": "2015-08-11 06:23:47",
+    "Start": "8/11/15 0:26",
+    "End": "8/11/15 6:23",
     "Sleep quality": "69%",
     "Time in bed": "5:57",
     "Wake up": ":)",
@@ -9251,17 +4247,8 @@
     "Activity (steps)": 2518
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-08-11 23:35:44",
-    "End": "2015-08-12 07:20:18",
+    "Start": "8/11/15 23:35",
+    "End": "8/12/15 7:20",
     "Sleep quality": "90%",
     "Time in bed": "7:44",
     "Wake up": ":)",
@@ -9269,17 +4256,8 @@
     "Activity (steps)": 4177
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-08-12 23:35:09",
-    "End": "2015-08-13 06:27:47",
+    "Start": "8/12/15 23:35",
+    "End": "8/13/15 6:27",
     "Sleep quality": "76%",
     "Time in bed": "6:52",
     "Wake up": ":|",
@@ -9287,17 +4265,8 @@
     "Activity (steps)": 1816
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-08-14 22:30:33",
-    "End": "2015-08-15 07:33:30",
+    "Start": "8/14/15 22:30",
+    "End": "8/15/15 7:33",
     "Sleep quality": "97%",
     "Time in bed": "9:02",
     "Wake up": ":|",
@@ -9305,35 +4274,8 @@
     "Activity (steps)": 4482
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-08-16 00:22:04",
-    "End": "2015-08-16 07:26:36",
-    "Sleep quality": "69%",
-    "Time in bed": "7:04",
-    "Wake up": "",
-    "Sleep Notes": "Ate late:Drank coffee",
-    "Activity (steps)": 6244
-  },
-  {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-08-16 23:41:25",
-    "End": "2015-08-17 07:16:48",
+    "Start": "8/16/15 23:41",
+    "End": "8/17/15 7:16",
     "Sleep quality": "69%",
     "Time in bed": "7:35",
     "Wake up": ":|",
@@ -9341,17 +4283,8 @@
     "Activity (steps)": 6964
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-08-17 23:33:38",
-    "End": "2015-08-18 06:09:28",
+    "Start": "8/17/15 23:33",
+    "End": "8/18/15 6:09",
     "Sleep quality": "72%",
     "Time in bed": "6:35",
     "Wake up": ":|",
@@ -9359,17 +4292,8 @@
     "Activity (steps)": 4824
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-08-18 22:44:48",
-    "End": "2015-08-19 06:06:38",
+    "Start": "8/18/15 22:44",
+    "End": "8/19/15 6:06",
     "Sleep quality": "83%",
     "Time in bed": "7:21",
     "Wake up": ":|",
@@ -9377,17 +4301,8 @@
     "Activity (steps)": 2650
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-08-19 23:46:48",
-    "End": "2015-08-20 06:32:47",
+    "Start": "8/19/15 23:46",
+    "End": "8/20/15 6:32",
     "Sleep quality": "74%",
     "Time in bed": "6:45",
     "Wake up": ":)",
@@ -9395,17 +4310,8 @@
     "Activity (steps)": 3657
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-08-21 00:51:32",
-    "End": "2015-08-21 06:17:56",
+    "Start": "8/21/15 0:51",
+    "End": "8/21/15 6:17",
     "Sleep quality": "61%",
     "Time in bed": "5:26",
     "Wake up": ":|",
@@ -9413,17 +4319,8 @@
     "Activity (steps)": 3296
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-08-21 22:48:30",
-    "End": "2015-08-22 08:37:21",
+    "Start": "8/21/15 22:48",
+    "End": "8/22/15 8:37",
     "Sleep quality": "100%",
     "Time in bed": "9:48",
     "Wake up": ":)",
@@ -9431,17 +4328,8 @@
     "Activity (steps)": 2646
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-08-23 00:21:50",
-    "End": "2015-08-23 08:20:58",
+    "Start": "8/23/15 0:21",
+    "End": "8/23/15 8:20",
     "Sleep quality": "89%",
     "Time in bed": "7:59",
     "Wake up": ":)",
@@ -9449,17 +4337,8 @@
     "Activity (steps)": 7420
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-08-23 23:04:07",
-    "End": "2015-08-24 07:15:52",
+    "Start": "8/23/15 23:04",
+    "End": "8/24/15 7:15",
     "Sleep quality": "93%",
     "Time in bed": "8:11",
     "Wake up": ":)",
@@ -9467,17 +4346,8 @@
     "Activity (steps)": 9126
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-08-24 22:56:19",
-    "End": "2015-08-25 07:28:23",
+    "Start": "8/24/15 22:56",
+    "End": "8/25/15 7:28",
     "Sleep quality": "95%",
     "Time in bed": "8:32",
     "Wake up": ":)",
@@ -9485,17 +4355,8 @@
     "Activity (steps)": 6436
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-08-25 22:29:57",
-    "End": "2015-08-26 07:20:04",
+    "Start": "8/25/15 22:29",
+    "End": "8/26/15 7:20",
     "Sleep quality": "97%",
     "Time in bed": "8:50",
     "Wake up": ":)",
@@ -9503,17 +4364,8 @@
     "Activity (steps)": 7379
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-08-26 23:50:14",
-    "End": "2015-08-27 07:11:13",
+    "Start": "8/26/15 23:50",
+    "End": "8/27/15 7:11",
     "Sleep quality": "83%",
     "Time in bed": "7:20",
     "Wake up": ":)",
@@ -9521,17 +4373,8 @@
     "Activity (steps)": 7686
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-08-27 22:56:03",
-    "End": "2015-08-28 06:34:05",
+    "Start": "8/27/15 22:56",
+    "End": "8/28/15 6:34",
     "Sleep quality": "86%",
     "Time in bed": "7:38",
     "Wake up": ":)",
@@ -9539,17 +4382,8 @@
     "Activity (steps)": 7077
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-08-29 00:46:40",
-    "End": "2015-08-29 08:47:47",
+    "Start": "8/29/15 0:46",
+    "End": "8/29/15 8:47",
     "Sleep quality": "89%",
     "Time in bed": "8:01",
     "Wake up": ":|",
@@ -9557,17 +4391,8 @@
     "Activity (steps)": 6007
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-08-30 01:48:23",
-    "End": "2015-08-30 09:34:18",
+    "Start": "8/30/15 1:48",
+    "End": "8/30/15 9:34",
     "Sleep quality": "86%",
     "Time in bed": "7:45",
     "Wake up": ":)",
@@ -9575,17 +4400,8 @@
     "Activity (steps)": 875
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-08-30 23:36:44",
-    "End": "2015-08-31 07:02:50",
+    "Start": "8/30/15 23:36",
+    "End": "8/31/15 7:02",
     "Sleep quality": "83%",
     "Time in bed": "7:26",
     "Wake up": ":|",
@@ -9593,17 +4409,8 @@
     "Activity (steps)": 325
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-08-31 23:38:14",
-    "End": "2015-09-01 07:28:19",
+    "Start": "8/31/15 23:38",
+    "End": "9/1/15 7:28",
     "Sleep quality": "84%",
     "Time in bed": "7:50",
     "Wake up": ":)",
@@ -9611,17 +4418,8 @@
     "Activity (steps)": 5610
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-09-01 23:53:48",
-    "End": "2015-09-02 07:21:19",
+    "Start": "9/1/15 23:53",
+    "End": "9/2/15 7:21",
     "Sleep quality": "84%",
     "Time in bed": "7:27",
     "Wake up": ":|",
@@ -9629,17 +4427,8 @@
     "Activity (steps)": 8559
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-09-03 00:14:53",
-    "End": "2015-09-03 07:20:11",
+    "Start": "9/3/15 0:14",
+    "End": "9/3/15 7:20",
     "Sleep quality": "77%",
     "Time in bed": "7:05",
     "Wake up": ":)",
@@ -9647,17 +4436,8 @@
     "Activity (steps)": 6767
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-09-03 22:28:44",
-    "End": "2015-09-04 06:42:44",
+    "Start": "9/3/15 22:28",
+    "End": "9/4/15 6:42",
     "Sleep quality": "80%",
     "Time in bed": "8:13",
     "Wake up": ":|",
@@ -9665,17 +4445,8 @@
     "Activity (steps)": 8680
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-09-04 23:35:43",
-    "End": "2015-09-05 07:56:19",
+    "Start": "9/4/15 23:35",
+    "End": "9/5/15 7:56",
     "Sleep quality": "92%",
     "Time in bed": "8:20",
     "Wake up": ":)",
@@ -9683,17 +4454,8 @@
     "Activity (steps)": 4452
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-09-05 21:56:11",
-    "End": "2015-09-06 09:04:46",
+    "Start": "9/5/15 21:56",
+    "End": "9/6/15 9:04",
     "Sleep quality": "98%",
     "Time in bed": "11:08",
     "Wake up": ":)",
@@ -9701,17 +4463,8 @@
     "Activity (steps)": 13712
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-09-07 00:43:09",
-    "End": "2015-09-07 08:15:59",
+    "Start": "9/7/15 0:43",
+    "End": "9/7/15 8:15",
     "Sleep quality": "87%",
     "Time in bed": "7:32",
     "Wake up": ":)",
@@ -9719,17 +4472,8 @@
     "Activity (steps)": 302
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-09-08 00:08:23",
-    "End": "2015-09-08 07:01:07",
+    "Start": "9/8/15 0:08",
+    "End": "9/8/15 7:01",
     "Sleep quality": "79%",
     "Time in bed": "6:52",
     "Wake up": ":)",
@@ -9737,17 +4481,8 @@
     "Activity (steps)": 5399
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-09-08 23:59:56",
-    "End": "2015-09-09 07:27:46",
+    "Start": "9/8/15 23:59",
+    "End": "9/9/15 7:27",
     "Sleep quality": "85%",
     "Time in bed": "7:27",
     "Wake up": ":)",
@@ -9755,17 +4490,8 @@
     "Activity (steps)": 6384
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-09-09 23:54:48",
-    "End": "2015-09-10 07:07:02",
+    "Start": "9/9/15 23:54",
+    "End": "9/10/15 7:07",
     "Sleep quality": "83%",
     "Time in bed": "7:12",
     "Wake up": ":)",
@@ -9773,17 +4499,8 @@
     "Activity (steps)": 5408
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-09-10 22:28:00",
-    "End": "2015-09-11 06:23:55",
+    "Start": "9/10/15 22:28",
+    "End": "9/11/15 6:23",
     "Sleep quality": "90%",
     "Time in bed": "7:55",
     "Wake up": ":)",
@@ -9791,17 +4508,8 @@
     "Activity (steps)": 7348
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-09-12 00:11:15",
-    "End": "2015-09-12 08:32:13",
+    "Start": "9/12/15 0:11",
+    "End": "9/12/15 8:32",
     "Sleep quality": "94%",
     "Time in bed": "8:20",
     "Wake up": ":)",
@@ -9809,17 +4517,8 @@
     "Activity (steps)": 7615
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-09-13 02:05:23",
-    "End": "2015-09-13 08:42:31",
+    "Start": "9/13/15 2:05",
+    "End": "9/13/15 8:42",
     "Sleep quality": "72%",
     "Time in bed": "6:37",
     "Wake up": ":|",
@@ -9827,17 +4526,8 @@
     "Activity (steps)": 2187
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-09-14 00:07:45",
-    "End": "2015-09-14 07:27:41",
+    "Start": "9/14/15 0:07",
+    "End": "9/14/15 7:27",
     "Sleep quality": "82%",
     "Time in bed": "7:19",
     "Wake up": ":|",
@@ -9845,35 +4535,8 @@
     "Activity (steps)": 4602
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-09-15 00:15:25",
-    "End": "2015-09-15 07:27:34",
-    "Sleep quality": "80%",
-    "Time in bed": "7:12",
-    "Wake up": "",
-    "Sleep Notes": "Drank coffee:Stressful day",
-    "Activity (steps)": 6229
-  },
-  {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-09-15 23:36:34",
-    "End": "2015-09-16 07:27:46",
+    "Start": "9/15/15 23:36",
+    "End": "9/16/15 7:27",
     "Sleep quality": "86%",
     "Time in bed": "7:51",
     "Wake up": ":|",
@@ -9881,17 +4544,8 @@
     "Activity (steps)": 6233
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-09-16 23:07:48",
-    "End": "2015-09-17 07:33:40",
+    "Start": "9/16/15 23:07",
+    "End": "9/17/15 7:33",
     "Sleep quality": "94%",
     "Time in bed": "8:25",
     "Wake up": ":)",
@@ -9899,17 +4553,8 @@
     "Activity (steps)": 7810
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-09-18 00:51:46",
-    "End": "2015-09-18 06:45:34",
+    "Start": "9/18/15 0:51",
+    "End": "9/18/15 6:45",
     "Sleep quality": "65%",
     "Time in bed": "5:53",
     "Wake up": ":|",
@@ -9917,17 +4562,8 @@
     "Activity (steps)": 6801
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-09-18 23:58:23",
-    "End": "2015-09-19 08:57:26",
+    "Start": "9/18/15 23:58",
+    "End": "9/19/15 8:57",
     "Sleep quality": "100%",
     "Time in bed": "8:59",
     "Wake up": ":)",
@@ -9935,17 +4571,8 @@
     "Activity (steps)": 7514
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-09-20 01:31:07",
-    "End": "2015-09-20 08:44:37",
+    "Start": "9/20/15 1:31",
+    "End": "9/20/15 8:44",
     "Sleep quality": "83%",
     "Time in bed": "7:13",
     "Wake up": ":)",
@@ -9953,17 +4580,8 @@
     "Activity (steps)": 532
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-09-20 23:42:17",
-    "End": "2015-09-21 07:30:33",
+    "Start": "9/20/15 23:42",
+    "End": "9/21/15 7:30",
     "Sleep quality": "89%",
     "Time in bed": "7:48",
     "Wake up": ":)",
@@ -9971,17 +4589,8 @@
     "Activity (steps)": 1464
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-09-22 00:12:49",
-    "End": "2015-09-22 07:14:39",
+    "Start": "9/22/15 0:12",
+    "End": "9/22/15 7:14",
     "Sleep quality": "78%",
     "Time in bed": "7:01",
     "Wake up": ":)",
@@ -9989,17 +4598,8 @@
     "Activity (steps)": 5026
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-09-23 00:18:37",
-    "End": "2015-09-23 07:42:59",
+    "Start": "9/23/15 0:18",
+    "End": "9/23/15 7:42",
     "Sleep quality": "85%",
     "Time in bed": "7:24",
     "Wake up": ":|",
@@ -10007,17 +4607,8 @@
     "Activity (steps)": 8788
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-09-23 23:29:44",
-    "End": "2015-09-24 07:45:19",
+    "Start": "9/23/15 23:29",
+    "End": "9/24/15 7:45",
     "Sleep quality": "94%",
     "Time in bed": "8:15",
     "Wake up": ":|",
@@ -10025,17 +4616,8 @@
     "Activity (steps)": 5441
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-09-24 23:51:58",
-    "End": "2015-09-25 06:35:26",
+    "Start": "9/24/15 23:51",
+    "End": "9/25/15 6:35",
     "Sleep quality": "74%",
     "Time in bed": "6:43",
     "Wake up": ":(",
@@ -10043,17 +4625,8 @@
     "Activity (steps)": 7459
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-09-27 23:03:14",
-    "End": "2015-09-28 07:57:05",
+    "Start": "9/27/15 23:03",
+    "End": "9/28/15 7:57",
     "Sleep quality": "75%",
     "Time in bed": "8:53",
     "Wake up": ":|",
@@ -10061,17 +4634,8 @@
     "Activity (steps)": 602
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-09-29 00:41:45",
-    "End": "2015-09-29 07:16:06",
+    "Start": "9/29/15 0:41",
+    "End": "9/29/15 7:16",
     "Sleep quality": "76%",
     "Time in bed": "6:34",
     "Wake up": ":|",
@@ -10079,17 +4643,8 @@
     "Activity (steps)": 7130
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-09-30 00:11:46",
-    "End": "2015-09-30 07:30:20",
+    "Start": "9/30/15 0:11",
+    "End": "9/30/15 7:30",
     "Sleep quality": "84%",
     "Time in bed": "7:18",
     "Wake up": ":)",
@@ -10097,17 +4652,8 @@
     "Activity (steps)": 7056
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-09-30 23:38:15",
-    "End": "2015-10-01 06:45:21",
+    "Start": "9/30/15 23:38",
+    "End": "10/1/15 6:45",
     "Sleep quality": "81%",
     "Time in bed": "7:07",
     "Wake up": ":|",
@@ -10115,17 +4661,8 @@
     "Activity (steps)": 5584
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-10-01 22:41:13",
-    "End": "2015-10-02 06:45:17",
+    "Start": "10/1/15 22:41",
+    "End": "10/2/15 6:45",
     "Sleep quality": "88%",
     "Time in bed": "8:04",
     "Wake up": ":(",
@@ -10133,17 +4670,8 @@
     "Activity (steps)": 10342
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-10-04 23:40:16",
-    "End": "2015-10-05 07:18:34",
+    "Start": "10/4/15 23:40",
+    "End": "10/5/15 7:18",
     "Sleep quality": "87%",
     "Time in bed": "7:38",
     "Wake up": ":)",
@@ -10151,17 +4679,8 @@
     "Activity (steps)": 664
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-10-05 23:36:45",
-    "End": "2015-10-06 07:30:19",
+    "Start": "10/5/15 23:36",
+    "End": "10/6/15 7:30",
     "Sleep quality": "91%",
     "Time in bed": "7:53",
     "Wake up": ":)",
@@ -10169,17 +4688,8 @@
     "Activity (steps)": 5654
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-10-07 00:47:09",
-    "End": "2015-10-07 07:27:40",
+    "Start": "10/7/15 0:47",
+    "End": "10/7/15 7:27",
     "Sleep quality": "75%",
     "Time in bed": "6:40",
     "Wake up": ":)",
@@ -10187,17 +4697,8 @@
     "Activity (steps)": 6268
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-10-07 23:16:04",
-    "End": "2015-10-08 07:07:36",
+    "Start": "10/7/15 23:16",
+    "End": "10/8/15 7:07",
     "Sleep quality": "91%",
     "Time in bed": "7:51",
     "Wake up": ":)",
@@ -10205,17 +4706,8 @@
     "Activity (steps)": 4554
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-10-08 23:08:17",
-    "End": "2015-10-09 06:15:24",
+    "Start": "10/8/15 23:08",
+    "End": "10/9/15 6:15",
     "Sleep quality": "79%",
     "Time in bed": "7:07",
     "Wake up": ":|",
@@ -10223,17 +4715,8 @@
     "Activity (steps)": 6519
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-10-10 00:19:19",
-    "End": "2015-10-10 08:02:10",
+    "Start": "10/10/15 0:19",
+    "End": "10/10/15 8:02",
     "Sleep quality": "89%",
     "Time in bed": "7:42",
     "Wake up": ":)",
@@ -10241,17 +4724,8 @@
     "Activity (steps)": 7379
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-10-12 21:08:59",
-    "End": "2015-10-13 07:30:20",
+    "Start": "10/12/15 21:08",
+    "End": "10/13/15 7:30",
     "Sleep quality": "100%",
     "Time in bed": "10:21",
     "Wake up": ":)",
@@ -10259,17 +4733,8 @@
     "Activity (steps)": 5115
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-10-14 00:04:25",
-    "End": "2015-10-14 07:30:22",
+    "Start": "10/14/15 0:04",
+    "End": "10/14/15 7:30",
     "Sleep quality": "88%",
     "Time in bed": "7:25",
     "Wake up": ":|",
@@ -10277,17 +4742,8 @@
     "Activity (steps)": 8828
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-10-14 23:51:51",
-    "End": "2015-10-15 07:30:19",
+    "Start": "10/14/15 23:51",
+    "End": "10/15/15 7:30",
     "Sleep quality": "88%",
     "Time in bed": "7:38",
     "Wake up": ":)",
@@ -10295,17 +4751,8 @@
     "Activity (steps)": 7273
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-10-15 23:01:11",
-    "End": "2015-10-16 04:32:42",
+    "Start": "10/15/15 23:01",
+    "End": "10/16/15 4:32",
     "Sleep quality": "34%",
     "Time in bed": "5:31",
     "Wake up": ":|",
@@ -10313,17 +4760,8 @@
     "Activity (steps)": 6146
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-10-20 23:06:16",
-    "End": "2015-10-21 07:30:21",
+    "Start": "10/20/15 23:06",
+    "End": "10/21/15 7:30",
     "Sleep quality": "96%",
     "Time in bed": "8:24",
     "Wake up": ":|",
@@ -10331,17 +4769,8 @@
     "Activity (steps)": 4277
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-10-21 21:34:39",
-    "End": "2015-10-22 07:25:33",
+    "Start": "10/21/15 21:34",
+    "End": "10/22/15 7:25",
     "Sleep quality": "92%",
     "Time in bed": "9:50",
     "Wake up": ":|",
@@ -10349,17 +4778,8 @@
     "Activity (steps)": 5452
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-10-22 22:08:56",
-    "End": "2015-10-23 06:44:22",
+    "Start": "10/22/15 22:08",
+    "End": "10/23/15 6:44",
     "Sleep quality": "80%",
     "Time in bed": "8:35",
     "Wake up": ":|",
@@ -10367,17 +4787,8 @@
     "Activity (steps)": 6081
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-10-23 23:03:30",
-    "End": "2015-10-24 07:57:10",
+    "Start": "10/23/15 23:03",
+    "End": "10/24/15 7:57",
     "Sleep quality": "100%",
     "Time in bed": "8:53",
     "Wake up": ":)",
@@ -10385,17 +4796,8 @@
     "Activity (steps)": 5803
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-10-25 00:08:38",
-    "End": "2015-10-25 08:31:50",
+    "Start": "10/25/15 0:08",
+    "End": "10/25/15 8:31",
     "Sleep quality": "96%",
     "Time in bed": "8:23",
     "Wake up": ":)",
@@ -10403,17 +4805,8 @@
     "Activity (steps)": 579
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-10-25 22:53:14",
-    "End": "2015-10-26 07:30:22",
+    "Start": "10/25/15 22:53",
+    "End": "10/26/15 7:30",
     "Sleep quality": "99%",
     "Time in bed": "8:37",
     "Wake up": ":)",
@@ -10421,17 +4814,8 @@
     "Activity (steps)": 2404
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-10-26 23:29:09",
-    "End": "2015-10-27 07:28:04",
+    "Start": "10/26/15 23:29",
+    "End": "10/27/15 7:28",
     "Sleep quality": "91%",
     "Time in bed": "7:58",
     "Wake up": ":)",
@@ -10439,17 +4823,8 @@
     "Activity (steps)": 5504
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-10-27 23:39:41",
-    "End": "2015-10-28 07:30:26",
+    "Start": "10/27/15 23:39",
+    "End": "10/28/15 7:30",
     "Sleep quality": "88%",
     "Time in bed": "7:50",
     "Wake up": ":|",
@@ -10457,17 +4832,8 @@
     "Activity (steps)": 7972
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-10-28 23:21:52",
-    "End": "2015-10-29 07:37:36",
+    "Start": "10/28/15 23:21",
+    "End": "10/29/15 7:37",
     "Sleep quality": "97%",
     "Time in bed": "8:15",
     "Wake up": ":)",
@@ -10475,17 +4841,8 @@
     "Activity (steps)": 8347
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-10-29 23:39:32",
-    "End": "2015-10-30 06:35:24",
+    "Start": "10/29/15 23:39",
+    "End": "10/30/15 6:35",
     "Sleep quality": "81%",
     "Time in bed": "6:55",
     "Wake up": ":|",
@@ -10493,17 +4850,8 @@
     "Activity (steps)": 7144
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-10-31 00:07:52",
-    "End": "2015-10-31 08:27:09",
+    "Start": "10/31/15 0:07",
+    "End": "10/31/15 8:27",
     "Sleep quality": "97%",
     "Time in bed": "8:19",
     "Wake up": ":)",
@@ -10511,17 +4859,8 @@
     "Activity (steps)": 4090
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-11-01 01:01:31",
-    "End": "2015-11-01 07:45:06",
+    "Start": "11/1/15 1:01",
+    "End": "11/1/15 7:45",
     "Sleep quality": "79%",
     "Time in bed": "6:43",
     "Wake up": ":)",
@@ -10529,17 +4868,8 @@
     "Activity (steps)": 363
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-11-01 23:49:11",
-    "End": "2015-11-02 07:30:25",
+    "Start": "11/1/15 23:49",
+    "End": "11/2/15 7:30",
     "Sleep quality": "86%",
     "Time in bed": "7:41",
     "Wake up": ":)",
@@ -10547,17 +4877,8 @@
     "Activity (steps)": 4725
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-11-02 23:20:27",
-    "End": "2015-11-03 07:30:27",
+    "Start": "11/2/15 23:20",
+    "End": "11/3/15 7:30",
     "Sleep quality": "92%",
     "Time in bed": "8:10",
     "Wake up": ":|",
@@ -10565,17 +4886,8 @@
     "Activity (steps)": 6240
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-11-03 23:39:22",
-    "End": "2015-11-04 07:23:30",
+    "Start": "11/3/15 23:39",
+    "End": "11/4/15 7:23",
     "Sleep quality": "87%",
     "Time in bed": "7:44",
     "Wake up": ":|",
@@ -10583,17 +4895,8 @@
     "Activity (steps)": 7763
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-11-04 23:22:59",
-    "End": "2015-11-05 07:30:24",
+    "Start": "11/4/15 23:22",
+    "End": "11/5/15 7:30",
     "Sleep quality": "93%",
     "Time in bed": "8:07",
     "Wake up": ":)",
@@ -10601,17 +4904,8 @@
     "Activity (steps)": 5624
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-11-05 22:57:12",
-    "End": "2015-11-06 06:45:20",
+    "Start": "11/5/15 22:57",
+    "End": "11/6/15 6:45",
     "Sleep quality": "87%",
     "Time in bed": "7:48",
     "Wake up": ":|",
@@ -10619,17 +4913,8 @@
     "Activity (steps)": 6779
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-11-08 22:21:31",
-    "End": "2015-11-09 07:30:18",
+    "Start": "11/8/15 22:21",
+    "End": "11/9/15 7:30",
     "Sleep quality": "100%",
     "Time in bed": "9:08",
     "Wake up": ":)",
@@ -10637,17 +4922,8 @@
     "Activity (steps)": 226
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-11-09 23:41:20",
-    "End": "2015-11-10 07:30:21",
+    "Start": "11/9/15 23:41",
+    "End": "11/10/15 7:30",
     "Sleep quality": "88%",
     "Time in bed": "7:49",
     "Wake up": ":|",
@@ -10655,17 +4931,8 @@
     "Activity (steps)": 4891
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-11-10 22:32:37",
-    "End": "2015-11-11 07:30:20",
+    "Start": "11/10/15 22:32",
+    "End": "11/11/15 7:30",
     "Sleep quality": "100%",
     "Time in bed": "8:57",
     "Wake up": ":|",
@@ -10673,17 +4940,8 @@
     "Activity (steps)": 6721
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-11-11 23:39:42",
-    "End": "2015-11-12 07:27:34",
+    "Start": "11/11/15 23:39",
+    "End": "11/12/15 7:27",
     "Sleep quality": "81%",
     "Time in bed": "7:47",
     "Wake up": ":|",
@@ -10691,17 +4949,8 @@
     "Activity (steps)": 5235
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-11-13 00:45:52",
-    "End": "2015-11-13 06:32:25",
+    "Start": "11/13/15 0:45",
+    "End": "11/13/15 6:32",
     "Sleep quality": "65%",
     "Time in bed": "5:46",
     "Wake up": ":|",
@@ -10709,17 +4958,8 @@
     "Activity (steps)": 7842
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-11-13 22:42:29",
-    "End": "2015-11-14 05:57:21",
+    "Start": "11/13/15 22:42",
+    "End": "11/14/15 5:57",
     "Sleep quality": "81%",
     "Time in bed": "7:14",
     "Wake up": ":|",
@@ -10727,17 +4967,8 @@
     "Activity (steps)": 6384
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-11-14 23:20:39",
-    "End": "2015-11-15 08:02:55",
+    "Start": "11/14/15 23:20",
+    "End": "11/15/15 8:02",
     "Sleep quality": "97%",
     "Time in bed": "8:42",
     "Wake up": ":)",
@@ -10745,17 +4976,8 @@
     "Activity (steps)": 1108
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-11-15 23:53:41",
-    "End": "2015-11-16 07:01:02",
+    "Start": "11/15/15 23:53",
+    "End": "11/16/15 7:01",
     "Sleep quality": "84%",
     "Time in bed": "7:07",
     "Wake up": ":)",
@@ -10763,17 +4985,8 @@
     "Activity (steps)": 1071
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-11-17 01:39:39",
-    "End": "2015-11-17 07:05:33",
+    "Start": "11/17/15 1:39",
+    "End": "11/17/15 7:05",
     "Sleep quality": "63%",
     "Time in bed": "5:25",
     "Wake up": ":|",
@@ -10781,17 +4994,8 @@
     "Activity (steps)": 6129
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-11-17 23:08:39",
-    "End": "2015-11-18 07:14:09",
+    "Start": "11/17/15 23:08",
+    "End": "11/18/15 7:14",
     "Sleep quality": "93%",
     "Time in bed": "8:05",
     "Wake up": ":)",
@@ -10799,17 +5003,8 @@
     "Activity (steps)": 6110
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-11-18 22:24:05",
-    "End": "2015-11-19 07:27:31",
+    "Start": "11/18/15 22:24",
+    "End": "11/19/15 7:27",
     "Sleep quality": "96%",
     "Time in bed": "9:03",
     "Wake up": ":)",
@@ -10817,17 +5012,8 @@
     "Activity (steps)": 4479
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-11-19 23:25:36",
-    "End": "2015-11-20 06:19:57",
+    "Start": "11/19/15 23:25",
+    "End": "11/20/15 6:19",
     "Sleep quality": "75%",
     "Time in bed": "6:54",
     "Wake up": ":|",
@@ -10835,17 +5021,8 @@
     "Activity (steps)": 10006
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-11-21 00:22:41",
-    "End": "2015-11-21 08:51:37",
+    "Start": "11/21/15 0:22",
+    "End": "11/21/15 8:51",
     "Sleep quality": "97%",
     "Time in bed": "8:28",
     "Wake up": ":)",
@@ -10853,17 +5030,8 @@
     "Activity (steps)": 5583
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-11-22 00:19:08",
-    "End": "2015-11-22 08:57:02",
+    "Start": "11/22/15 0:19",
+    "End": "11/22/15 8:57",
     "Sleep quality": "98%",
     "Time in bed": "8:37",
     "Wake up": ":)",
@@ -10871,17 +5039,8 @@
     "Activity (steps)": 1296
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-11-22 23:30:00",
-    "End": "2015-11-23 07:27:29",
+    "Start": "11/22/15 23:30",
+    "End": "11/23/15 7:27",
     "Sleep quality": "87%",
     "Time in bed": "7:57",
     "Wake up": ":)",
@@ -10889,17 +5048,8 @@
     "Activity (steps)": 357
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-11-23 23:44:23",
-    "End": "2015-11-24 05:57:45",
+    "Start": "11/23/15 23:44",
+    "End": "11/24/15 5:57",
     "Sleep quality": "66%",
     "Time in bed": "6:13",
     "Wake up": ":)",
@@ -10907,17 +5057,8 @@
     "Activity (steps)": 6279
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-11-28 01:12:11",
-    "End": "2015-11-28 08:39:52",
+    "Start": "11/28/15 1:12",
+    "End": "11/28/15 8:39",
     "Sleep quality": "80%",
     "Time in bed": "7:27",
     "Wake up": ":)",
@@ -10925,17 +5066,8 @@
     "Activity (steps)": 918
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-11-29 00:22:46",
-    "End": "2015-11-29 07:33:42",
+    "Start": "11/29/15 0:22",
+    "End": "11/29/15 7:33",
     "Sleep quality": "73%",
     "Time in bed": "7:10",
     "Wake up": ":(",
@@ -10943,17 +5075,8 @@
     "Activity (steps)": 277
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-11-29 23:26:59",
-    "End": "2015-11-30 07:27:39",
+    "Start": "11/29/15 23:26",
+    "End": "11/30/15 7:27",
     "Sleep quality": "89%",
     "Time in bed": "8:00",
     "Wake up": ":)",
@@ -10961,17 +5084,8 @@
     "Activity (steps)": 1199
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-11-30 23:38:09",
-    "End": "2015-12-01 07:27:26",
+    "Start": "11/30/15 23:38",
+    "End": "12/1/15 7:27",
     "Sleep quality": "89%",
     "Time in bed": "7:49",
     "Wake up": ":|",
@@ -10979,17 +5093,8 @@
     "Activity (steps)": 5590
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-12-02 00:04:36",
-    "End": "2015-12-02 07:49:22",
+    "Start": "12/2/15 0:04",
+    "End": "12/2/15 7:49",
     "Sleep quality": "89%",
     "Time in bed": "7:44",
     "Wake up": ":)",
@@ -10997,17 +5102,8 @@
     "Activity (steps)": 4168
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-12-03 00:10:04",
-    "End": "2015-12-03 07:27:35",
+    "Start": "12/3/15 0:10",
+    "End": "12/3/15 7:27",
     "Sleep quality": "84%",
     "Time in bed": "7:17",
     "Wake up": ":)",
@@ -11015,17 +5111,8 @@
     "Activity (steps)": 6425
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-12-04 00:36:54",
-    "End": "2015-12-04 06:33:48",
+    "Start": "12/4/15 0:36",
+    "End": "12/4/15 6:33",
     "Sleep quality": "68%",
     "Time in bed": "5:56",
     "Wake up": ":|",
@@ -11033,17 +5120,8 @@
     "Activity (steps)": 7245
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-12-05 00:20:48",
-    "End": "2015-12-05 09:01:44",
+    "Start": "12/5/15 0:20",
+    "End": "12/5/15 9:01",
     "Sleep quality": "99%",
     "Time in bed": "8:40",
     "Wake up": ":)",
@@ -11051,17 +5129,8 @@
     "Activity (steps)": 7856
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-12-06 00:38:35",
-    "End": "2015-12-06 07:41:52",
+    "Start": "12/6/15 0:38",
+    "End": "12/6/15 7:41",
     "Sleep quality": "80%",
     "Time in bed": "7:03",
     "Wake up": ":|",
@@ -11069,17 +5138,8 @@
     "Activity (steps)": 239
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-12-06 22:49:24",
-    "End": "2015-12-07 07:14:42",
+    "Start": "12/6/15 22:49",
+    "End": "12/7/15 7:14",
     "Sleep quality": "95%",
     "Time in bed": "8:25",
     "Wake up": ":)",
@@ -11087,17 +5147,8 @@
     "Activity (steps)": 2363
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-12-07 23:42:06",
-    "End": "2015-12-08 07:15:10",
+    "Start": "12/7/15 23:42",
+    "End": "12/8/15 7:15",
     "Sleep quality": "79%",
     "Time in bed": "7:33",
     "Wake up": ":)",
@@ -11105,17 +5156,8 @@
     "Activity (steps)": 5785
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-12-08 23:36:09",
-    "End": "2015-12-09 07:12:38",
+    "Start": "12/8/15 23:36",
+    "End": "12/9/15 7:12",
     "Sleep quality": "84%",
     "Time in bed": "7:36",
     "Wake up": ":)",
@@ -11123,17 +5165,8 @@
     "Activity (steps)": 6612
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-12-10 00:36:32",
-    "End": "2015-12-10 07:16:13",
+    "Start": "12/10/15 0:36",
+    "End": "12/10/15 7:16",
     "Sleep quality": "71%",
     "Time in bed": "6:39",
     "Wake up": ":|",
@@ -11141,17 +5174,8 @@
     "Activity (steps)": 6406
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-12-10 23:41:10",
-    "End": "2015-12-11 06:18:54",
+    "Start": "12/10/15 23:41",
+    "End": "12/11/15 6:18",
     "Sleep quality": "77%",
     "Time in bed": "6:37",
     "Wake up": ":(",
@@ -11159,17 +5183,8 @@
     "Activity (steps)": 5542
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-12-11 23:48:36",
-    "End": "2015-12-12 08:28:18",
+    "Start": "12/11/15 23:48",
+    "End": "12/12/15 8:28",
     "Sleep quality": "98%",
     "Time in bed": "8:39",
     "Wake up": ":)",
@@ -11177,17 +5192,8 @@
     "Activity (steps)": 5952
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-12-13 00:14:13",
-    "End": "2015-12-13 08:07:54",
+    "Start": "12/13/15 0:14",
+    "End": "12/13/15 8:07",
     "Sleep quality": "84%",
     "Time in bed": "7:53",
     "Wake up": ":|",
@@ -11195,17 +5201,8 @@
     "Activity (steps)": 1155
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-12-15 00:10:35",
-    "End": "2015-12-15 07:58:08",
+    "Start": "12/15/15 0:10",
+    "End": "12/15/15 7:58",
     "Sleep quality": "90%",
     "Time in bed": "7:47",
     "Wake up": ":)",
@@ -11213,17 +5210,8 @@
     "Activity (steps)": 108
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-12-15 23:47:15",
-    "End": "2015-12-16 08:12:06",
+    "Start": "12/15/15 23:47",
+    "End": "12/16/15 8:12",
     "Sleep quality": "87%",
     "Time in bed": "8:24",
     "Wake up": ":)",
@@ -11231,17 +5219,8 @@
     "Activity (steps)": 503
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-12-16 23:45:10",
-    "End": "2015-12-17 06:57:15",
+    "Start": "12/16/15 23:45",
+    "End": "12/17/15 6:57",
     "Sleep quality": "63%",
     "Time in bed": "7:12",
     "Wake up": ":(",
@@ -11249,17 +5228,8 @@
     "Activity (steps)": 5404
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-12-18 00:11:36",
-    "End": "2015-12-18 07:03:47",
+    "Start": "12/18/15 0:11",
+    "End": "12/18/15 7:03",
     "Sleep quality": "77%",
     "Time in bed": "6:52",
     "Wake up": ":)",
@@ -11267,17 +5237,8 @@
     "Activity (steps)": 6542
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-12-19 00:46:03",
-    "End": "2015-12-19 09:14:20",
+    "Start": "12/19/15 0:46",
+    "End": "12/19/15 9:14",
     "Sleep quality": "83%",
     "Time in bed": "8:28",
     "Wake up": ":)",
@@ -11285,17 +5246,8 @@
     "Activity (steps)": 1366
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-12-20 00:08:21",
-    "End": "2015-12-20 10:01:14",
+    "Start": "12/20/15 0:08",
+    "End": "12/20/15 10:01",
     "Sleep quality": "87%",
     "Time in bed": "9:52",
     "Wake up": ":)",
@@ -11303,17 +5255,8 @@
     "Activity (steps)": 598
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-12-21 00:36:34",
-    "End": "2015-12-21 09:17:55",
+    "Start": "12/21/15 0:36",
+    "End": "12/21/15 9:17",
     "Sleep quality": "93%",
     "Time in bed": "8:41",
     "Wake up": ":)",
@@ -11321,17 +5264,8 @@
     "Activity (steps)": 569
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-12-21 23:37:15",
-    "End": "2015-12-22 07:02:39",
+    "Start": "12/21/15 23:37",
+    "End": "12/22/15 7:02",
     "Sleep quality": "80%",
     "Time in bed": "7:25",
     "Wake up": ":|",
@@ -11339,17 +5273,8 @@
     "Activity (steps)": 628
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-12-22 23:31:13",
-    "End": "2015-12-23 07:30:56",
+    "Start": "12/22/15 23:31",
+    "End": "12/23/15 7:30",
     "Sleep quality": "87%",
     "Time in bed": "7:59",
     "Wake up": ":|",
@@ -11357,17 +5282,8 @@
     "Activity (steps)": 1091
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-12-23 23:48:31",
-    "End": "2015-12-24 09:49:56",
+    "Start": "12/23/15 23:48",
+    "End": "12/24/15 9:49",
     "Sleep quality": "93%",
     "Time in bed": "10:01",
     "Wake up": ":)",
@@ -11375,17 +5291,8 @@
     "Activity (steps)": 1314
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-12-25 01:36:43",
-    "End": "2015-12-25 09:51:00",
+    "Start": "12/25/15 1:36",
+    "End": "12/25/15 9:51",
     "Sleep quality": "78%",
     "Time in bed": "8:14",
     "Wake up": ":|",
@@ -11393,17 +5300,8 @@
     "Activity (steps)": 1178
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-12-25 23:28:49",
-    "End": "2015-12-26 09:17:06",
+    "Start": "12/25/15 23:28",
+    "End": "12/26/15 9:17",
     "Sleep quality": "97%",
     "Time in bed": "9:48",
     "Wake up": ":)",
@@ -11411,17 +5309,8 @@
     "Activity (steps)": 1149
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-12-27 01:01:01",
-    "End": "2015-12-27 08:49:47",
+    "Start": "12/27/15 1:01",
+    "End": "12/27/15 8:49",
     "Sleep quality": "85%",
     "Time in bed": "7:48",
     "Wake up": ":)",
@@ -11429,17 +5318,8 @@
     "Activity (steps)": 710
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2015-12-27 23:38:40",
-    "End": "2015-12-28 09:52:27",
+    "Start": "12/27/15 23:38",
+    "End": "12/28/15 9:52",
     "Sleep quality": "96%",
     "Time in bed": "10:13",
     "Wake up": ":)",
@@ -11447,17 +5327,8 @@
     "Activity (steps)": 397
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2016-01-10 23:19:45",
-    "End": "2016-01-11 06:32:58",
+    "Start": "1/10/16 23:19",
+    "End": "1/11/16 6:32",
     "Sleep quality": "81%",
     "Time in bed": "7:13",
     "Wake up": ":)",
@@ -11465,17 +5336,8 @@
     "Activity (steps)": 746
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2016-01-11 22:35:18",
-    "End": "2016-01-12 06:25:56",
+    "Start": "1/11/16 22:35",
+    "End": "1/12/16 6:25",
     "Sleep quality": "79%",
     "Time in bed": "7:50",
     "Wake up": ":)",
@@ -11483,17 +5345,8 @@
     "Activity (steps)": 7188
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2016-01-12 23:09:58",
-    "End": "2016-01-13 06:42:33",
+    "Start": "1/12/16 23:09",
+    "End": "1/13/16 6:42",
     "Sleep quality": "76%",
     "Time in bed": "7:32",
     "Wake up": ":)",
@@ -11501,17 +5354,8 @@
     "Activity (steps)": 5193
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2016-01-13 23:07:46",
-    "End": "2016-01-14 06:28:06",
+    "Start": "1/13/16 23:07",
+    "End": "1/14/16 6:28",
     "Sleep quality": "80%",
     "Time in bed": "7:20",
     "Wake up": ":)",
@@ -11519,17 +5363,8 @@
     "Activity (steps)": 5581
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2016-01-14 22:30:42",
-    "End": "2016-01-15 06:04:41",
+    "Start": "1/14/16 22:30",
+    "End": "1/15/16 6:04",
     "Sleep quality": "76%",
     "Time in bed": "7:33",
     "Wake up": ":)",
@@ -11537,17 +5372,8 @@
     "Activity (steps)": 4845
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2016-01-15 23:34:12",
-    "End": "2016-01-16 07:42:36",
+    "Start": "1/15/16 23:34",
+    "End": "1/16/16 7:42",
     "Sleep quality": "73%",
     "Time in bed": "8:08",
     "Wake up": ":)",
@@ -11555,17 +5381,8 @@
     "Activity (steps)": 7332
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2016-01-16 23:54:57",
-    "End": "2016-01-17 07:49:26",
+    "Start": "1/16/16 23:54",
+    "End": "1/17/16 7:49",
     "Sleep quality": "89%",
     "Time in bed": "7:54",
     "Wake up": ":)",
@@ -11573,17 +5390,8 @@
     "Activity (steps)": 2265
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2016-01-17 22:26:40",
-    "End": "2016-01-18 06:27:17",
+    "Start": "1/17/16 22:26",
+    "End": "1/18/16 6:27",
     "Sleep quality": "81%",
     "Time in bed": "8:00",
     "Wake up": ":)",
@@ -11591,17 +5399,8 @@
     "Activity (steps)": 187
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2016-01-18 22:16:42",
-    "End": "2016-01-19 06:20:20",
+    "Start": "1/18/16 22:16",
+    "End": "1/19/16 6:20",
     "Sleep quality": "72%",
     "Time in bed": "8:03",
     "Wake up": ":)",
@@ -11609,17 +5408,8 @@
     "Activity (steps)": 5129
   },
   {
-    "Start": "",
-    "End": "",
-    "Sleep quality": "",
-    "Time in bed": "",
-    "Wake up": "",
-    "Sleep Notes": "",
-    "Activity (steps)": null
-  },
-  {
-    "Start": "2016-01-19 22:17:43",
-    "End": "2016-01-20 06:17:02",
+    "Start": "1/19/16 22:17",
+    "End": "1/20/16 6:17",
     "Sleep quality": "91%",
     "Time in bed": "7:59",
     "Wake up": ":)",
