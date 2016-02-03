@@ -20,6 +20,10 @@ function drawGraphic() {
     num_ticks = 5;
   }
 
+  function toolTip(point) {
+
+  }
+
   //clear out existing graphics
   $graphic.empty();
 
